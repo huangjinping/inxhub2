@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnView</string>
+    <string name="facebook_app_id">856483418490712</string>
+    <string name="fb_login_protocol_scheme">fb655051081819796</string>
+    <string name="living_accessKey">cd30feb3eeee0f8c</string>
+    <string name="living_secretKey">f08167bd2a493cd3</string>
+    <string name="living_again">Living  fail,please living again</string>
+</resources>
