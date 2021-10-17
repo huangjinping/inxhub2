@@ -1,5 +1,6 @@
 package com.inx.hub;
 
+import com.inx.hub.bean.DocUtils;
 import com.squareup.javapoet.CodeBlock;
 import com.squareup.javapoet.JavaFile;
 import com.squareup.javapoet.MethodSpec;
@@ -8,6 +9,7 @@ import com.squareup.javapoet.TypeSpec;
 import javax.lang.model.element.Modifier;
 import java.io.File;
 import java.io.IOException;
+import java.util.Random;
 
 public class javaClient {
 
@@ -17,9 +19,54 @@ public class javaClient {
     public static void main(String[] args) {
 //        testCreateUser();
 //        testCreateClient();
-        testmessage();
+//        testmessage();
+        createClass();
     }
 
+
+    private static void createClass() {
+        TypeSpec.Builder typeBuilder = TypeSpec.classBuilder("temp");
+        typeBuilder.addModifiers(Modifier.PUBLIC);
+        MethodSpec.Builder methodBuilder = MethodSpec.methodBuilder(DocUtils.getRadomWord());
+        generateMethods(methodBuilder);
+        typeBuilder.addMethod(methodBuilder.build());
+        JavaFile.Builder fileBuilder = JavaFile.builder("temp", typeBuilder.build());
+        JavaFile javaFile = JavaFile.builder(PACKAGE, typeBuilder.build())
+                .build();
+
+
+        try {
+            fileBuilder.build().writeTo(new File("template", "sss"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        String source = javaFile.toString();
+        //去掉类
+        int start = source.indexOf("{");
+        int end = source.lastIndexOf("}");
+        source = source.substring(start + 1, end);
+        System.out.println(source);
+
+        //去掉方法
+        start = source.indexOf("{");
+        end = source.lastIndexOf("}");
+        source = source.substring(start + 1, end);
+        System.out.println(source);
+    }
+
+
+    private static void generateMethods(MethodSpec.Builder methodBuilder) {
+        int index = DocUtils.getRandomInt(5);
+
+        Random random = new Random();
+        int temp = random.nextInt();
+        methodBuilder.addParameter(Integer[].class, "show");
+        methodBuilder.beginControlFlow("try")
+                .addStatement("throw new Exception($S)", "input  Errir  unkown  exception" + temp)
+                .nextControlFlow("catch ($T e)", Exception.class)
+                .addStatement("throw new $T(e)", RuntimeException.class)
+                .endControlFlow();
+    }
 
     private static void testmessage() {
         final String PACKAGE = "com";
@@ -47,11 +94,9 @@ public class javaClient {
         int start = source.indexOf("{");
         String result = source.substring(start + 1, source.length() - 2);
         System.out.println(result);
-        FileUtils.witermessage(result, "template/java1");
+        FileUtils.witermessage(result, "template/java/java1");
 
     }
-
-
 
 
 //    //创建一个调用实体类的类

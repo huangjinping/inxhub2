@@ -27,6 +27,10 @@ public class AESUtil {
 	}
 
 
+
+
+
+
 	public static String initkey() throws NoSuchAlgorithmException {
 
 		// 实例化密钥生成器

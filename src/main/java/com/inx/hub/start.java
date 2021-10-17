@@ -49,6 +49,37 @@ public class start {
     }
 
 
+
+    private static void startsFile() {
+        File file = new File("./", "res/shi2");
+        StringBuffer buffer = new StringBuffer();
+
+
+        try {
+            FileReader fileReader = new FileReader(file);
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            String line = bufferedReader.readLine();
+            while (line != null) {
+                if (line.length() > 0) {
+                    buffer.append("public static  final  String " + line.trim().toUpperCase() + " = StringReversal.decode(\"" + StringReversal.encode(line) + "\");");
+                    buffer.append("\n");
+                }
+                line = bufferedReader.readLine();
+            }
+            bufferedReader.close();
+            fileReader.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        witermessage(buffer.toString(), "ApiJson.java");
+
+    }
+
+
+
+
     private static void startFile() {
         File file = new File("./", "res/shi2");
         StringBuffer buffer = new StringBuffer();

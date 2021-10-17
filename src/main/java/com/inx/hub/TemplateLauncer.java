@@ -1,13 +1,11 @@
 package com.inx.hub;
 
+import com.inx.hub.bean.DocUtils;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.Version;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.StringWriter;
-import java.io.Writer;
+import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -16,7 +14,188 @@ public class TemplateLauncer {
     public static void main(String[] args) {
 
 //        demo1();
-        demo2();
+//        demo2();
+
+
+        String[] arrlist = {"FrameLayout.ftl", "Layout1.ftl", "RelativeLayout1.ftl", "TextView.ftl"};
+
+
+//        for (int i = 0; i < 10; i++) {
+//            int anInt = DocUtils.getRandomInt(arrlist.length);
+//            createTemplate(arrlist[anInt], "template/layout/TextView" + i + ".text");
+//        }
+
+        String[] arrJavalist = {"java1.ftl", "java2.ftl", "java3.ftl", "java4.ftl","java5.ftl"};
+
+        for (int i = 0; i < 10; i++) {
+            int anInt = DocUtils.getRandomInt(arrJavalist.length);
+            createJavaTemplate(arrJavalist[anInt], "template/java/" + i + ".text");
+        }
+    }
+
+
+    public static void createJavaTemplate(String temp, String pathName) {
+        try {
+
+            Template template = getConfiguration().getTemplate("ftl/" + temp);
+
+            Map paramter = getJavaParamter();
+//            Writer out = new FileWriter(new File("template/TextView.text"));
+            Writer out = new FileWriter(new File(pathName));
+            //8.生成静态文件
+            template.process(paramter, out);
+            //9.关闭流
+            out.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static Map getJavaParamter() {
+        Map map = new HashMap();
+        map.put("name", DocUtils.getRadomWord());
+        map.put("name0", DocUtils.getRadomWord());
+        map.put("name1", DocUtils.getRadomWord());
+        map.put("name2", DocUtils.getRadomWord());
+        map.put("name3", DocUtils.getRadomWord());
+        map.put("name4", DocUtils.getRadomWord());
+
+
+        map.put("key",DocUtils.getRadomWord());
+        map.put("key1",DocUtils.getRadomWord());
+        map.put("key2",DocUtils.getRadomWord());
+        map.put("key3",DocUtils.getRadomWord());
+        map.put("key4",DocUtils.getRadomWord());
+
+
+        map.put("show",DocUtils.getBool());
+        map.put("show1",DocUtils.getBool());
+        map.put("show2",DocUtils.getBool());
+        map.put("show3",DocUtils.getBool());
+        map.put("show4",DocUtils.getBool());
+
+
+        map.put("len", DocUtils.getRandomInt(10));
+        map.put("len1", DocUtils.getRandomInt(10));
+        map.put("len2", DocUtils.getRandomInt(10));
+        map.put("len3", DocUtils.getRandomInt(10));
+        map.put("len4", DocUtils.getRandomInt(10));
+
+
+        return map;
+    }
+
+
+    public static void createTemplate(String temp, String pathName) {
+        try {
+
+            Template template = getConfiguration().getTemplate("ftl/" + temp);
+
+            Map paramter = getTextParamter();
+//            Writer out = new FileWriter(new File("template/TextView.text"));
+            Writer out = new FileWriter(new File(pathName));
+            //8.生成静态文件
+            template.process(paramter, out);
+            //9.关闭流
+            out.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+
+    public static void createEextView(String pathName) {
+        try {
+
+            Template template = getConfiguration().getTemplate("ftl/EditText.ftl");
+
+            Map paramter = getTextParamter();
+//            Writer out = new FileWriter(new File("template/TextView.text"));
+            Writer out = new FileWriter(new File(pathName));
+            //8.生成静态文件
+            template.process(paramter, out);
+            //9.关闭流
+            out.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+
+    private static Map getTextParamter() {
+        Map map = new HashMap();
+        map.put("id", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("id1", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("id2", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("id3", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("id4", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("id5", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("id6", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("id7", DocUtils.getRadomWord() + DocUtils.getRadomWord());
+        map.put("width", DocUtils.getRandomString());
+        map.put("height", DocUtils.getRandomString());
+        map.put("margin", DocUtils.getRandomString());
+        map.put("marginLeft", DocUtils.getRandomString());
+        map.put("marginTop", DocUtils.getRandomString());
+        map.put("marginEnd", DocUtils.getRandomString());
+        map.put("marginRight", DocUtils.getRandomString());
+        map.put("backgroundColor", DocUtils.getRandColorCode());
+        map.put("hint", DocUtils.getRadomWord());
+        map.put("lines", DocUtils.getRandomString(10));
+        map.put("maxLength", DocUtils.getRandomString(10));
+        map.put("padding", DocUtils.getRandomString());
+        map.put("paddingStart", DocUtils.getRandomString());
+        map.put("paddingTop", DocUtils.getRandomString());
+        map.put("paddingEnd", DocUtils.getRandomString());
+        map.put("paddingLeft", DocUtils.getRandomString());
+        map.put("paddingRight", DocUtils.getRandomString());
+        map.put("paddingBottom", DocUtils.getRandomString());
+
+
+        map.put("color", DocUtils.getRandColorCode());
+
+
+        map.put("textColor", DocUtils.getRandColorCode());
+        map.put("textColor1", DocUtils.getRandColorCode());
+        map.put("textColor2", DocUtils.getRandColorCode());
+        map.put("textColor3", DocUtils.getRandColorCode());
+        map.put("textColor4", DocUtils.getRandColorCode());
+
+        map.put("isMargin", DocUtils.getBool());
+        map.put("text", DocUtils.getRadomWord());
+        map.put("text1", DocUtils.getRadomWord());
+        map.put("text2", DocUtils.getRadomWord());
+        map.put("text3", DocUtils.getRadomWord());
+        map.put("text4", DocUtils.getRadomWord());
+
+
+        map.put("isMargin", DocUtils.getBool());
+        map.put("isBackground", DocUtils.getBool());
+        map.put("isHint", DocUtils.getBool());
+        map.put("isLayoutGravity", DocUtils.getBool());
+        map.put("isLines", DocUtils.getBool());
+        map.put("isPadding", DocUtils.getBool());
+        map.put("isTextColor", DocUtils.getBool());
+        map.put("isWidth", DocUtils.getBool());
+
+        map.put("isGone1", DocUtils.getBool());
+        map.put("isGone2", DocUtils.getBool());
+        map.put("isGone3", DocUtils.getBool());
+        map.put("isGone4", DocUtils.getBool());
+
+
+        return map;
+    }
+
+
+    private static Configuration getConfiguration() throws IOException {
+        Configuration configuration = new Configuration(Configuration.getVersion());
+        configuration.setDirectoryForTemplateLoading(new File("src/main/resources"));
+        configuration.setDefaultEncoding("utf-8");
+        return configuration;
     }
 
 

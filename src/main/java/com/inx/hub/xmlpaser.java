@@ -15,11 +15,11 @@ import java.util.Map;
 public class xmlpaser {
 
     public static void main(String[] args) {
-        System.out.println("---------");
+        System.out.println("-----092d9530a9e8ddf3c66450eb54c8ac79----");
 
         try {
             List<Map<String, String>> strings = parseMethod1();
-            generate(strings,"xml/stringsResult.xml","092d9530a9e8ddf3c66450eb54c8ac79");
+            generate(strings,"xml/stringsResult.xml","cb39f8d3f33623ce3386eeb907c1c8f8");
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -50,10 +50,14 @@ public class xmlpaser {
         for (Map<String, String> map : source
         ) {
             for (Map.Entry<String, String> entry : map.entrySet()) {
-                Element product = root.addElement("String");
+                Element product = root.addElement("string");
                 product.addAttribute("name", entry.getKey());
-                product.setText(AESUtil.encrypt(entry.getValue(),"092d9530a9e8ddf3c66450eb54c8ac79"));
-
+                String value=entry.getValue();
+                if (value.contains("%s")){
+                    product.setText(value);
+                }else{
+                    product.setText(AESUtil.encrypt(entry.getValue(),key));
+                }
             }
         }
 
