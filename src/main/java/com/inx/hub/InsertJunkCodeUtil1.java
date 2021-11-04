@@ -11,77 +11,20 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class InsertJunkCodeUtil {
+public class InsertJunkCodeUtil1 {
 
-    //////////////////////////////////////////////////////////////////////////////////////////////
-
-    /**
-     * 包名, 用于导包
-     */
-    private static final String pkgName = "com.limon.prestamo.android.es";
-
-    /**
-     * java/kotlin代码所在目录
-     */
-    private static final String PROJECT_PATH = File.separator
-            + "app" + File.separator
-            + "src" + File.separator
-            + "main" + File.separator
-            + "java" + File.separator
-            + "com" + File.separator
-            + "limon" + File.separator
-            + "prestamo" + File.separator
-            + "android" + File.separator
-            + "es" + File.separator;
-
-    /**
-     * layout目录
-     */
-    private static final String PROJECT_PATH_RES_LAYOUT = File.separator
-            + "app" + File.separator
-            + "src" + File.separator
-            + "main" + File.separator
-            + "res" + File.separator
-            + "layout" + File.separator;
-
-
-    /**
-     * 当前工具类所在目录不需插入垃圾代码
-     */
-    private static final String CODE_TEMPLATE = "builds";
-    private static final String RES_TEMPLATE = "res";
-    private static final String JAVA_TEMPLATE = "java";
-    private static final String KOTLIN_TEMPLATE = "kotlin";
-
-    /**
-     * 垃圾代码文件名
-     */
-    private static final String FILE_NAME_JAVA_CODE = "javaCode";
-    private static final String FILE_NAME_RES_LAYOUT = "resLayout";
-    private static final String FILE_NAME_KOTLIN_CODE = "kotlinCode";
-
-    /**
-     * 垃圾代码后面的数字， 用于随机获取垃圾代码文件
-     */
-    private static final int javaCodeLen = 100;
-    private static final int kotlinCodeLen = 100;
-    private static final int layoutCodeLen = 200;
-
-
-    //////////////////////////////////////////////////////////////////////////////////////////////
+    private static final String PROJECT_PATH = "\\app\\src\\main\\java\\com\\app\\winsikka\\";
+    private static final String CODE_TEMPLATE = "codes"; // 当前工具类所在目录不需插入垃圾代码
 
     public static void main(String[] args) {
 
         String rootPath = getProjectPath(); // D:\\workspace\\codeBackups\\RupeeAdda
         String path = rootPath + PROJECT_PATH;
-        String pathRes = rootPath + PROJECT_PATH_RES_LAYOUT;
-        System.out.println("rootPath" + rootPath);
-        System.out.println("path" + path);
+        System.out.println(rootPath);
+        System.out.println(path);
         // 遍历工程所有文件并插入垃圾代码
         insertJunkCode(path);
-//        insertJunkRes(pathRes);
     }
-
 
     private static String getProjectPath() {
         File directory = new File("");//设定为当前文件夹
@@ -95,36 +38,15 @@ public class InsertJunkCodeUtil {
      */
     private static String readJavaJunkCodes() {
         Random ra = new Random();
-        int nextInt = ra.nextInt(javaCodeLen);
-        String readCode = readCode(getProjectPath() + PROJECT_PATH
-                + CODE_TEMPLATE + File.separator
-                + JAVA_TEMPLATE + File.separator
-                + FILE_NAME_JAVA_CODE + nextInt);
-        return readCode;
-    }
-
-    /**
-     * 读取垃圾代码
-     *
-     * @return
-     */
-    private static String readLayoutJunkCodes() {
-        Random ra = new Random();
-        int nextInt = ra.nextInt(layoutCodeLen);
-        String readCode = readCode(getProjectPath() + PROJECT_PATH
-                + CODE_TEMPLATE + File.separator
-                + RES_TEMPLATE + File.separator
-                + FILE_NAME_RES_LAYOUT + nextInt);
+        int nextInt = ra.nextInt(10);
+        String readCode = readCode(getProjectPath() + PROJECT_PATH + CODE_TEMPLATE + "\\javaCode" + nextInt);
         return readCode;
     }
 
     private static String readKotlinJunkCodes() {
         Random ra = new Random();
-        int nextInt = ra.nextInt(kotlinCodeLen);
-        String readCode = readCode(getProjectPath() + PROJECT_PATH
-                + CODE_TEMPLATE + File.separator
-                + KOTLIN_TEMPLATE + File.separator
-                + FILE_NAME_KOTLIN_CODE + nextInt);
+        int nextInt = ra.nextInt(10);
+        String readCode = readCode(getProjectPath() + PROJECT_PATH + CODE_TEMPLATE + "\\kotlinCode" + nextInt);
         return readCode;
     }
 
@@ -205,75 +127,6 @@ public class InsertJunkCodeUtil {
         System.out.println("file count: " + count);
     }
 
-    private static void insertJunkRes(String pathRes) {
-
-        File file = new File(pathRes);
-        if (file.exists()) {
-            File[] files = file.listFiles();
-            if (null != files) {
-                for (File file2 : files) {
-                    String absolutePath = file2.getAbsolutePath();
-                    if (file2.isDirectory()) {
-                        insertJunkCode(absolutePath);
-                    } else {
-                        count++;
-                        if (!absolutePath.contains(CODE_TEMPLATE)) {
-                            if (absolutePath.endsWith(".xml")) {
-                                // layout
-                                String s = readLayoutFile(absolutePath);
-                                writerFile(absolutePath, s);
-                                System.out.println(absolutePath + "\n------------------------------> Insert junk layout is complete!!!");
-                            }
-                        }
-                    }
-                }
-            }
-        } else {
-            System.out.println("文件不存在!!!");
-        }
-        System.out.println("file count: " + count);
-    }
-
-    private static String readLayoutFile(String absolutePath) {
-        List<String> list = new ArrayList<>();
-        BufferedReader reader = null;
-        StringBuilder lastStr = new StringBuilder();
-        try {
-            FileInputStream fileInputStream = new FileInputStream(absolutePath);
-            InputStreamReader inputStreamReader = new InputStreamReader(fileInputStream, "UTF-8");
-            reader = new BufferedReader(inputStreamReader);
-            String tempString;
-            while ((tempString = reader.readLine()) != null) {
-                list.add(tempString);
-            }
-            reader.close();
-        } catch (IOException e) {
-            System.out.println("readLayoutFile: " + e.toString());
-        } finally {
-            if (reader != null) {
-                try {
-                    reader.close();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-        }
-
-        List<String> newList = new ArrayList<>();
-        for (int i = 0; i < list.size(); i++) {
-            String currentLine = list.get(i);
-            if (currentLine.contains("<TextView")
-                    || currentLine.contains("<" + pkgName + ".limon882view.LimTextView")) {
-                newList.add(readLayoutJunkCodes());
-            }
-            newList.add(currentLine);
-        }
-        for (String s : newList) {
-            lastStr.append(s).append("\n");
-        }
-        return lastStr.toString();
-    }
-
 
     /**
      * 遍历工程所有文件, 将普通方法插入垃圾代码, 转出字符串
@@ -326,21 +179,6 @@ public class InsertJunkCodeUtil {
                 }
             } else {
                 newList.add(currentLine);
-            }
-            String importStr = "import java.util.ArrayList;\n" +
-                    "import java.util.HashMap;\n" +
-                    "import java.util.List;\n" +
-                    "import java.util.List;\n" +
-                    "import java.util.Collections;\n" +
-                    "import android.util.Log;\n" +
-                    "import java.util.Arrays;\n" +
-                    "import java.util.Calendar;\n" +
-                    "import android.os.Build;\n" +
-                    "import " + pkgName + ".BuildConfig;\n" +
-                    "import java.util.Map;";
-
-            if (currentLine.contains("package ") && !currentLine.contains("_package")) {
-                newList.add(importStr);
             }
         }
         for (String s : newList) {

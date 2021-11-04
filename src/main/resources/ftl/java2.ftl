@@ -15,15 +15,15 @@ try {
 
             if (!(buffer instanceof StringBuffer)) {
                 buffer.append("${name1}".getClass().getFields().toString());
-                for (int i = 0; i < "${name2}".getClass().getFields().length; i++) {
+                for (int ${name5} = 0; ${name5} < "${name2}".getClass().getFields().length; ${name5}++) {
                     <#if show1 ==1>
-                    String ${key3}  = "${name3}".toString();
+                    String ${key3}  = "${name3}".toString()+${name5};
                     buffer.append(${key3}.toString());
                     </#if>
                     <#if show2 ==1>
                     ${name1} = ${name2} + ${name3};
                     </#if>
-                    buffer.append(${name1});
+                    buffer.append(${name1}+${name5});
 
                 }
             }else {
@@ -36,7 +36,7 @@ try {
                 }
                 </#if>
             }
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (Exception ${key5}) {
+            ${key5}.printStackTrace();
         }
 //--------------end---------------

@@ -1,0 +1,11 @@
+        //--------------------------j code--start---------------------------
+        try {
+            String str1laji = "qwertyu, sdfgfd+sdfghjjj";
+            String str2laji = "98765434567890";
+             int iiiii = str1laji.length() + str2laji.length();
+            String sssss = str1laji + iiiii + str2laji;
+            sssss = null;
+        } catch (Exception javaCode0e) {
+
+        }
+        //--------------------------j code--end---------------------------

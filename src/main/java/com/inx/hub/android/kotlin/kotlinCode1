@@ -1,0 +1,17 @@
+        //--------------------------kotlin junk code--start---------------------------
+        try {
+            var nameKotlinCode1 = "asd"
+            nameKotlinCode1.indexOf("a").takeIf { it >= 0 }?.let {
+                nameKotlinCode1.plus("qwe")
+            }
+            nameKotlinCode1.indexOf("d")
+                    .takeUnless {
+                        it < 0
+                    }
+                    ?.let {
+                        val length = nameKotlinCode1.length
+                        nameKotlinCode1 += length
+                    }
+        } catch (eKotlinCode1: Exception) {
+        }
+        //--------------------------kotlin junk code--end---------------------------

@@ -4,7 +4,7 @@
                     <#if show4 ==1>
                     String ${name1} = Thread.currentThread().getName();
                     <#else>
-                    String ${name1} = "${name3}";
+                    String ${name1} = "${name3}${name4}";
                     </#if>
                     String ${name2} = "${name2}" + "${name1}";
                     int ${key} = ${len};
@@ -34,7 +34,7 @@
                         ${name3} = ${key} + ${name3} + ${name2};
                         System.out.println(${name3});
                     }
-                } catch (Exception e) {
-                    e.printStackTrace();
+                } catch (Exception ${key5}) {
+                    ${key5}.printStackTrace();
                 }
 //--------------end---------------

@@ -1,0 +1,11 @@
+        //--------------------------j code--start---------------------------
+        try {
+            StringBuilder sbla = new StringBuilder();
+            for (int iLaJi1 = 0; iLaJi1 < 3; iLaJi1++) {
+             sbla.append(iLaJi1 + "----->" + "0000");
+            }
+            sbla = null;
+        } catch (Exception javaCode1e) {
+
+        }
+        //--------------------------j code--end---------------------------

@@ -76,10 +76,22 @@ public class DocUtils {
     }
 
 
+
+
+
+
+
     public static String getRadomWord() {
         String[] array = getArray();
         Random random = new Random();
         int nextInt = random.nextInt(array.length - 1);
+
+        try {
+            return array[nextInt];
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
         return array[nextInt];
     }
 

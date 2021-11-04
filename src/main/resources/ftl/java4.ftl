@@ -11,7 +11,7 @@
                 ${name2} = "${name1} ${name3} ${key1}";
                 </#if>
                 <#if show1 == 1>
-                while (${name2}.contains("${name4}")) {
+                while (${name2}.contains("${name4}${name1}")) {
                     <#if show4 == 1 >
                     ${key4} = ${name2}.indexOf("${key}", ${len});
                     </#if>
@@ -31,7 +31,7 @@
                 String ${name3} = ${name4}.substring(${key4});
                 Log.d("${name3}", ${key3}.toString() + "${name4}" + ${name2});
             }
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (Exception ${key5}) {
+            ${key5}.printStackTrace();
         }
 //--------------end---------------

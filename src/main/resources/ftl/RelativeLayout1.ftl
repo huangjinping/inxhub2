@@ -1,6 +1,5 @@
 //--------------start---------------
 <RelativeLayout
-        android:id="@+id/layout_${id}"
         android:layout_width="match_parent"
         android:visibility="gone"
         android:layout_height="wrap_content">
@@ -40,7 +39,6 @@
                 android:textSize="14sp"></TextView>
 
         <TextView
-                android:id="@+id/txt_${id}"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="left"
@@ -54,7 +52,6 @@
 
     <#if isGone3 ==1>
     <ImageView
-            android:id="@+id/img_${id}_${id1}"
             android:layout_width="match_parent"
             android:src="#${color}"
             <#if isPadding==1>

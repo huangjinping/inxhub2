@@ -12,7 +12,6 @@
             android:orientation="horizontal">
 
         <TextView
-                android:id="@+id/txt_${id1}"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -25,7 +24,6 @@
 
         <#if isGone1 == 1>
         <TextView
-                android:id="@+id/txt__${id2}"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -37,7 +35,6 @@
         </#if>
         <#if isGone2 == 1>
         <TextView
-                android:id="@+id/txt__${id2}"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"

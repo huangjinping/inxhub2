@@ -41,6 +41,6 @@ try {
             </#if>
 
 
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (Exception ${key5}) {
+            ${key5}.printStackTrace();
         }

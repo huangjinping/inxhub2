@@ -17,8 +17,8 @@ public class start {
 //        witermessage(buffer.toString(),"shi.java");
 
 
-//        startFile();
-        actiona();
+        startFile();
+//        actiona();
 
     }
 
@@ -49,11 +49,9 @@ public class start {
     }
 
 
-
     private static void startsFile() {
         File file = new File("./", "res/shi2");
         StringBuffer buffer = new StringBuffer();
-
 
         try {
             FileReader fileReader = new FileReader(file);
@@ -78,8 +76,6 @@ public class start {
     }
 
 
-
-
     private static void startFile() {
         File file = new File("./", "res/shi2");
         StringBuffer buffer = new StringBuffer();
@@ -91,7 +87,7 @@ public class start {
             String line = bufferedReader.readLine();
             while (line != null) {
                 if (line.length() > 0) {
-                    buffer.append("public static  final  String " + line.trim().toUpperCase() + " = StringReversal.decode(\"" + StringReversal.encode(line) + "\");");
+                    buffer.append("public static  final  String " + line.trim().toUpperCase() + " = AESUtil.decrypt(\"" + AESUtil.encrypt(line, "fc7b85511b89f52afa67f937436d158a") + "\");");
                     buffer.append("\n");
                 }
                 line = bufferedReader.readLine();

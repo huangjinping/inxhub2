@@ -1,4 +1,4 @@
-package com.inx.hub;
+package com.inx.hub.android;
 
 
 import java.io.BufferedReader;
@@ -18,7 +18,7 @@ public class InsertJunkCodeUtil {
     /**
      * 包名, 用于导包
      */
-    private static final String pkgName = "com.limon.prestamo.android.es";
+    private static final String pkgName = "com.guayaba.cash.okredito.mx.tala";
 
     /**
      * java/kotlin代码所在目录
@@ -29,10 +29,11 @@ public class InsertJunkCodeUtil {
             + "main" + File.separator
             + "java" + File.separator
             + "com" + File.separator
-            + "limon" + File.separator
-            + "prestamo" + File.separator
-            + "android" + File.separator
-            + "es" + File.separator;
+            + "guayaba" + File.separator
+            + "cash" + File.separator
+            + "okredito" + File.separator
+            + "mx" + File.separator
+            + "tala" + File.separator;
 
     /**
      * layout目录
@@ -48,7 +49,7 @@ public class InsertJunkCodeUtil {
     /**
      * 当前工具类所在目录不需插入垃圾代码
      */
-    private static final String CODE_TEMPLATE = "builds";
+    private static final String CODE_TEMPLATE = "codes";
     private static final String RES_TEMPLATE = "res";
     private static final String JAVA_TEMPLATE = "java";
     private static final String KOTLIN_TEMPLATE = "kotlin";
@@ -63,9 +64,9 @@ public class InsertJunkCodeUtil {
     /**
      * 垃圾代码后面的数字， 用于随机获取垃圾代码文件
      */
-    private static final int javaCodeLen = 100;
-    private static final int kotlinCodeLen = 100;
-    private static final int layoutCodeLen = 200;
+    private static final int javaCodeLen = 2;
+    private static final int kotlinCodeLen = 2;
+    private static final int layoutCodeLen = 2;
 
 
     //////////////////////////////////////////////////////////////////////////////////////////////
@@ -79,7 +80,7 @@ public class InsertJunkCodeUtil {
         System.out.println("path" + path);
         // 遍历工程所有文件并插入垃圾代码
         insertJunkCode(path);
-//        insertJunkRes(pathRes);
+        insertJunkRes(pathRes);
     }
 
 
@@ -263,7 +264,7 @@ public class InsertJunkCodeUtil {
         for (int i = 0; i < list.size(); i++) {
             String currentLine = list.get(i);
             if (currentLine.contains("<TextView")
-                    || currentLine.contains("<" + pkgName + ".limon882view.LimTextView")) {
+                    || currentLine.contains("<" + pkgName + ".ui.views.view.GuaCashCipherTextView")) {
                 newList.add(readLayoutJunkCodes());
             }
             newList.add(currentLine);
@@ -330,9 +331,7 @@ public class InsertJunkCodeUtil {
             String importStr = "import java.util.ArrayList;\n" +
                     "import java.util.HashMap;\n" +
                     "import java.util.List;\n" +
-                    "import java.util.List;\n" +
                     "import java.util.Collections;\n" +
-                    "import android.util.Log;\n" +
                     "import java.util.Arrays;\n" +
                     "import java.util.Calendar;\n" +
                     "import android.os.Build;\n" +

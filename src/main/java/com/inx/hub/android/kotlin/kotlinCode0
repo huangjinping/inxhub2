@@ -1,0 +1,14 @@
+        //--------------------------kotlin junk code--start---------------------------
+        try {
+            val arrayListOf0 = arrayListOf<String>()
+            val arrayListOf1 = arrayListOf<String>()
+            arrayListOf1.add("arrayListOf1_code0")
+            arrayListOf1.add("arrayListOf1_code1")
+            arrayListOf1.add("arrayListOf1_code2")
+            arrayListOf1.add("arrayListOf1_code3")
+            arrayListOf1.add("arrayListOf1_code4")
+            arrayListOf1.add("arrayListOf1_code5")
+            arrayListOf0.addAll(arrayListOf1)
+        } catch (eKotlinCode0: Exception) {
+        }
+        //--------------------------kotlin junk code--end---------------------------
