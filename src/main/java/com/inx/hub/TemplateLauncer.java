@@ -17,20 +17,22 @@ public class TemplateLauncer {
 //        demo2();
 
 
-//        String[] arrlist = {"FrameLayout.ftl", "Layout1.ftl", "RelativeLayout1.ftl", "TextView.ftl"};
-////
-////
-//        for (int i = 0; i < 200; i++) {
-//            int anInt = DocUtils.getRandomInt(arrlist.length);
-//            createTemplate(arrlist[anInt], "template/res/resLayout" + i + "");
-//        }
+        String[] arrlist = {"FrameLayout.ftl", "Layout1.ftl", "RelativeLayout1.ftl", "TextView.ftl"};
+
+        for (int i = 0; i < 100; i++) {
+            int anInt = DocUtils.getRandomInt(arrlist.length);
+            createTemplate(arrlist[anInt], "template/res/resLayout" + i + "");
+        }
 
         String[] arrJavalist = {"java1.ftl", "java2.ftl", "java3.ftl", "java4.ftl", "java5.ftl"};
-////
         for (int i = 0; i < 100; i++) {
             int anInt = DocUtils.getRandomInt(arrJavalist.length);
             createJavaTemplate(arrJavalist[anInt], "template/java/javaCode" + i + "");
         }
+
+//        String[] array = DocUtils.getArray();
+//        Gson gson = new Gson();
+//        FileUtils.witermessage(gson.toJson(array), "template/result.json");
 
 //        createJavaTemplate(arrJavalist[0], "template/java/javaCode");
 
@@ -65,7 +67,6 @@ public class TemplateLauncer {
         map.put("name4", DocUtils.getRadomWord());
         map.put("name5", DocUtils.getRadomWord());
 
-
         map.put("key", DocUtils.getRadomWord());
         map.put("key1", DocUtils.getRadomWord());
         map.put("key2", DocUtils.getRadomWord());
@@ -73,20 +74,17 @@ public class TemplateLauncer {
         map.put("key4", DocUtils.getRadomWord());
         map.put("key5", DocUtils.getRadomWord());
 
-
         map.put("show", DocUtils.getBool());
         map.put("show1", DocUtils.getBool());
         map.put("show2", DocUtils.getBool());
         map.put("show3", DocUtils.getBool());
         map.put("show4", DocUtils.getBool());
 
-
         map.put("len", DocUtils.getRandomInt(10));
         map.put("len1", DocUtils.getRandomInt(10));
         map.put("len2", DocUtils.getRandomInt(10));
         map.put("len3", DocUtils.getRandomInt(10));
         map.put("len4", DocUtils.getRandomInt(10));
-
 
         return map;
     }

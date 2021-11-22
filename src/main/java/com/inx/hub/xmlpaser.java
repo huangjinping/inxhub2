@@ -14,16 +14,20 @@ import java.util.Map;
 
 public class xmlpaser {
 
+    private static final String unit = "";
+
     public static void main(String[] args) {
-        System.out.println("-----092d9530a9e8ddf3c66450eb54c8ac79----");
+        System.out.println("--------cb39f8d3f33623ce3386eeb907c1c8f8-");
+//        e4bc2a19ff4fba5db96b80be17791e54
 
         try {
             List<Map<String, String>> strings = parseMethod1();
-            generate(strings,"xml/stringsResult.xml","cb39f8d3f33623ce3386eeb907c1c8f8");
+            generate(strings, "xml/stringsResult.xml", "e4bc2a19ff4fba5db96b80be17791e54");
 
         } catch (Exception e) {
             e.printStackTrace();
         }
+
     }
 
     public static List<Map<String, String>> parseMethod1() throws DocumentException {
@@ -44,7 +48,7 @@ public class xmlpaser {
     }
 
 
-    public static void generate(List<Map<String, String>> source, String fileName,String key) {
+    public static void generate(List<Map<String, String>> source, String fileName, String key) {
         Document doc = DocumentHelper.createDocument();
         Element root = doc.addElement("resources");
         for (Map<String, String> map : source
@@ -52,11 +56,11 @@ public class xmlpaser {
             for (Map.Entry<String, String> entry : map.entrySet()) {
                 Element product = root.addElement("string");
                 product.addAttribute("name", entry.getKey());
-                String value=entry.getValue();
-                if (value.contains("%s")){
+                String value = entry.getValue();
+                if (value.contains("%s")) {
                     product.setText(value);
-                }else{
-                    product.setText(AESUtil.encrypt(entry.getValue(),key));
+                } else {
+                    product.setText(unit + AESUtil.encrypt(entry.getValue(), key));
                 }
             }
         }

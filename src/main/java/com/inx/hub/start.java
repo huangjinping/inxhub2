@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.util.regex.Pattern;
 
 public class start {
 
@@ -16,12 +17,32 @@ public class start {
 //        }
 //        witermessage(buffer.toString(),"shi.java");
 
-
         startFile();
 //        actiona();
 
+
+        String str = "  R.id.bottom1   R.id.bottom ";
+//        str = str.replace("R.string.name(?!<=[_0-9a-zA-Z])", "111");
+
+        str = Pattern.compile("R.id.bottom(?![_0-9a-zA-Z])").matcher(str).replaceAll("111");
+        System.out.println(str);
     }
 
+
+//    /**
+//     * 替换所有正则匹配的部分
+//     *
+//     * @param input       要替换的字符串
+//     * @param regex       正则表达式
+//     * @param replacement 代替者
+//     * @return 替换所有正则匹配的部分
+//     */
+//    public static String getReplaceAll(final String input,
+//                                       final String regex,
+//                                       final String replacement) {
+//        if (input == null) return null;
+//        return Pattern.compile(regex).matcher(input).replaceAll(replacement);
+//    }
 
     private static void readFile() {
 
