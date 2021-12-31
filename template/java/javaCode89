@@ -1,0 +1,22 @@
+
+//--------------start---------------
+ try {
+            int peondivergent = 1;
+            int unitejunkfood = 8;
+            if (peondivergent < -9) {
+                StringBuffer foreignerjeerterritory = new StringBuffer();
+                String armourstay = new String();
+                String glassesrenewable = "armourstay";
+                armourstay = "tensemonoquantum avenuedummy scotchwhiskyshowmanp";
+                for (int i = 0; i < glassesrenewable.toCharArray().length; i++) {
+                    char[] scotchwhiskyshowmanp = glassesrenewable.toCharArray();
+                    foreignerjeerterritory.append(armourstay + "armourstay");
+                    foreignerjeerterritory.append(scotchwhiskyshowmanp[i]);
+                }
+                String avenuedummy = glassesrenewable.substring(unitejunkfood);
+                Log.d("avenuedummy", foreignerjeerterritory.toString() + "glassesrenewable" + armourstay);
+            }
+        } catch (Exception implysmalltalk) {
+            implysmalltalk.printStackTrace();
+        }
+//--------------end---------------

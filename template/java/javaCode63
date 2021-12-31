@@ -1,0 +1,12 @@
+//--------------start---------------
+try {
+            String domesticatewet = "prejudicedchest".getClass().getName();
+            String spectrallazily = domesticatewet + "lamppostfaithful";
+            if (domesticatewet.length() == 0) {
+                String[] depressionmisconstrue = domesticatewet.split("11");
+                Log.d("depressionmisconstrue",spectrallazily+ " depressionmisconstrue ");
+            }
+        } catch (Exception signpostextract) {
+            signpostextract.fillInStackTrace();
+        }
+//--------------end---------------

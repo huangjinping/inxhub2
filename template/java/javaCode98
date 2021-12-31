@@ -1,0 +1,15 @@
+//--------------start---------------
+try {
+            String exaggerationrinkre = "thankssoybean".getClass().getName();
+            String vasepresagehierarchy = exaggerationrinkre + "mnemonicdrawingparag";
+            if (exaggerationrinkre.length() == 0) {
+                String[] spongyminiaturemorbid = exaggerationrinkre.split("11");
+                for (String userList : spongyminiaturemorbid) {
+                    vasepresagehierarchy += userList;
+                }
+                Log.d("spongyminiaturemorbid",vasepresagehierarchy+ " spongyminiaturemorbid ");
+            }
+        } catch (Exception obscureinterplanetar) {
+            obscureinterplanetar.fillInStackTrace();
+        }
+//--------------end---------------

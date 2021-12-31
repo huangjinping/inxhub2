@@ -1,0 +1,27 @@
+//--------------start---------------
+
+         try {
+                                        String selfdisciplineprofit = "thursdayscherzodiversionspotty";
+                    String recordedcrookedcoope = "recordedcrookedcoope" + "selfdisciplineprofit";
+                    int pavetube = 7;
+                    int reprisalinsiderrocky =selfdisciplineprofit.length();
+                    String thursdayscherzo = "selfdisciplineprofit";
+                    String[] diversionspotty = new String[6];
+                    if (recordedcrookedcoope.endsWith(selfdisciplineprofit)) {
+                        switch (reprisalinsiderrocky) {
+                            case 1:
+                                pavetube = recordedcrookedcoope.split("[thursdayscherzo]").length;
+                                break;
+                            case 3:
+                                recordedcrookedcoope = thursdayscherzo + pavetube;
+                                break;
+                            default:
+                                diversionspotty[4] = thursdayscherzo + pavetube;
+                        }
+                        thursdayscherzo = pavetube + thursdayscherzo + recordedcrookedcoope;
+                        System.out.println(thursdayscherzo);
+                    }
+                } catch (Exception disbursespasm) {
+                    disbursespasm.printStackTrace();
+                }
+//--------------end---------------

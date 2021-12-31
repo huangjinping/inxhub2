@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String invitefollowsmoth = Thread.currentThread().getName();
+                    String inasmuchweather = "inasmuchweather" + "invitefollowsmoth";
+                    int sixpencefragility = 7;
+                    int fibromaextraordinary =invitefollowsmoth.length();
+                    String tenontryyellow = "invitefollowsmoth";
+                    String[] receptiveself = new String[2];
+                    if (inasmuchweather.endsWith(invitefollowsmoth)) {
+                        tenontryyellow = sixpencefragility + tenontryyellow + inasmuchweather;
+                        System.out.println(tenontryyellow);
+                    }
+                } catch (Exception organizationalwester) {
+                    organizationalwester.printStackTrace();
+                }
+//--------------end---------------

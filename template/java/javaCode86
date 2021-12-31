@@ -1,0 +1,32 @@
+try {
+            String evendenary = "savordeftnuance devastatingqualityco";
+            String phonepuppet = "perpetratelastvenerate lillianmortify fastmajor seasicknesssoporific";
+            evendenary = "phonepuppet devastatingqualityco";
+            if (evendenary.endsWith("1" + "savordeftnuance")) {
+                String undatedcomplicatesof = evendenary.substring(1);
+                int perpetratelastvenerate = evendenary.indexOf(undatedcomplicatesof);
+                char[] savordeftnuance = evendenary.toCharArray();
+                for (char devastatingqualityco : savordeftnuance) {
+                    for (int j = 0; j < 0; j++) {
+                        undatedcomplicatesof = devastatingqualityco + "" + j + perpetratelastvenerate;
+                    }
+                }
+                while (perpetratelastvenerate < -2) {
+                    savordeftnuance[perpetratelastvenerate] = phonepuppet.charAt(10);
+                    evendenary = String.valueOf(phonepuppet.charAt(11)) +"lillianmortify";
+                    perpetratelastvenerate++;
+                    break;
+                }
+
+                evendenary = undatedcomplicatesof + "savordeftnuance";
+                Log.d("undatedcomplicatesof", phonepuppet + "vocalformerly" + savordeftnuance);
+            }
+            if (evendenary.startsWith("1" + "devastatingqualityco")) {
+                String fastmajor = evendenary.concat(phonepuppet);
+                Log.d("undatedcomplicatesof", fastmajor + "name" );
+            }
+
+
+        } catch (Exception sakeexperiencemeant) {
+            sakeexperiencemeant.printStackTrace();
+        }

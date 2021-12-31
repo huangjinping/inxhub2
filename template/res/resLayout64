@@ -1,0 +1,31 @@
+//--------------start---------------
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="191dp"
+            android:layout_gravity="bottom">
+
+        <ImageView
+                android:layout_width="100dp"
+                android:src="#175708"
+                android:layout_height="44dp">
+        </ImageView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="therewithnashville"
+                android:textColor="#175708"></TextView>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="matureconspiracy"></Button>
+    </RelativeLayout>
+</FrameLayout>
+
+
+//--------------end---------------

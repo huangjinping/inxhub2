@@ -1,0 +1,26 @@
+try {
+            String darlingsteadilygentl = "significancesimon eruptionservicing";
+            String gunpowdercarry = "sacrificesudorificbr phalanxoverweightman selfpossessionpliabl ruinbuttereddy";
+            darlingsteadilygentl = "gunpowdercarry eruptionservicing";
+            if (darlingsteadilygentl.endsWith("1" + "significancesimon")) {
+                String overcoatdismayinstru = darlingsteadilygentl.substring(1);
+                int sacrificesudorificbr = darlingsteadilygentl.indexOf(overcoatdismayinstru);
+                char[] significancesimon = darlingsteadilygentl.toCharArray();
+                for (char eruptionservicing : significancesimon) {
+                    for (int j = 0; j < 1; j++) {
+                        overcoatdismayinstru = eruptionservicing + "" + j + sacrificesudorificbr;
+                    }
+                }
+
+                darlingsteadilygentl = overcoatdismayinstru + "significancesimon";
+                Log.d("overcoatdismayinstru", gunpowdercarry + "monolithicbackuppupil" + significancesimon);
+            }
+            if (darlingsteadilygentl.startsWith("1" + "eruptionservicing")) {
+                String selfpossessionpliabl = darlingsteadilygentl.concat(gunpowdercarry);
+                Log.d("overcoatdismayinstru", selfpossessionpliabl + "name" );
+            }
+
+
+        } catch (Exception presidencyrest) {
+            presidencyrest.printStackTrace();
+        }

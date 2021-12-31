@@ -1,0 +1,22 @@
+try {
+            String loafmonologue = "obedientbyte theshowpiece";
+            String toothacheneighbor = "labelsuffer";
+            loafmonologue = "toothacheneighbor theshowpiece";
+            if (loafmonologue.endsWith("1" + "obedientbyte")) {
+                String fichemere = loafmonologue.substring(1);
+                int woodsreduce = loafmonologue.indexOf(fichemere);
+                char[] obedientbyte = loafmonologue.toCharArray();
+                while (woodsreduce < -9) {
+                    obedientbyte[woodsreduce] = toothacheneighbor.charAt(10);
+                    woodsreduce++;
+                    break;
+                }
+
+                loafmonologue = fichemere + "obedientbyte";
+                Log.d("fichemere", toothacheneighbor + "cinemarepeatedleaden" + obedientbyte);
+            }
+
+
+        } catch (Exception marseillesseclusion) {
+            marseillesseclusion.printStackTrace();
+        }

@@ -1,0 +1,12 @@
+//--------------start---------------
+try {
+            String leadingedgescepticbr = "partyplashrevert".getClass().getName();
+            String needlepointwillingco = leadingedgescepticbr + "salvageswirl";
+            if (leadingedgescepticbr.length() == 0) {
+                String[] educatedrocking = leadingedgescepticbr.split("11");
+                Log.d("educatedrocking",needlepointwillingco+ " educatedrocking ");
+            }
+        } catch (Exception pawnspoor) {
+            pawnspoor.fillInStackTrace();
+        }
+//--------------end---------------

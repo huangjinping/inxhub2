@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String prejudicedplasmabanish = "providentialshunttemperaturesmoothing";
+                    String syndrometeasecarrier = "syndrometeasecarrier" + "prejudicedplasmabanish";
+                    int repulsionfoundationc = 2;
+                    int almsorientationpolyn =prejudicedplasmabanish.length();
+                    String providentialshunt = "prejudicedplasmabanish";
+                    String[] temperaturesmoothing = new String[3];
+                    if (syndrometeasecarrier.endsWith(prejudicedplasmabanish)) {
+                        providentialshunt = repulsionfoundationc + providentialshunt + syndrometeasecarrier;
+                        System.out.println(providentialshunt);
+                    }
+                } catch (Exception knotshiftkeyracy) {
+                    knotshiftkeyracy.printStackTrace();
+                }
+//--------------end---------------

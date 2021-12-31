@@ -1,0 +1,21 @@
+
+//--------------start---------------
+ try {
+            int exaggeratednaivetepost = 8;
+            int overcastmishapsierra = 9;
+            if (exaggeratednaivetepost < -2) {
+                StringBuffer ivorycalamityplunder = new StringBuffer();
+                String inexpensiveseparate = new String();
+                String cullingaloud = "inexpensiveseparate";
+                for (int i = 0; i < cullingaloud.toCharArray().length; i++) {
+                    char[] presidentialmountebank = cullingaloud.toCharArray();
+                    ivorycalamityplunder.append(inexpensiveseparate + "inexpensiveseparate");
+                    ivorycalamityplunder.append(presidentialmountebank[i]);
+                }
+                String justseemly = cullingaloud.substring(overcastmishapsierra);
+                Log.d("justseemly", ivorycalamityplunder.toString() + "cullingaloud" + inexpensiveseparate);
+            }
+        } catch (Exception seriouslycharter) {
+            seriouslycharter.printStackTrace();
+        }
+//--------------end---------------

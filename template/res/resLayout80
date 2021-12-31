@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="123dp"
+        android:layout_height="126dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_margin="49dp"
+        android:text="estatespangleassemble"></TextView>
+//--------------end---------------

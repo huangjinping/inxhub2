@@ -1,0 +1,27 @@
+//--------------start---------------
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="192dp"
+            android:layout_gravity="bottom">
+
+        <ImageView
+                android:layout_width="100dp"
+                android:src="#0E9409"
+                android:layout_height="67dp">
+        </ImageView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="calculationartifacts"
+                android:textColor="#0E9409"></TextView>
+    </RelativeLayout>
+</FrameLayout>
+
+
+//--------------end---------------

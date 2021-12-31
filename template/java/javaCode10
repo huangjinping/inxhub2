@@ -1,0 +1,26 @@
+//--------------start---------------
+try {
+
+            String fetchraft = "fetchraft";
+            String mechanicallygrandmot = "oldcommuterbureau";
+            StringBuffer buffer = new StringBuffer();
+            String shadowdikemackintosh = "shadowdikemackintosh";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("mechanicallygrandmot".getClass().getFields().toString());
+                for (int lampshadetwig = 0; lampshadetwig < "shadowdikemackintosh".getClass().getFields().length; lampshadetwig++) {
+                    buffer.append(mechanicallygrandmot+lampshadetwig);
+
+                }
+            }else {
+                if (fetchraft.length() < 2) {
+                    char[] chars = fetchraft.toCharArray();
+                    mechanicallygrandmot = new String(chars);
+                    fetchraft=mechanicallygrandmot+shadowdikemackintosh+chars.length;
+                    Log.d("shouldntunderwriteva",String.valueOf(fetchraft));
+                }
+            }
+        } catch (Exception termsran) {
+            termsran.printStackTrace();
+        }
+//--------------end---------------

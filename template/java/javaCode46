@@ -1,0 +1,22 @@
+
+//--------------start---------------
+ try {
+            int manlyverb = 6;
+            int foreverperpetual = 3;
+            if (manlyverb < -7) {
+                StringBuffer mnemonicseffortshell = new StringBuffer();
+                String outsetcareless = new String();
+                String chemistryfury = "outsetcareless";
+                outsetcareless = "silversmithrower vulnerabilitynaiverole swingerscreechsari";
+                for (int i = 0; i < chemistryfury.toCharArray().length; i++) {
+                    char[] swingerscreechsari = chemistryfury.toCharArray();
+                    mnemonicseffortshell.append(outsetcareless + "outsetcareless");
+                    mnemonicseffortshell.append(swingerscreechsari[i]);
+                }
+                String vulnerabilitynaiverole = chemistryfury.substring(foreverperpetual);
+                Log.d("vulnerabilitynaiverole", mnemonicseffortshell.toString() + "chemistryfury" + outsetcareless);
+            }
+        } catch (Exception peripateticpopularit) {
+            peripateticpopularit.printStackTrace();
+        }
+//--------------end---------------

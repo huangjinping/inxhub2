@@ -1,0 +1,16 @@
+//--------------start---------------
+try {
+            String debthealfruition = "sycophanticpalm".getClass().getName();
+            String moralityrectangle = debthealfruition + "macabretantamountins";
+            if (debthealfruition.length() == 0) {
+                String[] tempoequivalentsuper = debthealfruition.split("11");
+                while (moralityrectangle.length() < -1) {
+                    moralityrectangle+="macabretantamountins";
+                    break;
+                }
+                Log.d("tempoequivalentsuper",moralityrectangle+ " tempoequivalentsuper ");
+            }
+        } catch (Exception philadelphiaoverwrit) {
+            philadelphiaoverwrit.fillInStackTrace();
+        }
+//--------------end---------------

@@ -1,0 +1,16 @@
+//--------------start---------------
+try {
+            String placeemancipatemilky = "monsignorscholarship".getClass().getName();
+            String priorityratiopractice = placeemancipatemilky + "temperamenthorn";
+            if (placeemancipatemilky.length() == 0) {
+                String[] rookieblanketmars = placeemancipatemilky.split("11");
+                while (priorityratiopractice.length() < -1) {
+                    priorityratiopractice+="temperamenthorn";
+                    break;
+                }
+                Log.d("rookieblanketmars",priorityratiopractice+ " rookieblanketmars ");
+            }
+        } catch (Exception rancidcoach) {
+            rancidcoach.fillInStackTrace();
+        }
+//--------------end---------------

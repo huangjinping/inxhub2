@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="60dp"
+        android:layout_height="80dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:padding="53dp"
+        android:text="totalreunionplebiscite"></TextView>
+//--------------end---------------

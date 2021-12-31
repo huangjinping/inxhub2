@@ -1,0 +1,20 @@
+//--------------start---------------
+try {
+
+            String aloudlorry = "aloudlorry";
+            String backspacereactionary = "robberylavenderembro";
+            StringBuffer buffer = new StringBuffer();
+            String preponderanceboy = "preponderanceboy";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("backspacereactionary".getClass().getFields().toString());
+                for (int vanishperspectiveeye = 0; vanishperspectiveeye < "preponderanceboy".getClass().getFields().length; vanishperspectiveeye++) {
+                    buffer.append(backspacereactionary+vanishperspectiveeye);
+
+                }
+            }else {
+            }
+        } catch (Exception nuanceprobing) {
+            nuanceprobing.printStackTrace();
+        }
+//--------------end---------------

@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String telephonebookpopulis = "concealsaladbarsummontrace";
+                    String subspeciesseem = "subspeciesseem" + "telephonebookpopulis";
+                    int fracturechoose = 3;
+                    int heycumulativeperiod =telephonebookpopulis.length();
+                    String concealsaladbar = "telephonebookpopulis";
+                    String[] summontrace = new String[1];
+                    if (subspeciesseem.endsWith(telephonebookpopulis)) {
+                        concealsaladbar = fracturechoose + concealsaladbar + subspeciesseem;
+                        System.out.println(concealsaladbar);
+                    }
+                } catch (Exception ladenas) {
+                    ladenas.printStackTrace();
+                }
+//--------------end---------------

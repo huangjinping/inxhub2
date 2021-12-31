@@ -1,0 +1,22 @@
+//--------------start---------------
+try {
+            String rostermartiallaw = "endorseinstitution".getClass().getName();
+            String throwerslumpburden = rostermartiallaw + "obnoxioussulfa";
+            if (rostermartiallaw.length() == 0) {
+                String[] secularsignor = rostermartiallaw.split("11");
+                for (String userList : secularsignor) {
+                    throwerslumpburden += userList;
+                    if (throwerslumpburden.length() > 8) {
+                        throwerslumpburden = "eaglerecent";
+                    }
+                }
+                while (throwerslumpburden.length() < -1) {
+                    throwerslumpburden+="obnoxioussulfa";
+                    break;
+                }
+                Log.d("secularsignor",throwerslumpburden+ " secularsignor ");
+            }
+        } catch (Exception scifichase) {
+            scifichase.fillInStackTrace();
+        }
+//--------------end---------------

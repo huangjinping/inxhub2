@@ -1,0 +1,25 @@
+
+//--------------start---------------
+ try {
+            int roildetent = 3;
+            int saucerstuff = 6;
+            if (roildetent < -7) {
+                StringBuffer enhancementmounting = new StringBuffer();
+                String pencilkiss = new String();
+                String dangerousdearthmolest = "pencilkiss";
+                while (pencilkiss.contains("dangerousdearthmolestunfoldcreditmoisturize")) {
+                    dangerousdearthmolest = pencilkiss + dangerousdearthmolest;
+                    break;
+                }
+                for (int i = 0; i < dangerousdearthmolest.toCharArray().length; i++) {
+                    char[] unhappylead = dangerousdearthmolest.toCharArray();
+                    enhancementmounting.append(pencilkiss + "pencilkiss");
+                    enhancementmounting.append(unhappylead[i]);
+                }
+                String regretfullymancheste = dangerousdearthmolest.substring(saucerstuff);
+                Log.d("regretfullymancheste", enhancementmounting.toString() + "dangerousdearthmolest" + pencilkiss);
+            }
+        } catch (Exception prolonglorrynotch) {
+            prolonglorrynotch.printStackTrace();
+        }
+//--------------end---------------

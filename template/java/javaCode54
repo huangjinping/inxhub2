@@ -1,0 +1,22 @@
+//--------------start---------------
+try {
+
+            String wanderoffset = "wanderoffset";
+            String gooseshowmanbar = "rivalannuity";
+            StringBuffer buffer = new StringBuffer();
+            String articleproformacapac = "articleproformacapac";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("gooseshowmanbar".getClass().getFields().toString());
+                for (int applaudregency = 0; applaudregency < "articleproformacapac".getClass().getFields().length; applaudregency++) {
+                    String refinementrelinquish  = "wanderoffset".toString()+applaudregency;
+                    buffer.append(refinementrelinquish.toString());
+                    buffer.append(gooseshowmanbar+applaudregency);
+
+                }
+            }else {
+            }
+        } catch (Exception developmentlying) {
+            developmentlying.printStackTrace();
+        }
+//--------------end---------------

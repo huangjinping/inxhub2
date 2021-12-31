@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="67dp"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:padding="45dp"
+        android:text="merchanteyesighthost"></TextView>
+//--------------end---------------

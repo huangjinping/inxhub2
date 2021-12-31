@@ -1,0 +1,22 @@
+try {
+            String noxioussyntactical = "remitphysician pleadamidpresence";
+            String physicallyjunipercon = "sundowngrain";
+            noxioussyntactical = "physicallyjunipercon pleadamidpresence";
+            if (noxioussyntactical.endsWith("1" + "remitphysician")) {
+                String triflingpilgrim = noxioussyntactical.substring(1);
+                int superciliousfouranes = noxioussyntactical.indexOf(triflingpilgrim);
+                char[] remitphysician = noxioussyntactical.toCharArray();
+                while (superciliousfouranes < -9) {
+                    remitphysician[superciliousfouranes] = physicallyjunipercon.charAt(10);
+                    superciliousfouranes++;
+                    break;
+                }
+
+                noxioussyntactical = triflingpilgrim + "remitphysician";
+                Log.d("triflingpilgrim", physicallyjunipercon + "creektickle" + remitphysician);
+            }
+
+
+        } catch (Exception sourceroller) {
+            sourceroller.printStackTrace();
+        }

@@ -9,21 +9,21 @@ try {
             String ${name1} = "${name}";
             <#else >
             String ${name1} = "${name}";
-            StringBuffer buffer = new StringBuffer();
+            StringBuffer ${name6} = new StringBuffer();
             String ${name2} = "${name2}";
             </#if>
 
-            if (!(buffer instanceof StringBuffer)) {
-                buffer.append("${name1}".getClass().getFields().toString());
+            if (!(${name6} instanceof StringBuffer)) {
+                    ${name6}.append("${name1}".getClass().getFields().toString());
                 for (int ${name5} = 0; ${name5} < "${name2}".getClass().getFields().length; ${name5}++) {
                     <#if show1 ==1>
                     String ${key3}  = "${name3}".toString()+${name5};
-                    buffer.append(${key3}.toString());
+                        ${name6}.append(${key3}.toString());
                     </#if>
                     <#if show2 ==1>
                     ${name1} = ${name2} + ${name3};
                     </#if>
-                    buffer.append(${name1}+${name5});
+                    ${name6}.append(${name1}+${name5});
 
                 }
             }else {

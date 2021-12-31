@@ -1,0 +1,33 @@
+//--------------start---------------
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="top"
+            android:layout_marginStart="41dp"
+            android:orientation="horizontal"
+            >
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:textColor="#094AE0"
+                android:textSize="12dp"
+                android:textStyle="bold"></TextView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#094AE0"
+                android:textSize="14dp"
+                android:textStyle="bold"></TextView>
+    </LinearLayout>
+</FrameLayout>
+
+
+//--------------end---------------

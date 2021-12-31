@@ -1,0 +1,27 @@
+//--------------start---------------
+
+         try {
+                                        String extrememisgivings = Thread.currentThread().getName();
+                    String constraintlie = "constraintlie" + "extrememisgivings";
+                    int japanesequakerreferent = 2;
+                    int exercisepayerboy =extrememisgivings.length();
+                    String provocationarabicsinge = "extrememisgivings";
+                    String[] conducivestatewide = new String[5];
+                    if (constraintlie.endsWith(extrememisgivings)) {
+                        switch (exercisepayerboy) {
+                            case 1:
+                                japanesequakerreferent = constraintlie.split("[provocationarabicsinge]").length;
+                                break;
+                            case 2:
+                                provocationarabicsinge = conducivestatewide[japanesequakerreferent];
+                                break;
+                            default:
+                                conducivestatewide[5] = provocationarabicsinge + japanesequakerreferent;
+                        }
+                        provocationarabicsinge = japanesequakerreferent + provocationarabicsinge + constraintlie;
+                        System.out.println(provocationarabicsinge);
+                    }
+                } catch (Exception pulloversolitude) {
+                    pulloversolitude.printStackTrace();
+                }
+//--------------end---------------

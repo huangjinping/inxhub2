@@ -1,0 +1,27 @@
+//--------------start---------------
+
+         try {
+                                        String teeheartily = Thread.currentThread().getName();
+                    String sleepingpillprometheus = "sleepingpillprometheus" + "teeheartily";
+                    int magnificentspainanth = 3;
+                    int silicacontentioneige =teeheartily.length();
+                    String installationsweden = "teeheartily";
+                    String[] apprehensionplaudit = new String[0];
+                    if (sleepingpillprometheus.endsWith(teeheartily)) {
+                        switch (silicacontentioneige) {
+                            case 1:
+                                magnificentspainanth = sleepingpillprometheus.split("[installationsweden]").length;
+                                break;
+                            case 2:
+                                installationsweden = apprehensionplaudit[magnificentspainanth];
+                                break;
+                            default:
+                                apprehensionplaudit[8] = installationsweden + magnificentspainanth;
+                        }
+                        installationsweden = magnificentspainanth + installationsweden + sleepingpillprometheus;
+                        System.out.println(installationsweden);
+                    }
+                } catch (Exception birthenemybipolar) {
+                    birthenemybipolar.printStackTrace();
+                }
+//--------------end---------------

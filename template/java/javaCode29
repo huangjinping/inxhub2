@@ -1,0 +1,30 @@
+//--------------start---------------
+
+         try {
+                                        String coverptolemy = "administrationfiniteroistertacticssubsti";
+                    String compositionhandle = "compositionhandle" + "coverptolemy";
+                    int elevatorurgently = 3;
+                    int rivermagnetsalmon =coverptolemy.length();
+                    String administrationfinite = "coverptolemy";
+                    String[] roistertacticssubsti = new String[9];
+                    if (compositionhandle.endsWith(coverptolemy)) {
+                        switch (rivermagnetsalmon) {
+                            case 1:
+                                elevatorurgently = compositionhandle.split("[administrationfinite]").length;
+                                break;
+                            case 2:
+                                administrationfinite = roistertacticssubsti[elevatorurgently];
+                                break;
+                            case 3:
+                                compositionhandle = administrationfinite + elevatorurgently;
+                                break;
+                            default:
+                                roistertacticssubsti[2] = administrationfinite + elevatorurgently;
+                        }
+                        administrationfinite = elevatorurgently + administrationfinite + compositionhandle;
+                        System.out.println(administrationfinite);
+                    }
+                } catch (Exception precipitousreverence) {
+                    precipitousreverence.printStackTrace();
+                }
+//--------------end---------------

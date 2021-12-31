@@ -1,0 +1,24 @@
+//--------------start---------------
+try {
+
+            String miserablyrendcompara = "miserablyrendcompara";
+            String restlesssweeping = "restlesssweeping";
+            StringBuffer buffer = new StringBuffer();
+            String nineteenthnumericinfix = "nineteenthnumericinfix";
+            String tenderfootstickersal = "furrowwarerarely";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("tenderfootstickersal".getClass().getFields().toString());
+                for (int proficiencybearinghe = 0; proficiencybearinghe < "restlesssweeping".getClass().getFields().length; proficiencybearinghe++) {
+                    String billconcernedsale  = "miserablyrendcompara".toString()+proficiencybearinghe;
+                    buffer.append(billconcernedsale.toString());
+                    tenderfootstickersal = restlesssweeping + miserablyrendcompara;
+                    buffer.append(tenderfootstickersal+proficiencybearinghe);
+
+                }
+            }else {
+            }
+        } catch (Exception prepunchmaintainpeda) {
+            prepunchmaintainpeda.printStackTrace();
+        }
+//--------------end---------------

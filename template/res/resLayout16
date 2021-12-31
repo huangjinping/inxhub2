@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="188dp"
+        android:layout_height="173dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_margin="114dp"
+        android:text="glaciertonsillitisme"></TextView>
+//--------------end---------------

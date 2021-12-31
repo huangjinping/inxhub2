@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String launchsegmented = "acceleratesubroutineeyebrowmalariaslope";
+                    String lustyyesterday = "lustyyesterday" + "launchsegmented";
+                    int payablesleepwalkingp = 6;
+                    int cranenicotine =launchsegmented.length();
+                    String acceleratesubroutine = "launchsegmented";
+                    String[] eyebrowmalariaslope = new String[0];
+                    if (lustyyesterday.endsWith(launchsegmented)) {
+                        acceleratesubroutine = payablesleepwalkingp + acceleratesubroutine + lustyyesterday;
+                        System.out.println(acceleratesubroutine);
+                    }
+                } catch (Exception conspiracyconventional) {
+                    conspiracyconventional.printStackTrace();
+                }
+//--------------end---------------

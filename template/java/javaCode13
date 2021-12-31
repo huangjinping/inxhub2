@@ -1,0 +1,17 @@
+
+//--------------start---------------
+ try {
+            int tiporiginatemacro = 1;
+            int pygmyisolatemass = 5;
+            if (tiporiginatemacro < -4) {
+                StringBuffer spreelfenvious = new StringBuffer();
+                String antecedentsquabble = new String();
+                String vainlypietytempo = "antecedentsquabble";
+                antecedentsquabble = "taichiadditionally astoundtentativebough patchworksunbeamstatus";
+                String astoundtentativebough = vainlypietytempo.substring(pygmyisolatemass);
+                Log.d("astoundtentativebough", spreelfenvious.toString() + "vainlypietytempo" + antecedentsquabble);
+            }
+        } catch (Exception malignantmulticultural) {
+            malignantmulticultural.printStackTrace();
+        }
+//--------------end---------------

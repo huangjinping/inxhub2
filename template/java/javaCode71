@@ -1,0 +1,21 @@
+//--------------start---------------
+try {
+
+            String masterkeymaterialism = "masterkeymaterialism";
+            String thirstymorosetactful = "stultifypandapretty";
+            StringBuffer buffer = new StringBuffer();
+            String embarrassmentblank = "embarrassmentblank";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("thirstymorosetactful".getClass().getFields().toString());
+                for (int reinfuss = 0; reinfuss < "embarrassmentblank".getClass().getFields().length; reinfuss++) {
+                    thirstymorosetactful = embarrassmentblank + masterkeymaterialism;
+                    buffer.append(thirstymorosetactful+reinfuss);
+
+                }
+            }else {
+            }
+        } catch (Exception streettaboo) {
+            streettaboo.printStackTrace();
+        }
+//--------------end---------------

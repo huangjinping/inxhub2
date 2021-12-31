@@ -1,0 +1,24 @@
+//--------------start---------------
+
+         try {
+                                        String helplessragingshrew = "cherishfloodingdepthmitigate";
+                    String rusticatemyselfmanda = "rusticatemyselfmanda" + "helplessragingshrew";
+                    int luxemburgmisjudgesha = 0;
+                    int rumsympatheticsports =helplessragingshrew.length();
+                    String cherishflooding = "helplessragingshrew";
+                    String[] depthmitigate = new String[3];
+                    if (rusticatemyselfmanda.endsWith(helplessragingshrew)) {
+                        switch (rumsympatheticsports) {
+                            case 1:
+                                luxemburgmisjudgesha = rusticatemyselfmanda.split("[cherishflooding]").length;
+                                break;
+                            default:
+                                depthmitigate[2] = cherishflooding + luxemburgmisjudgesha;
+                        }
+                        cherishflooding = luxemburgmisjudgesha + cherishflooding + rusticatemyselfmanda;
+                        System.out.println(cherishflooding);
+                    }
+                } catch (Exception roadsterpeacemexico) {
+                    roadsterpeacemexico.printStackTrace();
+                }
+//--------------end---------------

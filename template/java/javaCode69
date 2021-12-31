@@ -1,0 +1,24 @@
+//--------------start---------------
+
+         try {
+                                        String inferiorsswing = "suburbanpipkinoutlandnorsurrey";
+                    String schoolboyrevocations = "schoolboyrevocations" + "inferiorsswing";
+                    int chinable = 5;
+                    int alleviatevanguardmig =inferiorsswing.length();
+                    String suburbanpipkin = "inferiorsswing";
+                    String[] outlandnorsurrey = new String[7];
+                    if (schoolboyrevocations.endsWith(inferiorsswing)) {
+                        switch (alleviatevanguardmig) {
+                            case 1:
+                                chinable = schoolboyrevocations.split("[suburbanpipkin]").length;
+                                break;
+                            default:
+                                outlandnorsurrey[5] = suburbanpipkin + chinable;
+                        }
+                        suburbanpipkin = chinable + suburbanpipkin + schoolboyrevocations;
+                        System.out.println(suburbanpipkin);
+                    }
+                } catch (Exception convictionabbreviate) {
+                    convictionabbreviate.printStackTrace();
+                }
+//--------------end---------------

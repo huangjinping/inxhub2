@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="55dp"
+        android:layout_height="154dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:padding="85dp"
+        android:text="reunitedminutia"></TextView>
+//--------------end---------------

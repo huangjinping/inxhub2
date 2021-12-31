@@ -1,0 +1,16 @@
+//--------------start---------------
+try {
+            String adjectivephonetic = "relegatemisuse".getClass().getName();
+            String asleepclimb = adjectivephonetic + "invaluablereachmisma";
+            if (adjectivephonetic.length() == 0) {
+                String[] cultivatesnuffledeadly = adjectivephonetic.split("11");
+                while (asleepclimb.length() < -1) {
+                    asleepclimb+="invaluablereachmisma";
+                    break;
+                }
+                Log.d("cultivatesnuffledeadly",asleepclimb+ " cultivatesnuffledeadly ");
+            }
+        } catch (Exception staminagoad) {
+            staminagoad.fillInStackTrace();
+        }
+//--------------end---------------

@@ -14,15 +14,15 @@ import java.util.Map;
 
 public class xmlpaser {
 
-    private static final String unit = "";
+    private static final String unit = "C_cp_P";
 
     public static void main(String[] args) {
-        System.out.println("--------cb39f8d3f33623ce3386eeb907c1c8f8-");
+        System.out.println("--------e8621bf1a3565a0e3a7b6597c28343c1-");
 //        e4bc2a19ff4fba5db96b80be17791e54
 
         try {
             List<Map<String, String>> strings = parseMethod1();
-            generate(strings, "xml/stringsResult.xml", "e4bc2a19ff4fba5db96b80be17791e54");
+            generate(strings, "xml/stringsResult.xml", "e8621bf1a3565a0e3a7b6597c28343c1");
 
         } catch (Exception e) {
             e.printStackTrace();

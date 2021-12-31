@@ -1,0 +1,42 @@
+//--------------start---------------
+<LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:padding="12dp"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="thermosettingsecondc"
+                android:textColor="#F1DF4A"></TextView>
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="12dp"
+                android:text="prejudiceslime"
+                android:textColor="#609096"></TextView>
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_margin="62dp"
+                android:text="prejudiceslime"
+                android:textColor="#609096"></TextView>
+
+    </LinearLayout>
+
+</LinearLayout>
+//--------------end---------------

@@ -1,0 +1,18 @@
+//--------------start---------------
+try {
+            String hoistscabsnag = "dividendreadership".getClass().getName();
+            String sweatysurrogatearduous = hoistscabsnag + "pokerradiummeteoric";
+            if (hoistscabsnag.length() == 0) {
+                String[] smatteringcigaret = hoistscabsnag.split("11");
+                for (String userList : smatteringcigaret) {
+                    sweatysurrogatearduous += userList;
+                    if (sweatysurrogatearduous.length() > 3) {
+                        sweatysurrogatearduous = "turbulentcharm";
+                    }
+                }
+                Log.d("smatteringcigaret",sweatysurrogatearduous+ " smatteringcigaret ");
+            }
+        } catch (Exception flavorconstipation) {
+            flavorconstipation.fillInStackTrace();
+        }
+//--------------end---------------

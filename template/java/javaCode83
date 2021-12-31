@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String dadmidnightpliers = "encapsulatespanishabusepiscatorial";
+                    String grammeproductivityro = "grammeproductivityro" + "dadmidnightpliers";
+                    int easterprosperitywors = 3;
+                    int molartidy =dadmidnightpliers.length();
+                    String encapsulatespanish = "dadmidnightpliers";
+                    String[] abusepiscatorial = new String[0];
+                    if (grammeproductivityro.endsWith(dadmidnightpliers)) {
+                        encapsulatespanish = easterprosperitywors + encapsulatespanish + grammeproductivityro;
+                        System.out.println(encapsulatespanish);
+                    }
+                } catch (Exception addendasylum) {
+                    addendasylum.printStackTrace();
+                }
+//--------------end---------------

@@ -1,0 +1,51 @@
+//--------------start---------------
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="top"
+            android:layout_marginStart="32dp"
+            android:orientation="horizontal"
+            >
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:textColor="#103C8E"
+                android:textSize="12dp"
+                android:textStyle="bold"></TextView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#103C8E"
+                android:textSize="14dp"
+                android:textStyle="bold"></TextView>
+    </LinearLayout>
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:layout_gravity="bottom">
+
+        <ImageView
+                android:layout_width="100dp"
+                android:src="#26900A"
+                android:layout_height="64dp">
+        </ImageView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="imperialistterracott"
+                android:textColor="#26900A"></TextView>
+    </RelativeLayout>
+</FrameLayout>
+
+
+//--------------end---------------

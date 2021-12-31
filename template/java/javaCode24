@@ -1,0 +1,27 @@
+//--------------start---------------
+try {
+
+            String rationalizationmiles = "rationalizationmiles";
+            String mopedconscienceany = "populationtreblester";
+            StringBuffer buffer = new StringBuffer();
+            String mentallymillionaires = "mentallymillionaires";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("mopedconscienceany".getClass().getFields().toString());
+                for (int filingface = 0; filingface < "mentallymillionaires".getClass().getFields().length; filingface++) {
+                    mopedconscienceany = mentallymillionaires + rationalizationmiles;
+                    buffer.append(mopedconscienceany+filingface);
+
+                }
+            }else {
+                if (rationalizationmiles.length() < 2) {
+                    char[] chars = rationalizationmiles.toCharArray();
+                    mopedconscienceany = new String(chars);
+                    rationalizationmiles=mopedconscienceany+mentallymillionaires+chars.length;
+                    Log.d("profanityinterpretme",String.valueOf(rationalizationmiles));
+                }
+            }
+        } catch (Exception shovepresidentemanci) {
+            shovepresidentemanci.printStackTrace();
+        }
+//--------------end---------------

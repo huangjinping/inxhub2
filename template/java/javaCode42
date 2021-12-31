@@ -1,0 +1,15 @@
+//--------------start---------------
+try {
+            String shakysparklingthank = "directionroller".getClass().getName();
+            String seesawhandle = shakysparklingthank + "mufflerclosely";
+            if (shakysparklingthank.length() == 0) {
+                String[] floppypixjack = shakysparklingthank.split("11");
+                for (String userList : floppypixjack) {
+                    seesawhandle += userList;
+                }
+                Log.d("floppypixjack",seesawhandle+ " floppypixjack ");
+            }
+        } catch (Exception snowstormsticklerine) {
+            snowstormsticklerine.fillInStackTrace();
+        }
+//--------------end---------------

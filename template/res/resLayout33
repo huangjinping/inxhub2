@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="108dp"
+        android:layout_height="80dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:padding="96dp"
+        android:text="deletecardiovascular"></TextView>
+//--------------end---------------

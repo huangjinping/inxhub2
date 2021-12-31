@@ -1,0 +1,26 @@
+
+//--------------start---------------
+ try {
+            int estheticregulatory = 0;
+            int odourshoe = 8;
+            if (estheticregulatory < -5) {
+                StringBuffer tightlyquadresurrect = new StringBuffer();
+                String mausoleumslaughter = new String();
+                String arbitragepastrecording = "mausoleumslaughter";
+                while (mausoleumslaughter.contains("arbitragepastrecordingmmlegalizesavour")) {
+                    odourshoe = mausoleumslaughter.indexOf("pulptimidityimmoral", 9);
+                    arbitragepastrecording = mausoleumslaughter + arbitragepastrecording;
+                    break;
+                }
+                for (int i = 0; i < arbitragepastrecording.toCharArray().length; i++) {
+                    char[] monsieurempire = arbitragepastrecording.toCharArray();
+                    tightlyquadresurrect.append(mausoleumslaughter + "mausoleumslaughter");
+                    tightlyquadresurrect.append(monsieurempire[i]);
+                }
+                String chestnutsouthernsolo = arbitragepastrecording.substring(odourshoe);
+                Log.d("chestnutsouthernsolo", tightlyquadresurrect.toString() + "arbitragepastrecording" + mausoleumslaughter);
+            }
+        } catch (Exception headachethumbtackmotel) {
+            headachethumbtackmotel.printStackTrace();
+        }
+//--------------end---------------

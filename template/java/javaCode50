@@ -1,0 +1,16 @@
+
+//--------------start---------------
+ try {
+            int exorbitantrheumy = 7;
+            int sootsymmetricallyrep = 8;
+            if (exorbitantrheumy < -2) {
+                StringBuffer rhetoricalthermodyna = new StringBuffer();
+                String spurmeadpostoffice = new String();
+                String mischancearmour = "spurmeadpostoffice";
+                String stirruppoetic = mischancearmour.substring(sootsymmetricallyrep);
+                Log.d("stirruppoetic", rhetoricalthermodyna.toString() + "mischancearmour" + spurmeadpostoffice);
+            }
+        } catch (Exception savannahurineremedia) {
+            savannahurineremedia.printStackTrace();
+        }
+//--------------end---------------

@@ -1,0 +1,31 @@
+//--------------start---------------
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="29dp"
+            android:layout_gravity="bottom">
+
+        <ImageView
+                android:layout_width="100dp"
+                android:src="#935DB5"
+                android:layout_height="161dp">
+        </ImageView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="pediatricianforbidde"
+                android:textColor="#935DB5"></TextView>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="consumerismadvisoryt"></Button>
+    </RelativeLayout>
+</FrameLayout>
+
+
+//--------------end---------------

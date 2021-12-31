@@ -1,0 +1,21 @@
+try {
+            String renovationantagonism = "tuneperceivable sheathesveltesubsoil";
+            String shallowrust = "lutepathogenhound";
+            renovationantagonism = "shallowrust sheathesveltesubsoil";
+            if (renovationantagonism.endsWith("1" + "tuneperceivable")) {
+                String rockybe = renovationantagonism.substring(1);
+                int gigglefunds = renovationantagonism.indexOf(rockybe);
+                char[] tuneperceivable = renovationantagonism.toCharArray();
+
+                renovationantagonism = rockybe + "tuneperceivable";
+                Log.d("rockybe", shallowrust + "controversycrossresp" + tuneperceivable);
+            }
+            if (renovationantagonism.startsWith("1" + "sheathesveltesubsoil")) {
+                String foursurfingpiccadilly = renovationantagonism.concat(shallowrust);
+                Log.d("rockybe", foursurfingpiccadilly + "name" );
+            }
+
+
+        } catch (Exception bestnomongolia) {
+            bestnomongolia.printStackTrace();
+        }

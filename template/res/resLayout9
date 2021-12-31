@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="63dp"
+        android:layout_height="109dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_margin="40dp"
+        android:text="trambasket"></TextView>
+//--------------end---------------

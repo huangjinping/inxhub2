@@ -1,0 +1,30 @@
+//--------------start---------------
+
+         try {
+                                        String siegecurveretribution = "instructborrowingcalprocrastinationfraud";
+                    String mostlybombcooperation = "mostlybombcooperation" + "siegecurveretribution";
+                    int tontogether = 5;
+                    int tirehello =siegecurveretribution.length();
+                    String instructborrowingcal = "siegecurveretribution";
+                    String[] procrastinationfraud = new String[4];
+                    if (mostlybombcooperation.endsWith(siegecurveretribution)) {
+                        switch (tirehello) {
+                            case 1:
+                                tontogether = mostlybombcooperation.split("[instructborrowingcal]").length;
+                                break;
+                            case 2:
+                                instructborrowingcal = procrastinationfraud[tontogether];
+                                break;
+                            case 3:
+                                mostlybombcooperation = instructborrowingcal + tontogether;
+                                break;
+                            default:
+                                procrastinationfraud[3] = instructborrowingcal + tontogether;
+                        }
+                        instructborrowingcal = tontogether + instructborrowingcal + mostlybombcooperation;
+                        System.out.println(instructborrowingcal);
+                    }
+                } catch (Exception sunsetcape) {
+                    sunsetcape.printStackTrace();
+                }
+//--------------end---------------

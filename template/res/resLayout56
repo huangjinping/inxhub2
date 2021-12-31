@@ -1,0 +1,31 @@
+//--------------start---------------
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="bottom">
+
+        <ImageView
+                android:layout_width="100dp"
+                android:src="#2BBF36"
+                android:layout_height="191dp">
+        </ImageView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="separatelydisparity"
+                android:textColor="#2BBF36"></TextView>
+        <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="afternoonlatter"></Button>
+    </RelativeLayout>
+</FrameLayout>
+
+
+//--------------end---------------

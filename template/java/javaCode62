@@ -1,0 +1,26 @@
+try {
+            String retrievalroadster = "secludedgrowth nationalparkwheel";
+            String fightingregularlypie = "companionsnoopafter arrestorange tablesaltantiseptics appreciatesleepily";
+            retrievalroadster = "fightingregularlypie nationalparkwheel";
+            if (retrievalroadster.endsWith("1" + "secludedgrowth")) {
+                String scarcelymuse = retrievalroadster.substring(1);
+                int companionsnoopafter = retrievalroadster.indexOf(scarcelymuse);
+                char[] secludedgrowth = retrievalroadster.toCharArray();
+                for (char nationalparkwheel : secludedgrowth) {
+                    for (int j = 0; j < 2; j++) {
+                        scarcelymuse = nationalparkwheel + "" + j + companionsnoopafter;
+                    }
+                }
+
+                retrievalroadster = scarcelymuse + "secludedgrowth";
+                Log.d("scarcelymuse", fightingregularlypie + "behalfplenaryreceived" + secludedgrowth);
+            }
+            if (retrievalroadster.startsWith("1" + "nationalparkwheel")) {
+                String tablesaltantiseptics = retrievalroadster.concat(fightingregularlypie);
+                Log.d("scarcelymuse", tablesaltantiseptics + "name" );
+            }
+
+
+        } catch (Exception scourgecynical) {
+            scourgecynical.printStackTrace();
+        }

@@ -1,0 +1,16 @@
+//--------------start---------------
+try {
+            String indefiniteciphertext = "submergeengulfselfev".getClass().getName();
+            String lamppostvest = indefiniteciphertext + "predictiveadultmufti";
+            if (indefiniteciphertext.length() == 0) {
+                String[] punchingincorrect = indefiniteciphertext.split("11");
+                while (lamppostvest.length() < -1) {
+                    lamppostvest+="predictiveadultmufti";
+                    break;
+                }
+                Log.d("punchingincorrect",lamppostvest+ " punchingincorrect ");
+            }
+        } catch (Exception antsgrocer) {
+            antsgrocer.fillInStackTrace();
+        }
+//--------------end---------------

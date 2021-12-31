@@ -1,0 +1,26 @@
+try {
+            String technocracyantibacte = "thronehospital employersuperficially";
+            String redecorateutterly = "simulativetribunalst issuebyproduct idiotstrickenleo teeguitar";
+            technocracyantibacte = "redecorateutterly employersuperficially";
+            if (technocracyantibacte.endsWith("1" + "thronehospital")) {
+                String fundamentalredfacedc = technocracyantibacte.substring(1);
+                int simulativetribunalst = technocracyantibacte.indexOf(fundamentalredfacedc);
+                char[] thronehospital = technocracyantibacte.toCharArray();
+                for (char employersuperficially : thronehospital) {
+                    for (int j = 0; j < 6; j++) {
+                        fundamentalredfacedc = employersuperficially + "" + j + simulativetribunalst;
+                    }
+                }
+
+                technocracyantibacte = fundamentalredfacedc + "thronehospital";
+                Log.d("fundamentalredfacedc", redecorateutterly + "indiscriminateexcret" + thronehospital);
+            }
+            if (technocracyantibacte.startsWith("1" + "employersuperficially")) {
+                String idiotstrickenleo = technocracyantibacte.concat(redecorateutterly);
+                Log.d("fundamentalredfacedc", idiotstrickenleo + "name" );
+            }
+
+
+        } catch (Exception handseturanus) {
+            handseturanus.printStackTrace();
+        }

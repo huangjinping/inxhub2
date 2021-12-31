@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String mushroomcerealsmuggler = "lasersevensplutterdecoderleasedormitory";
+                    String inclusiveostentation = "inclusiveostentation" + "mushroomcerealsmuggler";
+                    int longertess = 3;
+                    int keepermismanagereluc =mushroomcerealsmuggler.length();
+                    String lasersevensplutter = "mushroomcerealsmuggler";
+                    String[] decoderleasedormitory = new String[7];
+                    if (inclusiveostentation.endsWith(mushroomcerealsmuggler)) {
+                        lasersevensplutter = longertess + lasersevensplutter + inclusiveostentation;
+                        System.out.println(lasersevensplutter);
+                    }
+                } catch (Exception arrestpersonalty) {
+                    arrestpersonalty.printStackTrace();
+                }
+//--------------end---------------

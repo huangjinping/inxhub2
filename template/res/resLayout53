@@ -1,0 +1,17 @@
+//--------------start---------------
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+
+    
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:src="#6CB8FF"
+            android:layout_margin="5dp"
+            android:layout_height="1dp">
+    </ImageView>
+
+</RelativeLayout>
+//--------------end---------------

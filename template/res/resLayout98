@@ -1,0 +1,44 @@
+//--------------start---------------
+<LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:padding="197dp"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="197dp"
+                android:gravity="center"
+                android:text="pathologyfabricfill"
+                android:textColor="#A05B04"></TextView>
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="197dp"
+                android:text="interviewproton"
+                android:textColor="#8DE685"></TextView>
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_margin="75dp"
+                android:text="interviewproton"
+                android:textColor="#8DE685"></TextView>
+
+    </LinearLayout>
+
+</LinearLayout>
+//--------------end---------------

@@ -1,0 +1,25 @@
+//--------------start---------------
+<LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:padding="68dp"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="pulsatecheeseraiment"
+                android:textColor="#E17ECA"></TextView>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+//--------------end---------------

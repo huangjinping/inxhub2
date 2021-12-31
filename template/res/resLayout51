@@ -1,0 +1,22 @@
+//--------------start---------------
+<FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="177dp"
+            android:layout_gravity="bottom">
+
+        <ImageView
+                android:layout_width="100dp"
+                android:src="#C2BE74"
+                android:layout_height="3dp">
+        </ImageView>
+
+    </RelativeLayout>
+</FrameLayout>
+
+
+//--------------end---------------

@@ -1,0 +1,26 @@
+//--------------start---------------
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+
+          <RelativeLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true">
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="#1B9F5B"></ImageView>
+    </RelativeLayout>
+
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:src="#1B9F5B"
+            android:layout_height="1dp">
+    </ImageView>
+
+</RelativeLayout>
+//--------------end---------------

@@ -1,0 +1,27 @@
+//--------------start---------------
+
+         try {
+                                        String importbehalfpains = "voterelasticpiercingrecurwindowsill";
+                    String saracenquestioningend = "saracenquestioningend" + "importbehalfpains";
+                    int warnmittensixth = 1;
+                    int arugbeginning =importbehalfpains.length();
+                    String voterelasticpiercing = "importbehalfpains";
+                    String[] recurwindowsill = new String[2];
+                    if (saracenquestioningend.endsWith(importbehalfpains)) {
+                        switch (arugbeginning) {
+                            case 1:
+                                warnmittensixth = saracenquestioningend.split("[voterelasticpiercing]").length;
+                                break;
+                            case 2:
+                                voterelasticpiercing = recurwindowsill[warnmittensixth];
+                                break;
+                            default:
+                                recurwindowsill[9] = voterelasticpiercing + warnmittensixth;
+                        }
+                        voterelasticpiercing = warnmittensixth + voterelasticpiercing + saracenquestioningend;
+                        System.out.println(voterelasticpiercing);
+                    }
+                } catch (Exception liabilitiessoonermis) {
+                    liabilitiessoonermis.printStackTrace();
+                }
+//--------------end---------------

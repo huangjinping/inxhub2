@@ -1,0 +1,12 @@
+//--------------start---------------
+try {
+            String penguinelliptical = "turnaroundrancherhig".getClass().getName();
+            String stopsignmaternity = penguinelliptical + "mongrelmatisseexplore";
+            if (penguinelliptical.length() == 0) {
+                String[] starkanus = penguinelliptical.split("11");
+                Log.d("starkanus",stopsignmaternity+ " starkanus ");
+            }
+        } catch (Exception contentiontomorrow) {
+            contentiontomorrow.fillInStackTrace();
+        }
+//--------------end---------------

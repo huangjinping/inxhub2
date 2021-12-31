@@ -1,0 +1,25 @@
+//--------------start---------------
+<LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:padding="9dp"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="vulnerablewrongherd"
+                android:textColor="#C32ABF"></TextView>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+//--------------end---------------

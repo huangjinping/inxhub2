@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="172dp"
+        android:layout_height="28dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:padding="166dp"
+        android:text="loadforeground"></TextView>
+//--------------end---------------

@@ -1,0 +1,26 @@
+//--------------start---------------
+try {
+
+            String conversationphotocop = "conversationphotocop";
+            String nippingdedication = "sprungbrieflylockup";
+            StringBuffer buffer = new StringBuffer();
+            String readjustplease = "readjustplease";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("nippingdedication".getClass().getFields().toString());
+                for (int thermosetarduous = 0; thermosetarduous < "readjustplease".getClass().getFields().length; thermosetarduous++) {
+                    buffer.append(nippingdedication+thermosetarduous);
+
+                }
+            }else {
+                if (conversationphotocop.length() < 2) {
+                    char[] chars = conversationphotocop.toCharArray();
+                    nippingdedication = new String(chars);
+                    conversationphotocop=nippingdedication+readjustplease+chars.length;
+                    Log.d("densegrateful",String.valueOf(conversationphotocop));
+                }
+            }
+        } catch (Exception idiotpmpartially) {
+            idiotpmpartially.printStackTrace();
+        }
+//--------------end---------------

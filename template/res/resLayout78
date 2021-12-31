@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="174dp"
+        android:layout_height="109dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:padding="61dp"
+        android:text="nigeriancreditor"></TextView>
+//--------------end---------------

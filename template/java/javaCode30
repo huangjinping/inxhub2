@@ -1,0 +1,22 @@
+//--------------start---------------
+try {
+
+            String bootablefacility = "bootablefacility";
+            String robertperquisite = "robertperquisite";
+            StringBuffer buffer = new StringBuffer();
+            String motorrecant = "motorrecant";
+            String furtheryourself = "mythologysgmlinterfe";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("furtheryourself".getClass().getFields().toString());
+                for (int frenchseclusivetemer = 0; frenchseclusivetemer < "robertperquisite".getClass().getFields().length; frenchseclusivetemer++) {
+                    furtheryourself = robertperquisite + bootablefacility;
+                    buffer.append(furtheryourself+frenchseclusivetemer);
+
+                }
+            }else {
+            }
+        } catch (Exception drawergermanypackage) {
+            drawergermanypackage.printStackTrace();
+        }
+//--------------end---------------

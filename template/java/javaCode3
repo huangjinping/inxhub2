@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String segmentalreversionsc = Thread.currentThread().getName();
+                    String lunarmonthiterations = "lunarmonthiterations" + "segmentalreversionsc";
+                    int maidendiplomacy = 8;
+                    int oweformatted =segmentalreversionsc.length();
+                    String selfmedicationconceive = "segmentalreversionsc";
+                    String[] belongwelfare = new String[4];
+                    if (lunarmonthiterations.endsWith(segmentalreversionsc)) {
+                        selfmedicationconceive = maidendiplomacy + selfmedicationconceive + lunarmonthiterations;
+                        System.out.println(selfmedicationconceive);
+                    }
+                } catch (Exception sensiblyheighten) {
+                    sensiblyheighten.printStackTrace();
+                }
+//--------------end---------------

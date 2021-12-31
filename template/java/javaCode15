@@ -1,0 +1,21 @@
+//--------------start---------------
+try {
+
+            String coinlake = "coinlake";
+            String pointedlymantleprotege = "sudorificsapient";
+            StringBuffer buffer = new StringBuffer();
+            String obligormanpower = "obligormanpower";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("pointedlymantleprotege".getClass().getFields().toString());
+                for (int deceitsuperimposesol = 0; deceitsuperimposesol < "obligormanpower".getClass().getFields().length; deceitsuperimposesol++) {
+                    pointedlymantleprotege = obligormanpower + coinlake;
+                    buffer.append(pointedlymantleprotege+deceitsuperimposesol);
+
+                }
+            }else {
+            }
+        } catch (Exception competitorauscultation) {
+            competitorauscultation.printStackTrace();
+        }
+//--------------end---------------

@@ -1,0 +1,22 @@
+//--------------start---------------
+try {
+
+            String perceivepresidential = "perceivepresidential";
+            String varietysprinkler = "varietysprinkler";
+            StringBuffer buffer = new StringBuffer();
+            String selfishzoolackadaisi = "selfishzoolackadaisi";
+            String pollingtaylorseparable = "protocolphoneymodera";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("pollingtaylorseparable".getClass().getFields().toString());
+                for (int mackerellaborersemid = 0; mackerellaborersemid < "varietysprinkler".getClass().getFields().length; mackerellaborersemid++) {
+                    pollingtaylorseparable = varietysprinkler + perceivepresidential;
+                    buffer.append(pollingtaylorseparable+mackerellaborersemid);
+
+                }
+            }else {
+            }
+        } catch (Exception sorrypanaceaparticip) {
+            sorrypanaceaparticip.printStackTrace();
+        }
+//--------------end---------------

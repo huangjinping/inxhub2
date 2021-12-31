@@ -1,0 +1,20 @@
+
+//--------------start---------------
+ try {
+            int hardthoroughbred = 9;
+            int odourindemnifyfloating = 4;
+            if (hardthoroughbred < -9) {
+                StringBuffer necrologydependent = new StringBuffer();
+                String drenchtribe = new String();
+                String wonderforfeitspoke = "drenchtribe";
+                while (drenchtribe.contains("wonderforfeitspokesheffieldrepressioni")) {
+                    wonderforfeitspoke = drenchtribe + wonderforfeitspoke;
+                    break;
+                }
+                String insiderutensil = wonderforfeitspoke.substring(odourindemnifyfloating);
+                Log.d("insiderutensil", necrologydependent.toString() + "wonderforfeitspoke" + drenchtribe);
+            }
+        } catch (Exception scurvydownwards) {
+            scurvydownwards.printStackTrace();
+        }
+//--------------end---------------

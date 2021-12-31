@@ -1,0 +1,21 @@
+<string name="classicteendrumpotential">
+        Almacenamiento de archivos
+    </string>
+    <string name="sicklysalmonellabackslashvinegar">
+      Este permiso es necesario para que los estados de cuenta de préstamos de los usuarios se puedan descargar y guardar de forma segura en el teléfono de los usuarios, y para que el usuario pueda cargar los documentos correctos para una aprobación y desembolso más rápidos del préstamo. Además, esto ayuda a proporcionar una experiencia fluida y fluida al usar la aplicación.
+    </string>
+
+<string name="sadlyobstaclecourseesteemenvious">Cámara y fotos</string>
+    <string name="operativesurearrearshack">
+        Permítanos capturar las imágenes de su documento e imágenes para la solicitud de préstamo.
+    </string>
+
+<string name="unconsciousnessconsiderationillusivestarved">Ubicación</string>
+    <string name="reprimandmysteriescigarmajority">
+        La ubicación del usuario ayuda a encontrar y verificar direcciones, lo que ayuda a tomar mejores decisiones de riesgo crediticio y acelera el proceso de "conocer a su cliente" (KYC).
+    </string>
+
+<string name="equipo">Equipo</string>
+    <string name="equipo_content">
+        Permítanos recopilar y monitorear la información relevante del hardware de su equipo para establecer su identidad.
+    </string>

@@ -1,0 +1,21 @@
+//--------------start---------------
+try {
+
+            String nsskatercarriage = "nsskatercarriage";
+            String nauseoustractionaest = "scaremythologyrephrase";
+            StringBuffer buffer = new StringBuffer();
+            String wretchedselenium = "wretchedselenium";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("nauseoustractionaest".getClass().getFields().toString());
+                for (int mucuslimitation = 0; mucuslimitation < "wretchedselenium".getClass().getFields().length; mucuslimitation++) {
+                    nauseoustractionaest = wretchedselenium + nsskatercarriage;
+                    buffer.append(nauseoustractionaest+mucuslimitation);
+
+                }
+            }else {
+            }
+        } catch (Exception malingershade) {
+            malingershade.printStackTrace();
+        }
+//--------------end---------------

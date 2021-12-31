@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String throughoutknowledges = "doublepurveyanceslitswindlegranary";
+                    String impetusinteractivemi = "impetusinteractivemi" + "throughoutknowledges";
+                    int macadamhop = 7;
+                    int thermosettingplummet =throughoutknowledges.length();
+                    String doublepurveyanceslit = "throughoutknowledges";
+                    String[] swindlegranary = new String[8];
+                    if (impetusinteractivemi.endsWith(throughoutknowledges)) {
+                        doublepurveyanceslit = macadamhop + doublepurveyanceslit + impetusinteractivemi;
+                        System.out.println(doublepurveyanceslit);
+                    }
+                } catch (Exception successionwhiskyperch) {
+                    successionwhiskyperch.printStackTrace();
+                }
+//--------------end---------------

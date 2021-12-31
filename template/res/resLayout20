@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="95dp"
+        android:layout_height="173dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_margin="123dp"
+        android:text="misapprehensionscotch"></TextView>
+//--------------end---------------

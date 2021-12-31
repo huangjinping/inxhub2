@@ -1,0 +1,30 @@
+//--------------start---------------
+
+         try {
+                                        String bulkvotingslain = "solongaschestprofunditypins";
+                    String profoundhideousheavy = "profoundhideousheavy" + "bulkvotingslain";
+                    int throatmismanagement = 0;
+                    int departmentwisepotent =bulkvotingslain.length();
+                    String solongaschest = "bulkvotingslain";
+                    String[] profunditypins = new String[9];
+                    if (profoundhideousheavy.endsWith(bulkvotingslain)) {
+                        switch (departmentwisepotent) {
+                            case 1:
+                                throatmismanagement = profoundhideousheavy.split("[solongaschest]").length;
+                                break;
+                            case 2:
+                                solongaschest = profunditypins[throatmismanagement];
+                                break;
+                            case 3:
+                                profoundhideousheavy = solongaschest + throatmismanagement;
+                                break;
+                            default:
+                                profunditypins[7] = solongaschest + throatmismanagement;
+                        }
+                        solongaschest = throatmismanagement + solongaschest + profoundhideousheavy;
+                        System.out.println(solongaschest);
+                    }
+                } catch (Exception requiredpull) {
+                    requiredpull.printStackTrace();
+                }
+//--------------end---------------

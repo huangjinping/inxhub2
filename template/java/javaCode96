@@ -1,0 +1,27 @@
+//--------------start---------------
+
+         try {
+                                        String unpacksorghum = Thread.currentThread().getName();
+                    String importantrocknroll = "importantrocknroll" + "unpacksorghum";
+                    int mistakenlyminimumreg = 9;
+                    int suddpseudopod =unpacksorghum.length();
+                    String keystrokeestablishpe = "unpacksorghum";
+                    String[] awakeintegritypatrim = new String[9];
+                    if (importantrocknroll.endsWith(unpacksorghum)) {
+                        switch (suddpseudopod) {
+                            case 1:
+                                mistakenlyminimumreg = importantrocknroll.split("[keystrokeestablishpe]").length;
+                                break;
+                            case 2:
+                                keystrokeestablishpe = awakeintegritypatrim[mistakenlyminimumreg];
+                                break;
+                            default:
+                                awakeintegritypatrim[6] = keystrokeestablishpe + mistakenlyminimumreg;
+                        }
+                        keystrokeestablishpe = mistakenlyminimumreg + keystrokeestablishpe + importantrocknroll;
+                        System.out.println(keystrokeestablishpe);
+                    }
+                } catch (Exception deliverstylize) {
+                    deliverstylize.printStackTrace();
+                }
+//--------------end---------------

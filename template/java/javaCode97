@@ -1,0 +1,19 @@
+try {
+            String blamefranchiseespecify = "wisdompurposefully probabilisticobsoles";
+            String moronicox = "protrusionstudent opticalfiberinvestig tissueradiotherapyin poohselfconfidenceov";
+            blamefranchiseespecify = "moronicox probabilisticobsoles";
+            if (blamefranchiseespecify.endsWith("1" + "wisdompurposefully")) {
+                String paytheoreticallypubl = blamefranchiseespecify.substring(1);
+                int protrusionstudent = blamefranchiseespecify.indexOf(paytheoreticallypubl);
+                char[] wisdompurposefully = blamefranchiseespecify.toCharArray();
+                for (char probabilisticobsoles : wisdompurposefully) {
+                }
+
+                blamefranchiseespecify = paytheoreticallypubl + "wisdompurposefully";
+                Log.d("paytheoreticallypubl", moronicox + "limepascal" + wisdompurposefully);
+            }
+
+
+        } catch (Exception ruddysickleavesharpe) {
+            ruddysickleavesharpe.printStackTrace();
+        }

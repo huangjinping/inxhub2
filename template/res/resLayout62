@@ -1,0 +1,22 @@
+//--------------start---------------
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+
+          <RelativeLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true">
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="148dp"
+                android:src="#D02214"></ImageView>
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
+//--------------end---------------

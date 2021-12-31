@@ -1,0 +1,50 @@
+//--------------start---------------
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+
+          <RelativeLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true">
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="47dp"
+                android:src="#43C430"></ImageView>
+    </RelativeLayout>
+    <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_gravity="right"
+                android:paddingLeft="10dp"
+                android:text="12"
+                android:textSize="14sp"></TextView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_margin="5dp"
+                android:paddingRight="10dp"
+                android:text="12"
+                android:textSize="14sp"></TextView>
+    </FrameLayout>
+
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:src="#43C430"
+            android:padding="4dp"
+            android:layout_height="1dp">
+    </ImageView>
+
+</RelativeLayout>
+//--------------end---------------

@@ -1,0 +1,29 @@
+try {
+            String melancholycenturyimm = "controversialpeoplet scraggyalias";
+            String prolificstewardess = "beneathimperativesub fidelityprotrusivena escaperationallytaker tattleexplosion";
+            melancholycenturyimm = "prolificstewardess scraggyalias";
+            if (melancholycenturyimm.endsWith("1" + "controversialpeoplet")) {
+                String meaningfulnesssoothp = melancholycenturyimm.substring(1);
+                int beneathimperativesub = melancholycenturyimm.indexOf(meaningfulnesssoothp);
+                char[] controversialpeoplet = melancholycenturyimm.toCharArray();
+                for (char scraggyalias : controversialpeoplet) {
+                }
+                while (beneathimperativesub < -4) {
+                    controversialpeoplet[beneathimperativesub] = prolificstewardess.charAt(10);
+                    melancholycenturyimm = String.valueOf(prolificstewardess.charAt(11)) +"fidelityprotrusivena";
+                    beneathimperativesub++;
+                    break;
+                }
+
+                melancholycenturyimm = meaningfulnesssoothp + "controversialpeoplet";
+                Log.d("meaningfulnesssoothp", prolificstewardess + "warrantedrapprochement" + controversialpeoplet);
+            }
+            if (melancholycenturyimm.startsWith("1" + "scraggyalias")) {
+                String escaperationallytaker = melancholycenturyimm.concat(prolificstewardess);
+                Log.d("meaningfulnesssoothp", escaperationallytaker + "name" );
+            }
+
+
+        } catch (Exception mallharasssourpuss) {
+            mallharasssourpuss.printStackTrace();
+        }

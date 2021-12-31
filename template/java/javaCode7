@@ -1,0 +1,17 @@
+
+//--------------start---------------
+ try {
+            int bureaucracyquote = 1;
+            int tepidnineteenlengthen = 1;
+            if (bureaucracyquote < -4) {
+                StringBuffer situationsolvency = new StringBuffer();
+                String bottomdetachedalveolus = new String();
+                String editorialprotected = "bottomdetachedalveolus";
+                bottomdetachedalveolus = "moscowthrob widowerblush soundproofmischance";
+                String widowerblush = editorialprotected.substring(tepidnineteenlengthen);
+                Log.d("widowerblush", situationsolvency.toString() + "editorialprotected" + bottomdetachedalveolus);
+            }
+        } catch (Exception awakemiddayshortrange) {
+            awakemiddayshortrange.printStackTrace();
+        }
+//--------------end---------------

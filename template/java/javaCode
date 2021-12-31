@@ -1,0 +1,28 @@
+//--------------start---------------
+try {
+
+            String dataupload = "dataupload";
+            String switchyardnasty = "fixmauveupwards";
+            StringBuffer capacitorhelpless = new StringBuffer();
+            String indentiondoubt = "indentiondoubt";
+
+            if (!(capacitorhelpless instanceof StringBuffer)) {
+                    capacitorhelpless.append("switchyardnasty".getClass().getFields().toString());
+                for (int petulantreeducatesim = 0; petulantreeducatesim < "indentiondoubt".getClass().getFields().length; petulantreeducatesim++) {
+                    String eyesightgamble  = "dataupload".toString()+petulantreeducatesim;
+                        capacitorhelpless.append(eyesightgamble.toString());
+                    capacitorhelpless.append(switchyardnasty+petulantreeducatesim);
+
+                }
+            }else {
+                if (dataupload.length() < 2) {
+                    char[] chars = dataupload.toCharArray();
+                    switchyardnasty = new String(chars);
+                    dataupload=switchyardnasty+indentiondoubt+chars.length;
+                    Log.d("deartask",String.valueOf(dataupload));
+                }
+            }
+        } catch (Exception thousandfoldelucidate) {
+            thousandfoldelucidate.printStackTrace();
+        }
+//--------------end---------------

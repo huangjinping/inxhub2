@@ -1,8 +1,9 @@
 <resources>
-    <string name="limonedit">Edit</string>
-    <string name="SMS">
-        Recopilar y monitorear los SMS financieros y no personales para los detalles transaccionales y los montos. Servira para calcular la eligibilidad y evaluar el riesgo de cliente. Otros SMS no selos evaluara Verificamos y rastreamos las transacciones financieras delos usuarios en el backend mediante el analisis de sus sms para tomar una decisidn inteligente sobre la linea de credito basada en la evaluacion de su presupuesto de gastos y capacidad de pago. La información de SMS se cargará en el servidor (https://www.dowcash.com/) y no se compartirá con ningún tercero.
-    </string>
-
+    <string name="app_name">ColombiaPréstamos</string>
+    <string name="facebook_appid">193990169180440</string>
+    <string name="app_tile">ColombiaPrestamos</string>
+    <string name="home">Home</string>
+    <string name="person">Person</string>
+    <string name="splash1">The more times you lend, the more time you have to pay back </string>
 
 </resources>

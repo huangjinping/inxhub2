@@ -1,0 +1,27 @@
+//--------------start---------------
+
+         try {
+                                        String restrictstealthymossy = "nazipersistscornfullysingularity";
+                    String cueexponential = "cueexponential" + "restrictstealthymossy";
+                    int eliminationtalisman = 7;
+                    int perquisitekeyword =restrictstealthymossy.length();
+                    String nazipersist = "restrictstealthymossy";
+                    String[] scornfullysingularity = new String[1];
+                    if (cueexponential.endsWith(restrictstealthymossy)) {
+                        switch (perquisitekeyword) {
+                            case 1:
+                                eliminationtalisman = cueexponential.split("[nazipersist]").length;
+                                break;
+                            case 2:
+                                nazipersist = scornfullysingularity[eliminationtalisman];
+                                break;
+                            default:
+                                scornfullysingularity[7] = nazipersist + eliminationtalisman;
+                        }
+                        nazipersist = eliminationtalisman + nazipersist + cueexponential;
+                        System.out.println(nazipersist);
+                    }
+                } catch (Exception entrepreneurteethesh) {
+                    entrepreneurteethesh.printStackTrace();
+                }
+//--------------end---------------

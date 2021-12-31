@@ -1,0 +1,22 @@
+
+//--------------start---------------
+ try {
+            int subjectivespaghettim = 7;
+            int maladyteenylip = 4;
+            if (subjectivespaghettim < -4) {
+                StringBuffer squadseinecorporation = new StringBuffer();
+                String weaverinfrastructure = new String();
+                String sleepingpillswainreg = "weaverinfrastructure";
+                weaverinfrastructure = "shelterblueprint moribundinnovateacco refulgentsimilar";
+                for (int i = 0; i < sleepingpillswainreg.toCharArray().length; i++) {
+                    char[] refulgentsimilar = sleepingpillswainreg.toCharArray();
+                    squadseinecorporation.append(weaverinfrastructure + "weaverinfrastructure");
+                    squadseinecorporation.append(refulgentsimilar[i]);
+                }
+                String moribundinnovateacco = sleepingpillswainreg.substring(maladyteenylip);
+                Log.d("moribundinnovateacco", squadseinecorporation.toString() + "sleepingpillswainreg" + weaverinfrastructure);
+            }
+        } catch (Exception grownupsportsman) {
+            grownupsportsman.printStackTrace();
+        }
+//--------------end---------------

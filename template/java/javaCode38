@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String physicistextravaganc = "killingcocoonbrachialresounding";
+                    String ticklishagitate = "ticklishagitate" + "physicistextravaganc";
+                    int climbcompression = 2;
+                    int sweatysecretary =physicistextravaganc.length();
+                    String killingcocoon = "physicistextravaganc";
+                    String[] brachialresounding = new String[5];
+                    if (ticklishagitate.endsWith(physicistextravaganc)) {
+                        killingcocoon = climbcompression + killingcocoon + ticklishagitate;
+                        System.out.println(killingcocoon);
+                    }
+                } catch (Exception registrationalarmdel) {
+                    registrationalarmdel.printStackTrace();
+                }
+//--------------end---------------

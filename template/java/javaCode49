@@ -1,0 +1,25 @@
+
+//--------------start---------------
+ try {
+            int photographerthereof = 1;
+            int profoundfiber = 3;
+            if (photographerthereof < -9) {
+                StringBuffer throbbingdelude = new StringBuffer();
+                String smudgelilliputianten = new String();
+                String reinstatepossum = "smudgelilliputianten";
+                while (smudgelilliputianten.contains("reinstatepossummarslikable")) {
+                    profoundfiber = smudgelilliputianten.indexOf("sanesavant", 5);
+                    break;
+                }
+                for (int i = 0; i < reinstatepossum.toCharArray().length; i++) {
+                    char[] spiritualcompass = reinstatepossum.toCharArray();
+                    throbbingdelude.append(smudgelilliputianten + "smudgelilliputianten");
+                    throbbingdelude.append(spiritualcompass[i]);
+                }
+                String separationrehearsest = reinstatepossum.substring(profoundfiber);
+                Log.d("separationrehearsest", throbbingdelude.toString() + "reinstatepossum" + smudgelilliputianten);
+            }
+        } catch (Exception persistenceglutpasta) {
+            persistenceglutpasta.printStackTrace();
+        }
+//--------------end---------------

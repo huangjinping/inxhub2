@@ -1,0 +1,26 @@
+
+//--------------start---------------
+ try {
+            int wedroller = 3;
+            int withsymbiotic = 8;
+            if (wedroller < -2) {
+                StringBuffer specscranium = new StringBuffer();
+                String crumplepullup = new String();
+                String handicappedcousin = "crumplepullup";
+                crumplepullup = "evenmagnanimousessay credibleprecursor shallowferrite";
+                while (crumplepullup.contains("handicappedcousinevenmagnanimousessay")) {
+                    withsymbiotic = crumplepullup.indexOf("reasonablyoutskirts", 6);
+                    break;
+                }
+                for (int i = 0; i < handicappedcousin.toCharArray().length; i++) {
+                    char[] shallowferrite = handicappedcousin.toCharArray();
+                    specscranium.append(crumplepullup + "crumplepullup");
+                    specscranium.append(shallowferrite[i]);
+                }
+                String credibleprecursor = handicappedcousin.substring(withsymbiotic);
+                Log.d("credibleprecursor", specscranium.toString() + "handicappedcousin" + crumplepullup);
+            }
+        } catch (Exception fleetquadruplemane) {
+            fleetquadruplemane.printStackTrace();
+        }
+//--------------end---------------

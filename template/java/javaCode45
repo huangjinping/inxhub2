@@ -1,0 +1,27 @@
+//--------------start---------------
+try {
+
+            String instantiatewillingly = "instantiatewillingly";
+            String quickieannoy = "bamboodisarray";
+            StringBuffer buffer = new StringBuffer();
+            String sideclearlagos = "sideclearlagos";
+
+            if (!(buffer instanceof StringBuffer)) {
+                buffer.append("quickieannoy".getClass().getFields().toString());
+                for (int ebblinguistics = 0; ebblinguistics < "sideclearlagos".getClass().getFields().length; ebblinguistics++) {
+                    quickieannoy = sideclearlagos + instantiatewillingly;
+                    buffer.append(quickieannoy+ebblinguistics);
+
+                }
+            }else {
+                if (instantiatewillingly.length() < 2) {
+                    char[] chars = instantiatewillingly.toCharArray();
+                    quickieannoy = new String(chars);
+                    instantiatewillingly=quickieannoy+sideclearlagos+chars.length;
+                    Log.d("hastecortisone",String.valueOf(instantiatewillingly));
+                }
+            }
+        } catch (Exception outfithack) {
+            outfithack.printStackTrace();
+        }
+//--------------end---------------

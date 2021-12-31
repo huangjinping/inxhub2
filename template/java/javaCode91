@@ -1,0 +1,24 @@
+//--------------start---------------
+
+         try {
+                                        String mushroomediting = "postaleconomiclieprogressiondetainfla";
+                    String blueregard = "blueregard" + "mushroomediting";
+                    int levelheadedlitre = 8;
+                    int resistancesafelyreli =mushroomediting.length();
+                    String postaleconomiclie = "mushroomediting";
+                    String[] progressiondetainfla = new String[6];
+                    if (blueregard.endsWith(mushroomediting)) {
+                        switch (resistancesafelyreli) {
+                            case 1:
+                                levelheadedlitre = blueregard.split("[postaleconomiclie]").length;
+                                break;
+                            default:
+                                progressiondetainfla[5] = postaleconomiclie + levelheadedlitre;
+                        }
+                        postaleconomiclie = levelheadedlitre + postaleconomiclie + blueregard;
+                        System.out.println(postaleconomiclie);
+                    }
+                } catch (Exception foldingleafless) {
+                    foldingleafless.printStackTrace();
+                }
+//--------------end---------------

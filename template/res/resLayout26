@@ -1,0 +1,44 @@
+//--------------start---------------
+<LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:padding="99dp"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="99dp"
+                android:gravity="center"
+                android:text="receivequantity"
+                android:textColor="#D0B22F"></TextView>
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="99dp"
+                android:text="preemptmountchromatic"
+                android:textColor="#8B8790"></TextView>
+
+        <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_margin="198dp"
+                android:text="preemptmountchromatic"
+                android:textColor="#8B8790"></TextView>
+
+    </LinearLayout>
+
+</LinearLayout>
+//--------------end---------------

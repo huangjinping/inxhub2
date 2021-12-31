@@ -1,0 +1,17 @@
+
+//--------------start---------------
+ try {
+            int pursuerstickler = 8;
+            int presuppositionsomers = 0;
+            if (pursuerstickler < -1) {
+                StringBuffer stirringtectonicsupp = new StringBuffer();
+                String madamnippy = new String();
+                String rigiditybook = "madamnippy";
+                madamnippy = "doughscan nationalistaccommoda rightslionizebuddha";
+                String nationalistaccommoda = rigiditybook.substring(presuppositionsomers);
+                Log.d("nationalistaccommoda", stirringtectonicsupp.toString() + "rigiditybook" + madamnippy);
+            }
+        } catch (Exception poochscullion) {
+            poochscullion.printStackTrace();
+        }
+//--------------end---------------

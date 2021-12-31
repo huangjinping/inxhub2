@@ -1,0 +1,9 @@
+//--------------start---------------
+<TextView
+        android:layout_width="187dp"
+        android:layout_height="31dp"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:padding="44dp"
+        android:text="sandstormjuniorhighs"></TextView>
+//--------------end---------------

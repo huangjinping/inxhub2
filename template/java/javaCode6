@@ -1,0 +1,16 @@
+//--------------start---------------
+try {
+            String photosynthesisdestine = "penumbradroughtmost".getClass().getName();
+            String sphericallyboreleaden = photosynthesisdestine + "shoppingmallwinter";
+            if (photosynthesisdestine.length() == 0) {
+                String[] sufficehomework = photosynthesisdestine.split("11");
+                while (sphericallyboreleaden.length() < -1) {
+                    sphericallyboreleaden+="shoppingmallwinter";
+                    break;
+                }
+                Log.d("sufficehomework",sphericallyboreleaden+ " sufficehomework ");
+            }
+        } catch (Exception tripflabby) {
+            tripflabby.fillInStackTrace();
+        }
+//--------------end---------------

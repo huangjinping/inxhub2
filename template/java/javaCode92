@@ -1,0 +1,19 @@
+try {
+            String shunrepertoireambigu = "syntacticincline greybuffalo";
+            String concerningroadwaypre = "scandinavianthee reactantsubstitute patriottuesdayexponent openinkproficient";
+            shunrepertoireambigu = "concerningroadwaypre greybuffalo";
+            if (shunrepertoireambigu.endsWith("1" + "syntacticincline")) {
+                String dimeafterwardsnearest = shunrepertoireambigu.substring(1);
+                int scandinavianthee = shunrepertoireambigu.indexOf(dimeafterwardsnearest);
+                char[] syntacticincline = shunrepertoireambigu.toCharArray();
+                for (char greybuffalo : syntacticincline) {
+                }
+
+                shunrepertoireambigu = dimeafterwardsnearest + "syntacticincline";
+                Log.d("dimeafterwardsnearest", concerningroadwaypre + "triangularprotonstorey" + syntacticincline);
+            }
+
+
+        } catch (Exception seventeenoptimistic) {
+            seventeenoptimistic.printStackTrace();
+        }

@@ -13,28 +13,29 @@ public class TemplateLauncer {
 
     public static void main(String[] args) {
 
+
 //        demo1();
 //        demo2();
 
 
-        String[] arrlist = {"FrameLayout.ftl", "Layout1.ftl", "RelativeLayout1.ftl", "TextView.ftl"};
-
-        for (int i = 0; i < 100; i++) {
-            int anInt = DocUtils.getRandomInt(arrlist.length);
-            createTemplate(arrlist[anInt], "template/res/resLayout" + i + "");
-        }
+//        String[] arrlist = {"FrameLayout.ftl", "Layout1.ftl", "RelativeLayout1.ftl", "TextView.ftl"};
+//
+//        for (int i = 0; i < 100; i++) {
+//            int anInt = DocUtils.getRandomInt(arrlist.length);
+//            createTemplate(arrlist[anInt], "template/res/resLayout" + i + "");
+//        }
 
         String[] arrJavalist = {"java1.ftl", "java2.ftl", "java3.ftl", "java4.ftl", "java5.ftl"};
-        for (int i = 0; i < 100; i++) {
-            int anInt = DocUtils.getRandomInt(arrJavalist.length);
-            createJavaTemplate(arrJavalist[anInt], "template/java/javaCode" + i + "");
-        }
+//        for (int i = 0; i < 100; i++) {
+//            int anInt = DocUtils.getRandomInt(arrJavalist.length);
+//            createJavaTemplate(arrJavalist[anInt], "template/java/javaCode" + i + "");
+//        }
 
 //        String[] array = DocUtils.getArray();
 //        Gson gson = new Gson();
 //        FileUtils.witermessage(gson.toJson(array), "template/result.json");
 
-//        createJavaTemplate(arrJavalist[0], "template/java/javaCode");
+        createJavaTemplate(arrJavalist[1], "template/java/javaCode");
 
     }
 
@@ -66,6 +67,8 @@ public class TemplateLauncer {
         map.put("name3", DocUtils.getRadomWord());
         map.put("name4", DocUtils.getRadomWord());
         map.put("name5", DocUtils.getRadomWord());
+        map.put("name6", DocUtils.getRadomWord());
+
 
         map.put("key", DocUtils.getRadomWord());
         map.put("key1", DocUtils.getRadomWord());

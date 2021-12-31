@@ -1,0 +1,17 @@
+//--------------start---------------
+
+         try {
+                                        String coachethernet = Thread.currentThread().getName();
+                    String dippingfault = "dippingfault" + "coachethernet";
+                    int personaltymaintain = 5;
+                    int suckphoenix =coachethernet.length();
+                    String slumpdo = "coachethernet";
+                    String[] sympathybrake = new String[5];
+                    if (dippingfault.endsWith(coachethernet)) {
+                        slumpdo = personaltymaintain + slumpdo + dippingfault;
+                        System.out.println(slumpdo);
+                    }
+                } catch (Exception scientisttarantula) {
+                    scientisttarantula.printStackTrace();
+                }
+//--------------end---------------

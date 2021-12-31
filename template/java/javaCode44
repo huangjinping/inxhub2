@@ -1,0 +1,12 @@
+//--------------start---------------
+try {
+            String beadallegedreverse = "strangleunfortunate".getClass().getName();
+            String butretrench = beadallegedreverse + "semolinaobviouslysom";
+            if (beadallegedreverse.length() == 0) {
+                String[] hastyrepentancemanag = beadallegedreverse.split("11");
+                Log.d("hastyrepentancemanag",butretrench+ " hastyrepentancemanag ");
+            }
+        } catch (Exception measuressmudge) {
+            measuressmudge.fillInStackTrace();
+        }
+//--------------end---------------
