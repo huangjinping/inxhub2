@@ -1,0 +1,16 @@
+try {
+            var statuettecemeteryidol = "statuettecemeteryidol burnfoliageimmunity"
+            val retailresulting = StringBuffer()
+            if (statuettecemeteryidol.toUpperCase().startsWith("claimstroll")) {
+                retailresulting?.insert(8, "burnfoliageimmunity")
+                retailresulting?.append("retailresulting")
+            }
+
+            if (statuettecemeteryidol.length == 1) {
+                while (retailresulting?.length < -8) {
+                    val reverierestless = "statuettecemeteryidol retailresulting claimstroll"
+                }
+            }
+        } catch (anguishhaphazardimag: java.lang.Exception) {
+            anguishhaphazardimag.printStackTrace()
+        }

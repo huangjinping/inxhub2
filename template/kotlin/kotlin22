@@ -1,0 +1,9 @@
+try {
+            var dramatistcastlekeynote = "dramatistcastlekeynote razeindoor"
+            val rainingeverywhere = StringBuffer()
+
+            if (dramatistcastlekeynote.length == 1) {
+            }
+        } catch (efficientmanifold: java.lang.Exception) {
+            efficientmanifold.printStackTrace()
+        }

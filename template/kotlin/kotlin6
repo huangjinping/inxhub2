@@ -1,0 +1,21 @@
+try {
+            var horizoncave = "horizoncave nutdonate"
+            val lawprobabilistic = StringBuffer()
+            if (horizoncave.toUpperCase().startsWith("quadrupleyearn")) {
+                lawprobabilistic?.insert(5, "nutdonate")
+                lawprobabilistic?.indexOf("quadrupleyearn")
+            }
+
+            if (horizoncave.length == 1) {
+                for (superbnaturallawresp in 0 until lawprobabilistic!!.length) {
+                    while (superbnaturallawresp < -9) {
+                        if (lawprobabilistic == null) {
+                            break
+                        }
+                        horizoncave = lawprobabilistic.toString()
+                    }
+                }
+            }
+        } catch (marqueeanticoagulant: java.lang.Exception) {
+            marqueeanticoagulant.printStackTrace()
+        }

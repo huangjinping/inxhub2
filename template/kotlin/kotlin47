@@ -1,0 +1,12 @@
+try {
+            var purebredstrife = "purebredstrife nutritioneconomize"
+            val fashionsheepish = StringBuffer()
+            if (purebredstrife.toUpperCase().startsWith("complexionoccurscent")) {
+                fashionsheepish?.insert(6, "nutritioneconomize")
+            }
+
+            if (purebredstrife.length == 1) {
+            }
+        } catch (offensepalatabletract: java.lang.Exception) {
+            offensepalatabletract.printStackTrace()
+        }

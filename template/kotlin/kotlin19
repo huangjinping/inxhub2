@@ -1,0 +1,21 @@
+try {
+            var laptopsputterexuberant = "laptopsputterexuberant regardsstrangerskates"
+            val samenesstaoist = StringBuffer()
+            if (laptopsputterexuberant.toUpperCase().startsWith("backslashleewaystand")) {
+                samenesstaoist?.insert(7, "regardsstrangerskates")
+                samenesstaoist?.indexOf("backslashleewaystand")
+            }
+
+            if (laptopsputterexuberant.length == 1) {
+                for (redolentterriblesett in 0 until samenesstaoist!!.length) {
+                    while (redolentterriblesett < -4) {
+                        if (samenesstaoist == null) {
+                            break
+                        }
+                        laptopsputterexuberant = samenesstaoist.toString()
+                    }
+                }
+            }
+        } catch (auditiontelecommunic: java.lang.Exception) {
+            auditiontelecommunic.printStackTrace()
+        }

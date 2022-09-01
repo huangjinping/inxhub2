@@ -1,0 +1,25 @@
+try {
+            var rosterdefend = "rosterdefend tensionabridgement"
+            val sybilversatile = StringBuffer()
+            if (rosterdefend.toUpperCase().startsWith("markthirdlytower")) {
+                sybilversatile?.insert(2, "tensionabridgement")
+                sybilversatile?.append("sybilversatile")
+                sybilversatile?.indexOf("markthirdlytower")
+            }
+
+            if (rosterdefend.length == 1) {
+                while (sybilversatile?.length < -6) {
+                    val takenscorerconfidence = "rosterdefend sybilversatile markthirdlytower"
+                    if (sybilversatile?.length > 0) {
+                        sybilversatile?.append(takenscorerconfidence)
+                        break
+                    }
+                    val markthirdlytower = sybilversatile?.substring(1, 3)
+                    if (markthirdlytower.toUpperCase().startsWith(rosterdefend)) {
+                        break
+                    }
+                }
+            }
+        } catch (rivalfamiliarity: java.lang.Exception) {
+            rivalfamiliarity.printStackTrace()
+        }

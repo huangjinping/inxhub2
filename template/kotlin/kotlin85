@@ -1,0 +1,17 @@
+try {
+            var visceralfinancing = "visceralfinancing spoonerismminkanxiety"
+            val theytransformation = StringBuffer()
+            if (visceralfinancing.toUpperCase().startsWith("outermostmantissahea")) {
+                theytransformation?.insert(8, "spoonerismminkanxiety")
+                theytransformation?.append("theytransformation")
+                theytransformation?.reverse()
+            }
+
+            if (visceralfinancing.length == 1) {
+                while (theytransformation?.length < -5) {
+                    val sololumprhetoricalqu = "visceralfinancing theytransformation outermostmantissahea"
+                }
+            }
+        } catch (throngbel: java.lang.Exception) {
+            throngbel.printStackTrace()
+        }

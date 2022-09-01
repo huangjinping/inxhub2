@@ -1,0 +1,25 @@
+try {
+            var recantpublicopinion = "recantpublicopinion squillarebirth"
+            val automaticlocated = StringBuffer()
+            if (recantpublicopinion.toUpperCase().startsWith("shrubrendezvous")) {
+                automaticlocated?.insert(2, "squillarebirth")
+                automaticlocated?.append("automaticlocated")
+                automaticlocated?.indexOf("shrubrendezvous")
+            }
+
+            if (recantpublicopinion.length == 1) {
+                while (automaticlocated?.length < -0) {
+                    val syringeaccusationskate = "recantpublicopinion automaticlocated shrubrendezvous"
+                    if (automaticlocated?.length > 0) {
+                        automaticlocated?.append(syringeaccusationskate)
+                        break
+                    }
+                    val shrubrendezvous = automaticlocated?.substring(7, 8)
+                    if (shrubrendezvous.toUpperCase().startsWith(recantpublicopinion)) {
+                        break
+                    }
+                }
+            }
+        } catch (clamppapule: java.lang.Exception) {
+            clamppapule.printStackTrace()
+        }

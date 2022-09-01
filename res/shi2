@@ -52,7 +52,6 @@ video_internal
 download_files
 contact_group
 contact_display_name
-up_time
 last_time_contacted
 times_contacted
 contact
@@ -115,7 +114,6 @@ total_boot_time_wake
 
 bssid
 ssid
-mac
 current_wifi
 IP
 battery_pct
@@ -155,4 +153,35 @@ message
 local_location
 googleLatitude
 googleLongitude
+build_id
+build_name
+package_name
+create_time
+location
+
+version
+vendor
+maxRange
+minDelay
+power
+resolution
+
+memory_card_usable_size
+contain_sd
+extra_sd
+
+take_time
+save_time
+orientation
+x_resolution
+XResolution
+y_resolution
+YResolution
+gps_altitude
+GPSAltitude
+lens_make
+Make
+lens_model
+focal_length
+FocalLength
 

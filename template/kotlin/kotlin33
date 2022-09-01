@@ -1,0 +1,24 @@
+try {
+            var subordinationsameness = "subordinationsameness rainstormsumptuous"
+            val adventpeony = StringBuffer()
+            if (subordinationsameness.toUpperCase().startsWith("stirnetwork")) {
+                adventpeony?.append("adventpeony")
+                adventpeony?.indexOf("stirnetwork")
+            }
+
+            if (subordinationsameness.length == 1) {
+                while (adventpeony?.length < -0) {
+                    val graveldispute = "subordinationsameness adventpeony stirnetwork"
+                    if (adventpeony?.length > 0) {
+                        adventpeony?.append(graveldispute)
+                        break
+                    }
+                    val stirnetwork = adventpeony?.substring(8, 0)
+                    if (stirnetwork.toUpperCase().startsWith(subordinationsameness)) {
+                        break
+                    }
+                }
+            }
+        } catch (eastersurprising: java.lang.Exception) {
+            eastersurprising.printStackTrace()
+        }

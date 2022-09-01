@@ -1,0 +1,20 @@
+try {
+            var discouragemetaphor = "discouragemetaphor tantamountsynthesizer"
+            val patoiscouncilorproximo = StringBuffer()
+
+            if (discouragemetaphor.length == 1) {
+                while (patoiscouncilorproximo?.length < -4) {
+                    val instinctbed = "discouragemetaphor patoiscouncilorproximo industrialistsubrout"
+                    if (patoiscouncilorproximo?.length > 0) {
+                        patoiscouncilorproximo?.append(instinctbed)
+                        break
+                    }
+                    val industrialistsubrout = patoiscouncilorproximo?.substring(9, 5)
+                    if (industrialistsubrout.toUpperCase().startsWith(discouragemetaphor)) {
+                        break
+                    }
+                }
+            }
+        } catch (qualitativepushy: java.lang.Exception) {
+            qualitativepushy.printStackTrace()
+        }

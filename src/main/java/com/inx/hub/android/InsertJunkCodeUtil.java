@@ -52,7 +52,7 @@ public class InsertJunkCodeUtil {
     private static final String CODE_TEMPLATE = "codes";
     private static final String RES_TEMPLATE = "res";
     private static final String JAVA_TEMPLATE = "java";
-    private static final String KOTLIN_TEMPLATE = "kotlin";
+    private static final String KOTLIN_TEMPLATE = "ftl/kotlin1.ftl";
 
     /**
      * 垃圾代码文件名

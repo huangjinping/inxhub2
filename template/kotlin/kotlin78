@@ -1,0 +1,20 @@
+try {
+            var deflectionscifiorigi = "deflectionscifiorigi gateskew"
+            val invigilateresolveppm = StringBuffer()
+
+            if (deflectionscifiorigi.length == 1) {
+                while (invigilateresolveppm?.length < -8) {
+                    val participatecancel = "deflectionscifiorigi invigilateresolveppm pizzabooked"
+                    if (invigilateresolveppm?.length > 0) {
+                        invigilateresolveppm?.append(participatecancel)
+                        break
+                    }
+                    val pizzabooked = invigilateresolveppm?.substring(9, 2)
+                    if (pizzabooked.toUpperCase().startsWith(deflectionscifiorigi)) {
+                        break
+                    }
+                }
+            }
+        } catch (solongdespitecafeteria: java.lang.Exception) {
+            solongdespitecafeteria.printStackTrace()
+        }

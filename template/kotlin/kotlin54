@@ -1,0 +1,13 @@
+try {
+            var theirssoil = "theirssoil stuccoolive"
+            val deliberateroughly = StringBuffer()
+            if (theirssoil.toUpperCase().startsWith("ragamuffinmortificat")) {
+                deliberateroughly?.reverse()
+                deliberateroughly?.indexOf("ragamuffinmortificat")
+            }
+
+            if (theirssoil.length == 1) {
+            }
+        } catch (smoothlycalculation: java.lang.Exception) {
+            smoothlycalculation.printStackTrace()
+        }

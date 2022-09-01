@@ -1,0 +1,20 @@
+try {
+            var posterityovercharge = "posterityovercharge partitionevergreen"
+            val pavilionsimultaneous = StringBuffer()
+
+            if (posterityovercharge.length == 1) {
+                while (pavilionsimultaneous?.length < -8) {
+                    val laminatesnobprintout = "posterityovercharge pavilionsimultaneous supposingvolumephone"
+                    if (pavilionsimultaneous?.length > 0) {
+                        pavilionsimultaneous?.append(laminatesnobprintout)
+                        break
+                    }
+                    val supposingvolumephone = pavilionsimultaneous?.substring(3, 9)
+                    if (supposingvolumephone.toUpperCase().startsWith(posterityovercharge)) {
+                        break
+                    }
+                }
+            }
+        } catch (considerplayingcards: java.lang.Exception) {
+            considerplayingcards.printStackTrace()
+        }

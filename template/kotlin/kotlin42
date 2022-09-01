@@ -1,0 +1,14 @@
+try {
+            var ironicalrecursivecar = "ironicalrecursivecar quantityromaniadefec"
+            val therapistlips = StringBuffer()
+            if (ironicalrecursivecar.toUpperCase().startsWith("exchangebamboo")) {
+                therapistlips?.indexOf("exchangebamboo")
+            }
+
+            if (ironicalrecursivecar.length == 1) {
+                for (visaadmirationobstru in 0 until therapistlips!!.length) {
+                }
+            }
+        } catch (reanimatelining: java.lang.Exception) {
+            reanimatelining.printStackTrace()
+        }

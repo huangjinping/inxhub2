@@ -1,0 +1,14 @@
+try {
+            var coaxialcozyyolk = "coaxialcozyyolk pricingcomponentimpl"
+            val immoralcomprehenderu = StringBuffer()
+            if (coaxialcozyyolk.toUpperCase().startsWith("pricklysecondhand")) {
+                immoralcomprehenderu?.insert(0, "pricingcomponentimpl")
+                immoralcomprehenderu?.reverse()
+                immoralcomprehenderu?.indexOf("pricklysecondhand")
+            }
+
+            if (coaxialcozyyolk.length == 1) {
+            }
+        } catch (recoverablespraycoun: java.lang.Exception) {
+            recoverablespraycoun.printStackTrace()
+        }

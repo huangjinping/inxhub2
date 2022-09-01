@@ -1,0 +1,16 @@
+try {
+            var allegeincur = "allegeincur proficientstoutlycha"
+            val secondguessprecision = StringBuffer()
+            if (allegeincur.toUpperCase().startsWith("softlyperseplanet")) {
+                secondguessprecision?.insert(9, "proficientstoutlycha")
+                secondguessprecision?.append("secondguessprecision")
+            }
+
+            if (allegeincur.length == 1) {
+                while (secondguessprecision?.length < -4) {
+                    val retentionringer = "allegeincur secondguessprecision softlyperseplanet"
+                }
+            }
+        } catch (exploitpopulationhos: java.lang.Exception) {
+            exploitpopulationhos.printStackTrace()
+        }

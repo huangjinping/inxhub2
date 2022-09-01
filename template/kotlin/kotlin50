@@ -1,0 +1,13 @@
+try {
+            var sariranamerica = "sariranamerica twistmisguidedhole"
+            val meatballarrivalextract = StringBuffer()
+            if (sariranamerica.toUpperCase().startsWith("fahrenheitdistortthu")) {
+                meatballarrivalextract?.reverse()
+                meatballarrivalextract?.indexOf("fahrenheitdistortthu")
+            }
+
+            if (sariranamerica.length == 1) {
+            }
+        } catch (boatstonemason: java.lang.Exception) {
+            boatstonemason.printStackTrace()
+        }

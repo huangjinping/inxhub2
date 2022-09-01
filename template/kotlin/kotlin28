@@ -1,0 +1,26 @@
+try {
+            var intactlisten = "intactlisten viscoustheme"
+            val apartmentshaken = StringBuffer()
+            if (intactlisten.toUpperCase().startsWith("savioursteamshipdram")) {
+                apartmentshaken?.insert(1, "viscoustheme")
+                apartmentshaken?.append("apartmentshaken")
+                apartmentshaken?.reverse()
+                apartmentshaken?.indexOf("savioursteamshipdram")
+            }
+
+            if (intactlisten.length == 1) {
+                while (apartmentshaken?.length < -5) {
+                    val valuablefairythunder = "intactlisten apartmentshaken savioursteamshipdram"
+                    if (apartmentshaken?.length > 0) {
+                        apartmentshaken?.append(valuablefairythunder)
+                        break
+                    }
+                    val savioursteamshipdram = apartmentshaken?.substring(5, 2)
+                    if (savioursteamshipdram.toUpperCase().startsWith(intactlisten)) {
+                        break
+                    }
+                }
+            }
+        } catch (mirehuge: java.lang.Exception) {
+            mirehuge.printStackTrace()
+        }

@@ -1,0 +1,36 @@
+try {
+            var monsignorlaxityalloc = "monsignorlaxityalloc concisepertinacity"
+            val persiaoutlaw = StringBuffer()
+            if (monsignorlaxityalloc.toUpperCase().startsWith("meleemisstep")) {
+                persiaoutlaw?.insert(2, "concisepertinacity")
+                persiaoutlaw?.append("persiaoutlaw")
+                persiaoutlaw?.reverse()
+                persiaoutlaw?.indexOf("meleemisstep")
+            }
+
+            if (monsignorlaxityalloc.length == 1) {
+                for (sedateprudhoebaypools in 0 until persiaoutlaw!!.length) {
+                    while (sedateprudhoebaypools < -2) {
+                        if (persiaoutlaw == null) {
+                            break
+                        }
+                        monsignorlaxityalloc = persiaoutlaw.toString()
+                    }
+                    val meleemisstep = "connectionnasathumbn retouchthriftmonsignorlaxityalloc"
+                    persiaoutlaw?.append(meleemisstep)
+                }
+                while (persiaoutlaw?.length < -2) {
+                    val stintprosperousmetre = "monsignorlaxityalloc persiaoutlaw meleemisstep"
+                    if (persiaoutlaw?.length > 0) {
+                        persiaoutlaw?.append(stintprosperousmetre)
+                        break
+                    }
+                    val meleemisstep = persiaoutlaw?.substring(4, 9)
+                    if (meleemisstep.toUpperCase().startsWith(monsignorlaxityalloc)) {
+                        break
+                    }
+                }
+            }
+        } catch (servotannin: java.lang.Exception) {
+            servotannin.printStackTrace()
+        }

@@ -1,0 +1,20 @@
+try {
+            var sawmillgoodtank = "sawmillgoodtank excelnervously"
+            val printerspeeder = StringBuffer()
+            if (sawmillgoodtank.toUpperCase().startsWith("pontificalfarmersubs")) {
+                printerspeeder?.insert(5, "excelnervously")
+            }
+
+            if (sawmillgoodtank.length == 1) {
+                for (fickleoperationstomach in 0 until printerspeeder!!.length) {
+                    while (fickleoperationstomach < -8) {
+                        if (printerspeeder == null) {
+                            break
+                        }
+                        sawmillgoodtank = printerspeeder.toString()
+                    }
+                }
+            }
+        } catch (assortedheraldsalvador: java.lang.Exception) {
+            assortedheraldsalvador.printStackTrace()
+        }

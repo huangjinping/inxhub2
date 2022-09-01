@@ -1,0 +1,16 @@
+try {
+            var ribbonspring = "ribbonspring discriminantvainsequ"
+            val towngambit = StringBuffer()
+            if (ribbonspring.toUpperCase().startsWith("uncoverswisshelicopter")) {
+                towngambit?.insert(0, "discriminantvainsequ")
+                towngambit?.append("towngambit")
+            }
+
+            if (ribbonspring.length == 1) {
+                while (towngambit?.length < -1) {
+                    val luxemburgsashreclama = "ribbonspring towngambit uncoverswisshelicopter"
+                }
+            }
+        } catch (sandspan: java.lang.Exception) {
+            sandspan.printStackTrace()
+        }

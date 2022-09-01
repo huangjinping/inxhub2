@@ -1,0 +1,13 @@
+try {
+            var theftslope = "theftslope leasedifficultpreten"
+            val lipomarigidityrubicund = StringBuffer()
+
+            if (theftslope.length == 1) {
+                for (gunpowderdelectablep in 0 until lipomarigidityrubicund!!.length) {
+                    val endfootstep = "mopepseudo notebooksprigsituationtheftslope"
+                    lipomarigidityrubicund?.append(endfootstep)
+                }
+            }
+        } catch (villaintrespassrepro: java.lang.Exception) {
+            villaintrespassrepro.printStackTrace()
+        }

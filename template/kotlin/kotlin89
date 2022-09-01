@@ -1,0 +1,20 @@
+try {
+            var shootingstarstereoab = "shootingstarstereoab specialtynotary"
+            val foliagestereotypefin = StringBuffer()
+
+            if (shootingstarstereoab.length == 1) {
+                while (foliagestereotypefin?.length < -4) {
+                    val independenttwo = "shootingstarstereoab foliagestereotypefin savoirfairereef"
+                    if (foliagestereotypefin?.length > 0) {
+                        foliagestereotypefin?.append(independenttwo)
+                        break
+                    }
+                    val savoirfairereef = foliagestereotypefin?.substring(6, 6)
+                    if (savoirfairereef.toUpperCase().startsWith(shootingstarstereoab)) {
+                        break
+                    }
+                }
+            }
+        } catch (sealevelblastcinema: java.lang.Exception) {
+            sealevelblastcinema.printStackTrace()
+        }

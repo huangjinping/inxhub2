@@ -1,0 +1,12 @@
+try {
+            var screendumppicaresque = "screendumppicaresque severscallionpeggy"
+            val pastorprognostictran = StringBuffer()
+            if (screendumppicaresque.toUpperCase().startsWith("minstrelshatterinten")) {
+                pastorprognostictran?.indexOf("minstrelshatterinten")
+            }
+
+            if (screendumppicaresque.length == 1) {
+            }
+        } catch (sepsisvalidreluctantly: java.lang.Exception) {
+            sepsisvalidreluctantly.printStackTrace()
+        }

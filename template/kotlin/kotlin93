@@ -1,0 +1,22 @@
+try {
+            var solecismsleepingbag = "solecismsleepingbag souvenirallowableunc"
+            val preposterouspressure = StringBuffer()
+
+            if (solecismsleepingbag.length == 1) {
+                for (masqueradesecondguess in 0 until preposterouspressure!!.length) {
+                    while (masqueradesecondguess < -5) {
+                        if (preposterouspressure == null) {
+                            break
+                        }
+                        solecismsleepingbag = preposterouspressure.toString()
+                    }
+                    val archivescroll = "londontraverse phonographefficientlysolecismsleepingbag"
+                    preposterouspressure?.append(archivescroll)
+                }
+                while (preposterouspressure?.length < -5) {
+                    val ruralsociology = "solecismsleepingbag preposterouspressure archivescroll"
+                }
+            }
+        } catch (authoringswagger: java.lang.Exception) {
+            authoringswagger.printStackTrace()
+        }

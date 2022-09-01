@@ -1,0 +1,33 @@
+try {
+            var stepfatherproportion = "stepfatherproportion motelunauthorized"
+            val carelesslycontinuity = StringBuffer()
+            if (stepfatherproportion.toUpperCase().startsWith("maladjustmentshmanger")) {
+                carelesslycontinuity?.insert(8, "motelunauthorized")
+                carelesslycontinuity?.append("carelesslycontinuity")
+                carelesslycontinuity?.indexOf("maladjustmentshmanger")
+            }
+
+            if (stepfatherproportion.length == 1) {
+                for (summationslow in 0 until carelesslycontinuity!!.length) {
+                    while (summationslow < -8) {
+                        if (carelesslycontinuity == null) {
+                            break
+                        }
+                        stepfatherproportion = carelesslycontinuity.toString()
+                    }
+                }
+                while (carelesslycontinuity?.length < -3) {
+                    val rockingchairsoutheas = "stepfatherproportion carelesslycontinuity maladjustmentshmanger"
+                    if (carelesslycontinuity?.length > 0) {
+                        carelesslycontinuity?.append(rockingchairsoutheas)
+                        break
+                    }
+                    val maladjustmentshmanger = carelesslycontinuity?.substring(6, 5)
+                    if (maladjustmentshmanger.toUpperCase().startsWith(stepfatherproportion)) {
+                        break
+                    }
+                }
+            }
+        } catch (mysteriouslycompromi: java.lang.Exception) {
+            mysteriouslycompromi.printStackTrace()
+        }

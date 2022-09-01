@@ -1,0 +1,11 @@
+try {
+            var rubberyobstructionin = "rubberyobstructionin spotlightrightoff"
+            val baudsumendless = StringBuffer()
+            if (rubberyobstructionin.toUpperCase().startsWith("laboroperatingcruel")) {
+            }
+
+            if (rubberyobstructionin.length == 1) {
+            }
+        } catch (supplementalassessma: java.lang.Exception) {
+            supplementalassessma.printStackTrace()
+        }

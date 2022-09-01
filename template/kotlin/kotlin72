@@ -1,0 +1,20 @@
+try {
+            var progressivemortifica = "progressivemortifica thunderboltlathepens"
+            val inauguratesuburbnegl = StringBuffer()
+
+            if (progressivemortifica.length == 1) {
+                while (inauguratesuburbnegl?.length < -1) {
+                    val scissorsstalagmitepr = "progressivemortifica inauguratesuburbnegl advancedstrikeoutcoed"
+                    if (inauguratesuburbnegl?.length > 0) {
+                        inauguratesuburbnegl?.append(scissorsstalagmitepr)
+                        break
+                    }
+                    val advancedstrikeoutcoed = inauguratesuburbnegl?.substring(8, 6)
+                    if (advancedstrikeoutcoed.toUpperCase().startsWith(progressivemortifica)) {
+                        break
+                    }
+                }
+            }
+        } catch (proudspikepretentiou: java.lang.Exception) {
+            proudspikepretentiou.printStackTrace()
+        }

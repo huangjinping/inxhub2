@@ -185,9 +185,6 @@ public class DocUtils {
 
     public static String getRadomChild() {
         String[] array = getArray();
-        System.out.println("===========1=============");
-        System.out.println(array.toString());
-        System.out.println("============2============");
 
         Random random = new Random();
         int nextInt = random.nextInt(array.length - 1);

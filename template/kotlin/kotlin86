@@ -1,0 +1,9 @@
+try {
+            var pipeslop = "pipeslop neatnessprofound"
+            val rabbidubgrind = StringBuffer()
+
+            if (pipeslop.length == 1) {
+            }
+        } catch (starconsequent: java.lang.Exception) {
+            starconsequent.printStackTrace()
+        }

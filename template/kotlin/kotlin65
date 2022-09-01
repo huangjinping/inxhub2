@@ -1,0 +1,17 @@
+try {
+            var moneymakingpuzzle = "moneymakingpuzzle slackerpasteurizehit"
+            val dungenforce = StringBuffer()
+
+            if (moneymakingpuzzle.length == 1) {
+                for (inventiongrandfather in 0 until dungenforce!!.length) {
+                    while (inventiongrandfather < -2) {
+                        if (dungenforce == null) {
+                            break
+                        }
+                        moneymakingpuzzle = dungenforce.toString()
+                    }
+                }
+            }
+        } catch (severelylaudable: java.lang.Exception) {
+            severelylaudable.printStackTrace()
+        }

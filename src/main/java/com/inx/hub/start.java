@@ -3,6 +3,7 @@ package com.inx.hub;
 import com.inx.hub.bean.User;
 import com.inx.hub.callback.Callback;
 import com.inx.hub.callback.SimpleCallBack;
+import com.inx.hub.utils.Converter;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -22,32 +23,36 @@ public class start {
 //        }
 //        witermessage(buffer.toString(),"shi.java");
 
-//        startFile();
+        startFile();
 //        actiona();
 
 
-        String str1 = "  1R.id.bottom1  R.id.bottom1  R.id.bottom 1R.id.bottom";
-//        str = str.replace("R.string.name(?!<=[_0-9a-zA-Z])", "111");
+//        String str1 = "  1R.id.bottom1  R.id.bottom1  R.id.bottom 1R.id.bottom";
+////        str = str.replace("R.string.name(?!<=[_0-9a-zA-Z])", "111");
+//
+//        String str = Pattern.compile("R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
+//        System.out.println(str);
+//
+//        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom").matcher(str1).replaceAll("111");
+//        System.out.println(str);
+//
+//        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
+//
+//        System.out.println(str);
+//
+//        testview1(new SimpleCallBack<List<User>>() {
+//            @Override
+//            public void onResponse(List<User> response, int id) {
+//                for (User user : response) {
+//                    System.out.println(user.toString());
+//                }
+//                System.out.println(response.toString());
+//            }
+//        });
 
-        String str = Pattern.compile("R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
-        System.out.println(str);
 
-        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom").matcher(str1).replaceAll("111");
-        System.out.println(str);
 
-        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
 
-        System.out.println(str);
-
-        testview1(new SimpleCallBack<List<User>>() {
-            @Override
-            public void onResponse(List<User> response, int id) {
-                for (User user : response) {
-                    System.out.println(user.toString());
-                }
-                System.out.println(response.toString());
-            }
-        });
 
 
     }
@@ -150,14 +155,16 @@ public class start {
         File file = new File("./", "res/shi2");
         StringBuffer buffer = new StringBuffer();
 
-
         try {
             FileReader fileReader = new FileReader(file);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             String line = bufferedReader.readLine();
             while (line != null) {
                 if (line.length() > 0) {
-                    buffer.append("public static  final  String " + line.trim().toUpperCase() + " = AESUtil.decrypt(\"" + AESUtil.encrypt(line, "fc7b85511b89f52afa67f937436d158a") + "\");");
+                            String source=line.trim().toUpperCase();
+
+                    buffer.append("public static  final  String "+"chburocredito"+source +"= Converter.toMap(\""+ Converter.toMap(line)+ "\");");
+//                    buffer.append("public static  final  String " + line.trim().toUpperCase() + " = AESUtil.decrypt(\"" + AESUtil.encrypt(line, "fc7b85511b89f52afa67f937436d158a") + "\");");
                     buffer.append("\n");
                 }
                 line = bufferedReader.readLine();

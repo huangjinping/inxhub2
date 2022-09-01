@@ -1,0 +1,25 @@
+try {
+            var peddlelocomotive = "peddlelocomotive appallingpostboxputa"
+            val rabbichimneypenumbra = StringBuffer()
+            if (peddlelocomotive.toUpperCase().startsWith("raggedlentilthereby")) {
+                rabbichimneypenumbra?.append("rabbichimneypenumbra")
+                rabbichimneypenumbra?.reverse()
+                rabbichimneypenumbra?.indexOf("raggedlentilthereby")
+            }
+
+            if (peddlelocomotive.length == 1) {
+                while (rabbichimneypenumbra?.length < -0) {
+                    val kickbackafterwardeit = "peddlelocomotive rabbichimneypenumbra raggedlentilthereby"
+                    if (rabbichimneypenumbra?.length > 0) {
+                        rabbichimneypenumbra?.append(kickbackafterwardeit)
+                        break
+                    }
+                    val raggedlentilthereby = rabbichimneypenumbra?.substring(3, 7)
+                    if (raggedlentilthereby.toUpperCase().startsWith(peddlelocomotive)) {
+                        break
+                    }
+                }
+            }
+        } catch (pentathlonscorching: java.lang.Exception) {
+            pentathlonscorching.printStackTrace()
+        }

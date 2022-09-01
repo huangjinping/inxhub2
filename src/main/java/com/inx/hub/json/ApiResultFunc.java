@@ -4,7 +4,6 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.inx.hub.bean.ApiResult;
 import com.inx.hub.callback.Utils;
-import com.oracle.javafx.jmx.json.JSONException;
 
 import java.lang.reflect.Modifier;
 import java.lang.reflect.ParameterizedType;
@@ -102,9 +101,6 @@ public class ApiResultFunc<T> {
                         apiResult.setMsg("json is null！！");
                     }
                 }
-            } catch (JSONException e) {
-                e.printStackTrace();
-                apiResult.setMsg(e.getMessage());
             } catch (Exception e) {
                 e.printStackTrace();
                 apiResult.setMsg(e.getMessage());
@@ -114,7 +110,7 @@ public class ApiResultFunc<T> {
         return apiResult;
     }
 
-    private ApiResult parseApiResult(String json, ApiResult apiResult) throws JSONException {
+    private ApiResult parseApiResult(String json, ApiResult apiResult) {
 //        if (TextUtils.isEmpty(json))
 //            return null;
 //        JSONObject jsonObject = new JSONObject(json);
