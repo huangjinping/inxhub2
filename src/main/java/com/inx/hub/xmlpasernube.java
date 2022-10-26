@@ -23,7 +23,6 @@ import java.util.Map;
 
 public class xmlpasernube {
 
-    private static final String unit = "PPnu2bv1e";
 
     public static void main(String[] args) {
 //        e4bc2a19ff4fba5db96b80be17791e54
@@ -136,6 +135,9 @@ public class xmlpasernube {
         }
     }
 
+
+
+    private static final String unit = "PPnu2bv1e";
 
     public static String uRLEncoder(String source) {
         try {

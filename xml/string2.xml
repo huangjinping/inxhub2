@@ -1,0 +1,240 @@
+<resources>
+
+<!--    <string name="re_app_name">Rápi Efectivo</string>-->
+<!--    &lt;!&ndash;    <string name="facebook_appid">945226313032298</string>&ndash;&gt;-->
+<!--    <string name="facebk_id">1495490410947947</string>-->
+<!--    <string name="fb_client">1bec67ae758cf519097e6885d733aa72</string>-->
+<!--    <string name="asset_statements">-->
+<!--         [{-->
+<!--            "include":"https://www.xxx.net/.well-known/assetlinks.json"-->
+<!--         }]-->
+<!--    </string>-->
+
+    <string name="pop_cash_appvbtab1">Inicio</string>
+    <string name="pop_cash_appvbtab2">yo</string>
+    <string name="pop_cash_inputphone">Ingrese su teléfono</string>
+    <string name="pop_cash_racquire">Volver a adquirir</string>
+    <string name="pop_cash_register">Registrarse</string>
+    <string name="pop_cash_emptymaxnumamount">Cantidad máxima</string>
+    <string name="pop_cash_textDays91">91 Días</string>
+    <string name="pop_cash_textDays182">182 Días</string>
+    <string name="pop_cash_appvbunit">$</string>
+    <string name="pop_cash_applybow">Aplica ya</string>
+    <string name="pop_cash_orderunderreview">Bajo revisión</string>
+    <string name="pop_cash_orderRejectApplication">Solicitud rechazado</string>
+    <string name="pop_cash_repay">Pagar</string>
+    <string name="pop_cash_ordetextJujue">Su puntaje de crédito está por debajo de los requisitos mínimos para préstamos de plataforma.</string>
+    <string name="pop_cash_ordetSorry">Lo sentimos</string>
+
+    <string name="pop_cash_textRepaymentAmount1">Importe de reembolso</string>
+    <string name="pop_cash_textRepaymentAmountZhanQi">Monto del pago</string>
+    <string name="pop_cash_dateofapplications">Fecha de aplicación</string>
+    <string name="pop_cash_repaymentdate">Fecha de pago de tu crédito</string>
+    <string name="pop_cash_repaymentdate1">Fecha de reembolso</string>
+    <string name="pop_cash_pleasewaite">Espere por favor</string>
+    <string name="pop_cash_loanamount">Monto del préstamo</string>
+    <string name="pop_cash_textInterest">Interés</string>
+
+
+    <string name="pop_cash_appunits2">+57</string>
+    <string name="pop_cash_setting">Ajuste</string>
+    <string name="pop_cash_Versition">Versión</string>
+    <string name="pop_cash_textLateFee">Cargo por demora</string>
+    <string name="pop_cash_textIva">IVA</string>
+    <string name="pop_cash_continuev1">Próximo paso</string>
+    <string name="pop_cash_selectedhint">Por favor elige</string>
+    <string name="pop_cash_incomelevel">Nivel de ingreso</string>
+    <string name="pop_cash_baseinfo12">Información básica</string>
+    <string name="pop_cash_emails">Dirección de correo electrónico</string>
+    <string name="pop_cash_inputhint">Por favor llenalo</string>
+    <string name="pop_cash_familysize">Tamaño de la familia</string>
+    <string name="pop_cash_education">Nivel de educación</string>
+    <string name="pop_cash_idcard">Tarjeta de identificación</string>
+    <string name="pop_cash_font">Delantera</string>
+    <string name="pop_cash_back">Atrás</string>
+    <string name="pop_cash_tipdocument">Tipo de documento</string>
+    <string name="pop_cash_numberdedocumento">Número de documento</string>
+    <string name="pop_cash_nombres">Nombres</string>
+    <string name="pop_cash_apellidos">Apellidos</string>
+    <string name="pop_cash_gener">Género</string>
+    <string name="pop_cash_fechanamto">Fecha de nacimiento</string>
+    <string name="pop_cash_expedication">Fecha de expedicion</string>
+    <string name="pop_cash_emergencycontact">Contacto de emergencia</string>
+    <string name="pop_cash_relationship">Relación</string>
+    <string name="pop_cash_name">Nombre</string>
+    <string name="pop_cash_phonenumber">Número de teléfono</string>
+    <string name="pop_cash_othercontact">Otro contacto</string>
+    <string name="pop_cash_type">Tipo</string>
+    <string name="pop_cash_bankaccctpeount">Tipo de cuenta bancaria</string>
+    <string name="pop_cash_typename">Nombre del banco</string>
+
+    <string name="pop_cash_please01">00:00:00</string>
+    <string name="pop_cash_loadingmessag">El sistema está evaluando su crédito!</string>
+    <string name="pop_cash_stage1as1">Etapa1/3</string>
+    <string name="pop_cash_repaydesc">Reembolso rápido, desbloquea más plazos</string>
+    <string name="pop_cash_disbursalamount">Cantidad a recibir</string>
+    <string name="pop_cash_servicefee">Cargo por servicios</string>
+    <string name="pop_cash_iva">IVA</string>
+    <string name="pop_cash_stage2as2">Etapa2/3</string>
+    <string name="pop_cash_stage3as3">Etapa3/3</string>
+    <string name="pop_cash_confirm1">Confirmar</string>
+    <string name="pop_cash_ordersuccess">Su solicitud de préstamo se ha enviado correctamente. Procesamiento de verificación.</string>
+    <string name="pop_cash_ok">OK</string>
+    <string name="pop_cash_telephonenumber">Número de teléfono</string>
+    <string name="pop_cash_close">Cerrar</string>
+    <string name="pop_cash_skip">SALTAR</string>
+    <string name="pop_cash_angree">ACEPTO Y
+CONTINUAR</string>
+    <string name="pop_cash_agreetop">Al presionar "ACEPTO Y CONTINUAR" se entenderá que has revisado, leído y aceptado los términos de nuestro Aviso de Privacidad.</string>
+    <string name="pop_cash_Cancel">Cancelar</string>
+    <string name="pop_cash_Positive">OK</string>
+    <string name="pop_cash_bank_ahgde">¡Billetera electrónica, pago seguro, pago en tiempo real!</string>
+    <string name="pop_cash_banklink2">Solicita un enlace</string>
+    <string name="pop_cash_hello">Hola</string>
+    <string name="pop_cash_Pleaseexperience">Experimente los préstamos gratuitos</string>
+    <string name="pop_cash_ChangeLanguage">Cambiar idioma</string>
+    <string name="pop_cash_Language_English">Inglés</string>
+    <string name="pop_cash_common_no_more_data">no mas datos!</string>
+    <string name="pop_cash_Logout">Salir</string>
+    <string name="pop_cash_LoanFailed">Préstamo fallido</string>
+    <string name="pop_cash_textShibai">El sistema ha detectado que la información de su tarjeta bancaria no se ha completado correctamente, cárguela de nuevo.</string>
+    <string name="pop_cash_Lending">Préstamo</string>
+    <string name="pop_cash_text_loaning">Has aprobado. El préstamo está en proceso, espera pacientemente.</string>
+
+
+    <string name="pop_cash_textUpdateDueDate">Actualizar la fechade vencimiento</string>
+    <string name="pop_cash_textExtendedFee">Tarifa extendida</string>
+    <string name="pop_cash_textListadevencidos">Lista de vencidos:</string>
+    <string name="pop_cash_upBankText">Los recibos y los reembolsos pueden verse afectados por el horario laboral del banco. Paragozar de los beneficios,utilice la banca en línea para recibir el pago y el reembolso.</string>
+    <string name="pop_cash_textUploadedSuc">Subido con éxito</string>
+    <string name="pop_cash_Promptinformation">Información inmediata</string>
+    <string name="pop_cash_Promptinformation2">La aplicación no solicitó permiso, lo que provocó que no funcionara correctamente. Abra la configuración del teléfono y modifique los permisos de la aplicación.</string>
+    <string name="pop_cash_otp_tips">Haga clic en el botón Obtener código de verificación.</string>
+
+
+    <string name="pop_cash_text_premiss1">SMS</string>
+    <string name="pop_cash_text_premiss2">rapiefectivo cargará y transferirá sus datos SMS desde su teléfono a (https://www.rapiefectivoco.com y https://api2.branch.io), sus datos estarán protegidos y se mantendrán confidenciales. Los SMS se utilizarán para la gestión de riesgos y los controles antifraude. Nombre de la persona que llama/número de teléfono y texto del mensaje para que podamos leer el otp que enviamos a su teléfono e iniciar sesión en la aplicación automáticamente. Rapiefectivo nunca compartirá datos con terceros sin su permiso. Solo se recopilarán con su consentimiento. Los datos se transferirán y cargarán a través de una conexión segura (https)</string>
+
+    <string name="pop_cash_text_premiss3">Lugar</string>
+    <string name="pop_cash_text_premiss4">Recopile y supervise información sobre las ubicaciones de los dispositivos para la evaluación y puntuación de riesgos. Subiremos los datos de ubicación a nuestro servidor rapiefectivo (https://www.rapiefectivoco.com y https://api2.branch.io), sus datos estarán protegidos y se mantendrán privados.</string>
+
+    <string name="pop_cash_text_premiss5">calendario</string>
+    <string name="pop_cash_text_premiss6">Se utiliza para recordarle la fecha de pago y evitar que los pagos atrasados afecten su crédito. Subiremos los datos del calendario al servidor para la comparación de préstamos (https://www.rapiefectivoco.com y https://api2.branch.io), sus datos estarán protegidos y confidenciales.</string>
+    <string name="pop_cash_text_premiss7">Lista de aplicaciones instaladas y archivos de catálogo</string>
+    <string name="pop_cash_text_premiss8">Debe autorizarnos a instalar la lista de aplicaciones y la información del archivo del catálogo en su teléfono para ayudarnos en nuestra evaluación de riesgos. Todos los datos serán encriptados y subidos a nuestros servidores (https://www.rapiefectivoco.com &amp; https://api2.branch.io)</string>
+
+    <string name="pop_cash_text_premiss9">almacenamiento</string>
+    <string name="pop_cash_text_premiss10">rapiefectivo requiere permisos de almacenamiento para que su KYC y otros documentos relacionados puedan descargarse y almacenarse de forma segura en su teléfono. Luego puede cargar fácilmente los documentos relacionados con KYC correctos para completar los detalles de la solicitud de préstamo y el proceso de pago más rápido. Esto asegura una experiencia fluida al usar la aplicación.</string>
+
+    <string name="pop_cash_text_premiss11">datos del dispositivo</string>
+    <string name="pop_cash_text_premiss12">rapiefectivo recopila, almacena y carga en (https://www.rapiefectivoco.com y https://api2.branch.io) información específica sobre su dispositivo, incluido su modelo de hardware, memoria RAM, almacenamiento; identificador único de dispositivo, como IMEI, número de serie, SSAID; la información SIM incluye el operador de red, el estado de roaming, el código MNC y MCC, la información WIFI incluye la dirección MAC y la información de la red móvil. Usamos estos datos para identificar dispositivos de manera única y prevenir el fraude. Esto también ayuda a enriquecer su perfil crediticio y le brinda las mejores ofertas de préstamos según su perfil. Rapiefectivo nunca compartirá datos con terceros sin su permiso. Solo se recopilarán con su consentimiento. Los datos se transferirán y cargarán a través de una conexión segura (https).</string>
+
+    <string name="pop_cash_text_premiss13">Detallesdecontacto</string>
+    <string name="pop_cash_text_premiss14">Recopilamos todos los contactos de su guía telefónica, incluido el nombre de contacto de su teléfono, el número de teléfono, la fecha en que se agregó el contacto, para aumentar su perfil de crédito y permitirle filtrar rápidamente las referencias en las solicitudes de préstamo. Bajo ninguna circunstancia guardaremos o compartiremos su información de contacto, ni la compartiremos con terceros. Subiremos los datos de contacto al servidor de rapiefectivo (https://www.rapiefectivoco.com &amp; https://api2.branch.io) y sus datos serán protegidos y mantenidos de forma confidencial.</string>
+
+
+    <string name="pop_cash_text_repay_suc">¡Has pagado con éxito!</string>
+    <string name="pop_cash_Obtener">Obtener</string>
+
+    <!--    多产品相关文案-->
+    <string name="pop_cash_home_lorem">De prestamos</string>
+    <string name="pop_cash_home_number">Número de re-préstamos</string>
+    <string name="pop_cash_appvbtab3">Pedido</string>
+    <string name="pop_cash_mul_loanable">Prestable</string>
+    <string name="pop_cash_mul_review">Bajo revisión</string>
+    <string name="pop_cash_mul_repay">Reembolso pendiente</string>
+    <string name="pop_cash_mul_overdue">Atrasado</string>
+    <string name="pop_cash_mul_reject">Rechazar solicitud</string>
+    <string name="pop_cash_mul_failed">Préstamo fallido</string>
+    <string name="pop_cash_mul_more">más</string>
+    <string name="pop_cash_mul_apply_again">APLICAR DE NUEVO</string>
+    <string name="pop_cash_mul_loan_finish_tips">¡Has pagado con éxito!</string>
+    <string name="pop_cash_mul_loan_finish">Finalizar</string>
+    <string name="pop_cash_mul_order_item_overdue_tips">Si hay una situación de vencimiento maliciosa, ¡presentaremos una demanda en su contra a través de los canales legales!</string>
+    <string name="pop_cash_mul_order_item_reject_tips">Su puntaje de crédito está por debajo de los requisitos mínimos para préstamos de plataforma.</string>
+    <string name="pop_cash_mul_order_item_fail_tips">El sistema ha detectado que la información de su tarjeta bancaria está incorrectamente llena, por favor súbala nuevamente.</string>
+    <string name="pop_cash_7d">7 días</string>
+    <string name="pop_cash_bank_title">Datos Bancarios</string>
+    <string name="pop_cash_95">95%</string>
+
+    <string name="pop_cash_face">Reconocimiento facial</string>
+    <string name="pop_cash_Return">Regreso</string>
+    <string name="pop_cash_confirm_id_card_num">Confirmar Número de documento</string>
+    <string name="pop_cash_pay_dialog_tips">¿Por favor, confirme si desea pagar ahora?</string>
+    <string name="pop_cash_dialog_tips_network">Sin red, conecte la red e intente nuevamente.</string>
+
+
+    <string name="pop_cash_pay_tips">Una vez que entra, puede cancelar su credito desde tu cuenta</string>
+
+    <string name="pop_cash_PendingRepayment">Devolución pendiente</string>
+
+    <string name="pop_cash_textRepaymentAmount">Monto de devolución</string>
+
+    <string name="pop_cash_RepaymentDate">Fecha de pago de tu crédito</string>
+
+    <string name="pop_cash_Pay">Pagar</string>
+    <string name="pop_cash_pay1">Metodo depago</string>
+
+    <string name="pop_cash_Detailsss">Detalle</string>
+
+    <string name="pop_cash_accountnumber">Numero de cuenta</string>
+
+    <string name="pop_cash_repeataccountnumber">Confirmar Numero de cuenta</string>
+
+    <string name="pop_cash_textWarn">Advertencia</string>
+
+
+    <string name="pop_cash_loan_detail">Detalle</string>
+    <string name="pop_cash_disburse_fees">Desembolsar &amp; Tarifa</string>
+    <string name="pop_cash_repayment_schedule">Programa de reembolso</string>
+    <string name="pop_cash_next_loan">Próximo préstamo</string>
+    <string name="pop_cash_get_coupon">Obtener cupón</string>
+    <string name="pop_cash_loan_text1">Monto del préstamo</string>
+    <string name="pop_cash_loan_text2">Próximo préstamo</string>
+
+    <string name="pop_cash_Lo_tengo">Lo tengo</string>
+    <string name="pop_cash_home_tips1">Próximo préstamo</string>
+    <string name="pop_cash_home_tips2">Obtenga un cupón de</string>
+    <string name="pop_cash_home_tips3">$ 100</string>
+    <string name="pop_cash_up1">Primero</string>
+    <string name="pop_cash_up2">Segundo</string>
+    <string name="pop_cash_up3">Trecero</string>
+    <string name="pop_cash_review_tips">Estamos estimando su préstamo. Presta atención a los resultados de la revisión en la aplicación.</string>
+    <string name="pop_cash_pay_suc_tips">¡Has pagado con éxito!</string>
+    <string name="pop_cash_btn_loan_again">Préstamo de nuevo</string>
+    <string name="pop_cash_network_error">La red es anormal, intente nuevamente</string>
+    <string name="pop_cash_toast_phone_error">El número de teléfono es anormal, vuelva a ingresar</string>
+    <string name="pop_cash_toast_sms_error">El código de verificación no coincide, vuelva a ingresarlo</string>
+    <string name="pop_cash_toast_info_null">Por favor complete toda la información completamente</string>
+    <string name="pop_cash_toast_email_error">Error de formato de correo electrónico, vuelva a ingresar</string>
+    <string name="pop_cash_toast_linkman_tips">Por favor seleccione un contacto diferente</string>
+    <string name="pop_cash_toast_not_same">Por favor complete la misma información</string>
+    <string name="pop_cash_toast_noCard_font">Por favor, cargue su ID primero</string>
+    <string name="pop_cash_toast_pre_amt_submit">Seleccione el plazo del préstamo</string>
+    <string name="pop_cash_toast_upload_img_fail">No se pudo cargar el fotos, por favor súbalo de nuevo</string>
+    <string name="pop_cash_loan_text3">Préstamo Siguiente+1</string>
+    <string name="pop_cash_loan_text4">Préstamo Siguiente+2</string>
+    <string name="pop_cash_apply_amt">Monto del préstamo</string>
+    <string name="pop_cash_10357">10,000</string>
+    <string name="pop_cash_UpdateBankCard">Actualizar cuenta receptora</string>
+    <string name="pop_cash_Pay_btn">Devolver Ya</string>
+
+
+<!--    <string name="pop_cash_agree1">Por favor revise nuestra &lt;AVISO DE PRIVACIDAD&gt;</string>-->
+<!--    <string name="pop_cash_textCalenderTips">Quedan %s días para su primer reembolso</string>-->
+<!--    <string name="pop_cash_textOverdueTips"><Data><![CDATA[Su pedido se ha retrasado durante <font color="#D40506">%s días</font>, devuélvalo de inmediato. Si hay una situación de vencimiento maliciosa, ¡presentaremos una demanda en su contra a través de los canales legales!]]></Data></string>-->
+<!--    <string name="pop_cash_textExtDay">Prolonga %s\ndías más</string>-->
+<!--    <string name="pop_cash_textExtPay1">Prolonga %s días más</string>-->
+<!--    <string name="pop_cash_textOverdueDay">Atrasado\n%s Días</string>-->
+<!--    <string name="pop_cash_textOverdueDay1">Atrasado %s Días</string>-->
+<!--    <string name="pop_cash_textExtPayTips"><Data><![CDATA[Con un pago unico de <font color="#D40506">%s días</font>, la fecha de vencimiento del pago de tu deuda se puede extender por <font color="#D40506">%s días</font> dias. Si el pago es inferior a <font color="#D40506">%s días</font>la fecha de vencimiento de tu deuda no cambiara. Pague a tiempo.]]></Data></string>-->
+
+<!--    <string name="pop_cash_alert_calendar_event_title">%s Fecha de vencimiento del reembolso en efectivo</string>-->
+<!--    <string name="pop_cash_alert_calendar_event_desc">Su fecha de vencimiento de pago de %s, ¡pague a tiempo</string>-->
+<!--    <string name="pop_cash_ext_pay_suc_tips">Su última fecha de reembolso es el %s</string>-->
+<!--    <string name="pop_cash_ext_pay_suc_btn">Devolver</string>-->
+
+<!--    <string name="pop_cash_toast_no_upload_face">Por favor toma una foto de tu cara</string>-->
+
+
+</resources>
