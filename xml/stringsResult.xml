@@ -1,262 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="pop_cash_appvbtab1">a0759ba62ba9c5993a9badd7371c4a2b</string>
-    <string name="pop_cash_appvbtab2">f9eb14fda94f4e6d198f060c7d5cb497</string>
-    <string name="pop_cash_inputphone">29724acad60169e0f7b4fe9f515d1c102c067970e0ef6ce7c6079950043305fc</string>
-    <string name="pop_cash_racquire">14ed1e291ddd0bd0001ae196a273b492d2d8511e6d5a14a6d43cedc7b9a07d4d</string>
-    <string name="pop_cash_register">51870e107e15f8672af23a3cb1c37a28</string>
-    <string name="pop_cash_emptymaxnumamount">185ec667a7b790f27b542d0407cba1d14c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_textDays91">8dbde89b3355ac6f20c0f68d8bba31a1</string>
-    <string name="pop_cash_textDays182">69c2a139646ab1833df458f5d9ff4f8d</string>
-    <string name="pop_cash_appvbunit">f7331cf93cba557eb80beee33294e17d</string>
-    <string name="pop_cash_applybow">4c9ab7c03757fe0d907918abe8932bd5</string>
-    <string name="pop_cash_orderunderreview">559d908ad95395c7903913fd5d071918</string>
-    <string name="pop_cash_orderRejectApplication">64b8a0d8d39323f7b05442d233a019406042e8c59e8fc3450b1761f0f57c4e7e
+    <string name="proticol0">
+        FireCreditoLiteod22%+.DA%3C%uqa+rf1.kwvodacrekf2.zvfrekf2.zvceprf1.kwve+rf1.kwvol+a+rf1.kwvotnrekf2.zvtrf1.kwvrekf2.zvd+rf1.kwvenrekf2.zvf+arap+adarf1.kwvecorp+o+adazrekf2.zvlrekf2.zvtu+1A%3C%rerf1.kwv+on+n3B%3C%rekf2.zvcamrofnrekf2.zv+aL+.elbacrekf2.zvlpa+n3B%3C%rekf2.zvcalrf1.kwvrekf2.zvgel+al+rop+otceprf1.kwver+la+rf1.kwvatrf1.kwveupmrekf2.zv+rf1.kwvelagel+rf1.kwvenorekf2.zvccrekf2.zvrtrf1.kwver+rf1.kwval+a+rf1.kwvatejurf1.kwv+n1A%3C%trf1.kwve+y+n3B%3C%rekf2.zvcamrofnrekf2.zv+al+ed+otnerekf2.zvmatart+le+ne+dadrekf2.zvlarekf2.zvcnedrekf2.zvfnoc+ed+rebed+nu+nemurf1.kwva+n9A%3C%rekf2.zvbmat+rf1.kwvedadrekf2.zvtne+rf1.kwvatrf1.kwve+C2%adrekf2.zvtrekf2.zvmrf1.kwvnart+o+adarf1.kwvecorp+C2%adavrekf2.zvhcra+C2%adatcelocer+euf+n3B%3C%rekf2.zvcamrofnrekf2.zv+al+euq+al+ne+n3B%3C%rekf2.zvccrekf2.zvdrf1.kwvrekf2.zvruj+al+ed+ortned+C2%orf1.kwvac+odot+nE22%FireCreditoLite6
     </string>
-    <string name="pop_cash_repay">bee0824c55cd2a6a043850dac3c7c367</string>
-    <string name="pop_cash_ordetextJujue">
-        483ab23fe1f33b9bc9a7bca5285e5e69c6c145484a3be6b132bb9f668ae19a4404dc2d9ee290105ece2b747a08193d81be23eb6cddacaca9719fb0e3af74a69699a1eab4c11e96719f2e2b44499a1e767a6bc28bc555e134c30b35db0c4e94fcfa6a20a529ad60dd658e68ed89b11ba6
+    <string name="proticol1">FireCreditoLiteod22%+.elbarf1.kwvnoprf1.kwver+lE+.122%FireCreditoLite6</string>
+    <string name="proticol1v0">
+        FireCreditoLiteod22%+.dadrekf2.zvlrekf2.zvbarf1.kwvnoprf1.kwveR+y+n3B%3C%rekf2.zvcroporP+C2%datlaeL+C2%dadrekf2.zvlanrekf2.zvF+C2%dadrekf2.zvlaC+C2%n3B%3C%rekf2.zvcamrofnI+C2%otnerekf2.zvmrekf2.zvtnerf1.kwvnoC+.rf1.kwvotrekf2.zvcDA%3C%l+dadrekf2.zvcavrekf2.zvrP+ed+rf1.kwvorekf2.zvprekf2.zvcnrekf2.zvrP+rf1.kwvol+ed+otnerekf2.zvmrekf2.zvlpmuc+ne+otnemom+odot+ne+y+C2%n3B%3C%rekf2.zvcamrofnrekf2.zv+urf1.kwv+ed+dadrekf2.zvlarekf2.zvcnedrekf2.zvfnoc+y+n3B%3C%rekf2.zvccetorp+C2%orf1.kwvu+neub+led+elbarf1.kwvnoprf1.kwver+rf1.kwve+y+C2%dadrekf2.zvcavrekf2.zvrP+ed+n3B%3C%rekf2.zvcaralceD+atrf1.kwve+noc+dadrekf2.zvmrofnoc+ed+ralutrekf2.zvt+led+rf1.kwvelanorf1.kwvrep+rf1.kwvotad+rf1.kwvol+ed+n3B%3C%rekf2.zvcagluvrekf2.zvd+y+otnerekf2.zvmanecamla+C2%orf1.kwvu+C2%n3B%3C%rekf2.zvcnetbo+al+ed+elbarf1.kwvnoprf1.kwver+ocrekf2.zvnAB%3C%+le+rf1.kwve+etrekf2.zvLotrekf2.zvd9A%3C%rCerrekf2.zvF22%FireCreditoLite6
     </string>
-    <string name="pop_cash_ordetSorry">d94f6c036eaffa44c4ad32cca6c6edcc</string>
-    <string name="pop_cash_textRepaymentAmount1">bc27d6a79e32494e84d5a83298b20ef095ab016ca6f92bdead8d1f4fbfab28b6
+    <string name="proticol2">
+        FireCreditoLiteod22%+.etrekf2.zvLotrekf2.zvd9A%3C%rCerrekf2.zvF+ed+larekf2.zvcorf1.kwv+otejbO+.222%FireCreditoLite6
     </string>
-    <string name="pop_cash_textRepaymentAmountZhanQi">4f1e679b9ac92391cf4c1cc759f545ac</string>
-    <string name="pop_cash_dateofapplications">908ddba69e86be0fa6a0180e34c25b7ea8f9c2845d15f854db449f87253d873c</string>
-    <string name="pop_cash_repaymentdate">61532ea8fa15675f178b922be199e22dfc110be900b8fcf0de97762e9b295150</string>
-    <string name="pop_cash_repaymentdate1">58ce2395331e59f4ae8ab05f2231d96835c793ae55c9f1950ca088df21986323</string>
-    <string name="pop_cash_pleasewaite">ab1ccacdbacaad226301975a751658af4c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_loanamount">7dd5574d901e89d1dba2e2141578f19da673035ddac08ba5989b895cde40889d</string>
-    <string name="pop_cash_textInterest">199a4ab506ae1764861431e5d6cd300e</string>
-    <string name="pop_cash_appunits2">4b8af6c1303fcba87b8efdf004f652b2</string>
-    <string name="pop_cash_setting">c36d0d8b817f955f4b6996d7ebccb2f4</string>
-    <string name="pop_cash_Versition">f043c35322d82d9ee55817df021ccfbf</string>
-    <string name="pop_cash_textLateFee">b8e587371ebccd93aa286e7d0541cd6c4c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_textIva">06d5c7b3c380385499d0a0ee8eb4a90c</string>
-    <string name="pop_cash_continuev1">8568102f7bc58e1964344fa899a4eaa5</string>
-    <string name="pop_cash_selectedhint">04a6447afd5743a755c230c4cd464c76</string>
-    <string name="pop_cash_incomelevel">96d61c62b0b8ebf35e51739770d04aea4c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_baseinfo12">ece6945938b57c6b39b093ab64096f140292abc85592e6c9c0f58467bc9457a6</string>
-    <string name="pop_cash_emails">
-        de1f94a15b711ce2a9c9e94f5afd9ed139534544ea7ed5079f8ae2f42efa9f85f9ebe4d5c89768e836f9046147e208a4
+    <string name="proticol2v0">
+        FireCreditoLiteod22%+.orerekf2.zvcnanrekf2.zvf+ejarotcaf+y+gnrekf2.zvrf1.kwvael+C2%otrekf2.zvd9A%3C%rc+ed+n3B%3C%rekf2.zvrf1.kwvecnoc+y+aznarboc+ed+rf1.kwvorekf2.zvcrekf2.zvvrerf1.kwv+ed+n3B%3C%rekf2.zvcatrf1.kwverp+al+C2%otrekf2.zvd9A%3C%rc+ed+aretrac+ed+oprekf2.zvt+rerekf2.zvuqlauc+ed+n3B%3C%rekf2.zvcartrf1.kwvrekf2.zvnrekf2.zvmda+al+neyulcnrekf2.zv+larekf2.zvcorf1.kwv+otejbo+urf1.kwv+ne+rf1.kwvadaredrekf2.zvrf1.kwvnoc+rf1.kwvedadrekf2.zvvrekf2.zvtca+rf1.kwvaL22%FireCreditoLite6
     </string>
-    <string name="pop_cash_inputhint">8bbdfacdf5956364a957be495ab27c69f9ebe4d5c89768e836f9046147e208a4</string>
-    <string name="pop_cash_familysize">a65ab36989901315edb34aa9d984a75dad9b6db0eec19218b3aa19e33759ba2c</string>
-    <string name="pop_cash_education">ee1d750f7a207ada48ba8a0ba11dbc874ffcf28f07f5732ff55b9d5a8bf73bfa</string>
-    <string name="pop_cash_idcard">2fe1af8ed9aefbdce3ac7c3572aa59b86433c9207aab396bae23de93511a19e2</string>
-    <string name="pop_cash_font">24bf4dac491d4d3ff7d21777045a6ebd</string>
-    <string name="pop_cash_back">b93e915dfd139393ef5b1f099b20962b</string>
-    <string name="pop_cash_tipdocument">5cb064e83176787298f88e1eb2466a7af9ebe4d5c89768e836f9046147e208a4</string>
-    <string name="pop_cash_numberdedocumento">cc66819da71007b7efc54cd03abcab1ee497369471f3375232679581f5cccc5a</string>
-    <string name="pop_cash_nombres">fc767a0925934ff184c3a18ccbf24e35</string>
-    <string name="pop_cash_apellidos">f5d767aade2ab6b94ffe1dfa33d0dc56</string>
-    <string name="pop_cash_gener">281fe6ffdb019d55f30050b13a5b691b</string>
-    <string name="pop_cash_fechanamto">b9b69eef6d6d0b73a8ff7cb5aa701f14d0a12999f695085c5f032e478067523f</string>
-    <string name="pop_cash_expedication">adb35e3fc659318f5c72b14ce73f839fa49bc3f207ac360fe895a6f3b186783e</string>
-    <string name="pop_cash_emergencycontact">c9772dc0d9553b392c1f3368a224d99c22260061a0cea1539b9c8fd199df376b</string>
-    <string name="pop_cash_relationship">6a5971931209155d3c7d8cbbbed72902</string>
-    <string name="pop_cash_name">4e56c1841f977c6578214240baa01812</string>
-    <string name="pop_cash_phonenumber">4c5c8981c91091c7808c1f4a91d9175e2c067970e0ef6ce7c6079950043305fc</string>
-    <string name="pop_cash_othercontact">e1210944f1b20fe0e93457936361979f</string>
-    <string name="pop_cash_type">c8f4789b28d16bca0291ce0caf35db02</string>
-    <string name="pop_cash_bankaccctpeount">0a1726246f7af6b4cf96cabd8976f1f15ba546343788d2fb6eb6f398a0915d56</string>
-    <string name="pop_cash_typename">340b37a6e7b2f60d43fd4fd0da8f7a474c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_please01">700a882041b6a839e71922fb54688226</string>
-    <string name="pop_cash_loadingmessag">
-        01facc999d4949dab85c4eaea57525dabbc6738e9bd99136664193b5a79d244fa27a267f44cfcac36b284c66da8e5386
+    <string name="proticol2v1">
+        FireCreditoLiteod22%+A3%rf1.kwvelanorf1.kwvreP+rf1.kwvotaD+omoc+etnemavrekf2.zvtceloc+rf1.kwvodanrekf2.zvmoned+ovrekf2.zvrf1.kwvecurf1.kwv+ol+ne+C2%rf1.kwvelanorf1.kwvreP+rf1.kwvotaD+dadrekf2.zvcavrekf2.zvrP+ed+n3B%3C%rekf2.zvcaralceD+atrf1.kwve+ne+rf1.kwvadrekf2.zvnetnoc+rf1.kwvarekf2.zvcnatrf1.kwvnucrrekf2.zvc+rf1.kwval+noc+dadrekf2.zvmrofnoc+ed+rf1.kwvelbrekf2.zvrf1.kwvneS+rf1.kwvotaD+y+rf1.kwvelanorf1.kwvreP+rf1.kwvotaD+rf1.kwvetnerekf2.zvugrekf2.zvrf1.kwv+rf1.kwvol+ralutrekf2.zvT+led+rabacer+1A%3C%rdop+etrekf2.zvLotrekf2.zvd9A%3C%rCerrekf2.zvF+C2%PPPDPFL+al+ed+5+n3B%3C%rekf2.zvccarf+3+olucDA%3C%tra+le+noc+dadrekf2.zvmrofnoc+ed+C2%dadrekf2.zvcavrekf2.zvrP+ed+n3B%3C%rekf2.zvcaralceD+etnerf1.kwverp+al+ed+VI+n3B%3C%rekf2.zvccarf+al+ed+ofarr1A%3C%p+remrekf2.zvrp+le+ne+rf1.kwvatrekf2.zvrcrf1.kwved+rf1.kwvedadrekf2.zvlanrekf2.zvf+rf1.kwval+ed+ollorrarf1.kwved+le+arap+y+larekf2.zvcorf1.kwv+otejbo+urf1.kwv+ed+otnerekf2.zvmrekf2.zvlpmuc+le+araP+.rf1.kwvenorekf2.zvccarf1.kwvnart+ed+rf1.kwvotad+ratnerf1.kwverP+.I22%FireCreditoLite6
     </string>
-    <string name="pop_cash_stage1as1">3c4dfcdb95db1aa5bf8ece6f131bf37f</string>
-    <string name="pop_cash_repaydesc">
-        366525b841634b24c38482ddc88f68041feedb74dbb613275392a680a5abe41184c5a5b5463111860bea2cad2ac4f5f2
+    <string name="proticol2v2">
+        FireCreditoLiteod22%+.aleucrf1.kwve+al+ed+onof9A%3C%let+ed+rf1.kwvoremAB%3C%n+rf1.kwvol+y+oelpme+le+y+rodaelpme+le+C2%oelpme+ed+oprekf2.zvt+le+odrekf2.zvulcnrekf2.zv+C2%larobal+n3B%3C%rekf2.zvcamrofnrekf2.zv+C2%etnatov+ed+rf1.kwvogrekf2.zvd3B%3C%c+C2%+rf1.kwvetnerekf2.zvdnoprf1.kwverroc+rf1.kwvotaD+rf1.kwvurf1.kwv+y+ENI+C2%lacrf1.kwvrekf2.zvf+orekf2.zvlrekf2.zvcrekf2.zvmod+C2%dadrekf2.zvlanorekf2.zvcan+C2%lrekf2.zvvrekf2.zvc+odatrf1.kwve+C2%oxerf1.kwv+C2%otnerekf2.zvmrekf2.zvcan+ed+ahcef+y+ragul+C2%92%PRUC82%+n3B%3C%rekf2.zvcalbop+ed+ortrf1.kwvrekf2.zvger+ed+acrekf2.zvnAB%3C%+evalc+C2%ocrekf2.zvn3B%3C%rtcele+oerroc+C2%ovrekf2.zvtanretla+y+ojrekf2.zvf+C2%lrekf2.zvv3B%3C%m+ed+oremAB%3C%n+C2%orekf2.zvlrekf2.zvcrekf2.zvmod+C2%otelpmoc+erbmon+A3%rf1.kwvelanorf1.kwvrep+rf1.kwvotaD+.222%FireCreditoLite6
     </string>
-    <string name="pop_cash_disbursalamount">f101526932a9d7a96e16bb7ae6f7aa29cb46c2ea6ce19ae7a1eda8c41b5866da</string>
-    <string name="pop_cash_servicefee">a4bf6edc727063f156db8ac083525b8c923d80e34820401752d4f59adae286ce</string>
-    <string name="pop_cash_iva">06d5c7b3c380385499d0a0ee8eb4a90c</string>
-    <string name="pop_cash_stage2as2">dc22b8e457b631a30996e575bc48716e</string>
-    <string name="pop_cash_stage3as3">9d0844859e00b397f7afaecdd590aa88</string>
-    <string name="pop_cash_confirm1">56fda773992ab9d524e8a9461cb15fef</string>
-    <string name="pop_cash_ordersuccess">
-        f72ec7899043ecb179db2848cf7476035fe1ab884d52b573f3c169ce363dad0dc0e241e66bf4dcc67e6b28ae29b1d8d79f0a6dc73c3dc27451edb02e547ecb5b74c63049f7ab264fc123c77bb5bb5802638c8bca1fcb2fd5da025c25a94797e4
+    <string name="proticol3">
+        FireCreditoLiteod22%+.ralutrekf2.zvt+led+orekf2.zvraurf1.kwvu+ed+arekf2.zvcnerekf2.zvrepxe+aL+.aunrekf2.zvtnoc+arojem+anu+arap+C2%n3B%3C%rekf2.zvcacrekf2.zvlpa+artrf1.kwveun+ed+rf1.kwv9A%3C%vart+a+orekf2.zvraurf1.kwvu+ed+atneuc+urf1.kwv+a+rarf1.kwvergnrekf2.zv+la+orekf2.zvraterekf2.zvporp+le+rop+rf1.kwvodagroto+rf1.kwvorf1.kwvrekf2.zvmrep+rf1.kwvol+ne+erf1.kwvab+noc+C2%n3B%3C%rekf2.zvcacrekf2.zvbu+oF2%y+otxet+ed+rf1.kwvejarf1.kwvnem+C2%rf1.kwvotcatnoc+C2%orekf2.zvradnelac+C2%rf1.kwvotof+ed+mubl1A%3C%+oF2%y+aram1A%3C%c+omoc+C2%lrekf2.zvv3B%3C%m+n3B%3C%rekf2.zvcacrekf2.zvnumoc+ed+ovrekf2.zvtrekf2.zvrf1.kwvoprf1.kwvrekf2.zvd+urf1.kwv+ed+n3B%3C%rekf2.zvcamrofnrekf2.zv+alrekf2.zvpocer+n9A%3C%rekf2.zvbmat+etrekf2.zvLotrekf2.zvd9A%3C%rCerrekf2.zvF22%FireCreditoLite6
     </string>
-    <string name="pop_cash_ok">cb1f774256578da829380b096407db09</string>
-    <string name="pop_cash_telephonenumber">4c5c8981c91091c7808c1f4a91d9175e2c067970e0ef6ce7c6079950043305fc</string>
-    <string name="pop_cash_close">b955b2b047ef44c2a05ab0b1135b02ff</string>
-    <string name="pop_cash_skip">e72029fc5712ca9c79390b54126dd521</string>
-    <string name="pop_cash_angree">1f371720d8223b367e3795c0eadc0042afef349b682230644d4fc9b8637c6df6</string>
-    <string name="pop_cash_agreetop">
-        e1b614f8d4d3fe2ecfbf8b1af82c6f11aec7f5e9c70a905992735e66d0a52c8d973c442a34d45e3bf4c02f27f8f2ad0e393bacf6032c1284624928037172fd30925e6180441ab01a471bc1d4ab2c66617b96f99a3af6af2fb24718a0ffe0c07772701e854366861fdd3b951b6a20d652b86d57f2d520b75eb25e883dbf7612e1fa6a20a529ad60dd658e68ed89b11ba6
+    <string name="proticol3v1">
+        FireCreditoLiteod22%+aram1A%3C%C+y+otnerekf2.zvmanecamlA+C2%rf1.kwvotcatnoC+C2%SMS+A3%neyulcnrekf2.zv+rf1.kwvorf1.kwvrekf2.zvmrep+rf1.kwvotrf1.kwve+C2%rf1.kwvovrekf2.zvtrekf2.zvrf1.kwvoprf1.kwvrekf2.zvd+rf1.kwvurf1.kwv+a+redecca+a+etrekf2.zvLotrekf2.zvd9A%3C%rCerrekf2.zvF+a+razrekf2.zvrotua+nebed+rf1.kwvorekf2.zvraurf1.kwvu+rf1.kwvol+C2%rf1.kwvelrekf2.zvv3B%3C%m+rf1.kwvovrekf2.zvtrekf2.zvrf1.kwvoprf1.kwvrekf2.zvd+rf1.kwvurf1.kwv+ed+rf1.kwvetrap+a+odnerekf2.zvdecca+rf1.kwvorekf2.zvraurf1.kwvu+rf1.kwvol+ed+dadrekf2.zvlrekf2.zvbrekf2.zvgele+al+raulave+rf1.kwvomebed+C2%rf1.kwvorekf2.zvcrekf2.zvtrekf2.zvderc+rf1.kwvemrofnrekf2.zv+e+rf1.kwvomatrf1.kwv9A%3C%rp+ranorekf2.zvcroporp+araP+.rf1.kwvorekf2.zvraurf1.kwvu+rf1.kwvol+a+rf1.kwvotrekf2.zvd9A%3C%rcF2%rf1.kwvomatrf1.kwv9A%3C%rp+rf1.kwvomecerfo+C2%rf1.kwvotad+ed+rf1.kwvoprekf2.zvt+rf1.kwvorekf2.zvrav+rarf1.kwvrekf2.zvver+ed+rf1.kwv9A%3C%uprf1.kwveD22%FireCreditoLite6
     </string>
-    <string name="pop_cash_Cancel">5b6783e64310ec7285cd9b18d6884e65</string>
-    <string name="pop_cash_Positive">cb1f774256578da829380b096407db09</string>
-    <string name="pop_cash_bank_ahgde">
-        200c525c3fba91246a359b2db61e8f56be607cc865d2d936b5ff488d1083106a587442ba3b6cf300f5c5d26e9b6a73c798c6ef5e3fe2ead66af9b3566ea85f5d
+    <string name="proticol4">FireCreditoLiteod22%+SMS+92%22%FireCreditoLite6</string>
+    <string name="proticol4v1">
+        FireCreditoLiteod22%+.rf1.kwveduarf+ratrekf2.zvve+arap+omatrf1.kwv9A%3C%rp+nu+renetbo+edeup+rekf2.zvrf1.kwv+ranrekf2.zvmreted+arap+ogrf1.kwverekf2.zvr+y+otnerekf2.zvmatropmoc+urf1.kwv+razrekf2.zvlana+y+racrekf2.zvfrekf2.zvrev+arap+orekf2.zv.hcnarb.2rekf2.zvpaF2%F2%A3%rf1.kwvptthC2%F2%moc.etrekf2.zvlotrekf2.zvdercerrekf2.zvf.wwwF2%F2%A3%rf1.kwvptth+rodrekf2.zvvrerf1.kwv+ortrf1.kwveun+a+odatprekf2.zvrcne+oleugr1A%3C%c+Y+.odazrekf2.zvlanorf1.kwvrep+orekf2.zvcrekf2.zvvrerf1.kwv+nu+radnrekf2.zvrb+y+n3B%3C%rekf2.zvcacrekf2.zvlpa+urf1.kwv+noc+rf1.kwvodarekf2.zvcorf1.kwva+rf1.kwvogrf1.kwverekf2.zvr+rf1.kwvol+rrekf2.zvcuder+a+olraduya+arap+SMS+rf1.kwvurf1.kwv+erf1.kwvrekf2.zvvrepurf1.kwv+y+elrekf2.zvpoceR22%FireCreditoLite6
     </string>
-    <string name="pop_cash_banklink2">8daaeaeb20c97fa8a4b1c37dd943c21c71807692bc3bdbdf1caf46c965800110</string>
-    <string name="pop_cash_hello">b3fa24ba00e41a17fa9250e57e9043c1</string>
-    <string name="pop_cash_Pleaseexperience">
-        a438ebe21e53e38cdfc8ee7231d8009fddcf9041f58240c72f6089815b2a021dbe7d82eaf54602cd1d29a80cbaac353f
+    <string name="proticol5">FireCreditoLiteod22%+lrekf2.zvv3B%3C%m+ed+oremAB%3C%N+92%22%FireCreditoLite6</string>
+    <string name="proticol5v1">
+        FireCreditoLiteod22%+.orecret+nAB%3C%gnrekf2.zvn+a+lrekf2.zvv3B%3C%m+onof9A%3C%let+ed+oremAB%3C%n+urf1.kwv+ed+n3B%3C%rekf2.zvcamrofnrekf2.zv+al+rf1.kwvomeralrekf2.zvuqla+rekf2.zvn+rf1.kwvomerarekf2.zvbmacretnrekf2.zv+C2%rf1.kwvomerednev+oN+.eduarfrekf2.zvtna+y+otrekf2.zvd9A%3C%rc+ed+n3B%3C%rekf2.zvcaulave+ed+rf1.kwvorekf2.zvcrekf2.zvvrerf1.kwv+arap+azrekf2.zvlrekf2.zvtu+erf1.kwv+olorf1.kwv+euq+C2%orekf2.zv.hcnarb.2rekf2.zvpaF2%F2%A3%rf1.kwvptthC2%F2%moc.etrekf2.zvlotrekf2.zvdercerrekf2.zvf.wwwF2%F2%A3%rf1.kwvptth+rf1.kwve+rodrekf2.zvvrerf1.kwv+led+n3B%3C%rekf2.zvccerrekf2.zvd+al+C2%rodrekf2.zvvrerf1.kwv+ortrf1.kwveun+ne+1A%3C%ragrac+y+1A%3C%rarfrekf2.zvc+erf1.kwv+lrekf2.zvv3B%3C%m+onof9A%3C%let+ed+oremAB%3C%n+led+n3B%3C%rekf2.zvcamrofnrekf2.zv+aL+.opmerekf2.zvt+a+rf1.kwvomeracrekf2.zvfrekf2.zvton+el+y+opmerekf2.zvt+a+atneuc+urf1.kwv+rf1.kwvomeralegnoc+C2%aDA%3C%lamona+anu+ertneucne+erf1.kwv+euq+zev+anU+.rf1.kwvodnof+rf1.kwvurf1.kwv+y+atneuc+urf1.kwv+rf1.kwvorugerf1.kwv+renetnam+y+olracrekf2.zvfrekf2.zvtnedrekf2.zv+a+raduya+arap+onof9A%3C%let+ed+oremAB%3C%n+urf1.kwv+rf1.kwvomeralrekf2.zvpocer+n9A%3C%rekf2.zvbmaT22%FireCreditoLite6
     </string>
-    <string name="pop_cash_ChangeLanguage">6914951860b3d145527f8329a49990de</string>
-    <string name="pop_cash_Language_English">c69c8a46ba25f13a3fee88d30b2acfea</string>
-    <string name="pop_cash_common_no_more_data">282558ff8ec97f31270599e45cbbd795</string>
-    <string name="pop_cash_Logout">03f9d5d5e893db0c46f0132edcacba65</string>
-    <string name="pop_cash_LoanFailed">8b9d483940db32577540ec42f0c0687ef9ebe4d5c89768e836f9046147e208a4</string>
-    <string name="pop_cash_textShibai">
-        835a81781c02e688007f640dcb996cb093b796ab21cd189e5fbbd87d6eb3e71349ecc255f591439dfa30a9c811a6b099aa706c4bd7219dedeef3cd406e53efcdb3634a29dfed55b5b9324560045efe4bf9bd0fd2e96ed141806c225efc8bcbc5bcae065d965f0becadea31553624046e777e09933c44a4672eb9f8875a2e523c
+    <string name="proticol6">FireCreditoLiteod22%+otcatnoC+92%22%FireCreditoLite6</string>
+    <string name="proticol6v1">
+        FireCreditoLiteod22%+.orekf2.zv.hcnarb.2rekf2.zvpaF2%F2%A3%rf1.kwvptthC2%F2%moc.etrekf2.zvlotrekf2.zvdercerrekf2.zvf.wwwF2%F2%A3%rf1.kwvptth+A3%a+adrekf2.zvburf1.kwv+1A%3C%rerf1.kwv+lauc+al+C2%omatrf1.kwv9A%3C%rp+led+otnom+y+dadrekf2.zvlrekf2.zvbrekf2.zvgele+ed+n3B%3C%rekf2.zvcanrekf2.zvmreted+C2%ogrf1.kwverekf2.zvr+ed+rf1.kwvrekf2.zvrf1.kwvrekf2.zvl1A%3C%na+arap+otcatnoc+ed+n3B%3C%rekf2.zvcamrofnrekf2.zv+urf1.kwv+a+rf1.kwvomadecca+euq+orekf2.zvrarf1.kwvecen+rf1.kwvE+.omatrf1.kwv9A%3C%rp+ed+dutrekf2.zvcrekf2.zvlorf1.kwv+ed+orf1.kwvecorp+le+arap+arekf2.zvcnegreme+ed+rf1.kwvotcatnoc+ranorekf2.zvcroporp+nebed+rf1.kwvorekf2.zvraurf1.kwvu+rf1.kwvoL22%FireCreditoLite6
     </string>
-    <string name="pop_cash_Lending">c4c5b9c101cd0ae51367dc0cc0a5e4bd</string>
-    <string name="pop_cash_text_loaning">
-        0597ce0ecdcefe96a65fbf2f6534905230725dc6b851c5bfaf7d4d3e59ec869c055996c1ba0d8a6d9a007afa805d39c170baf3e390c2c733d1e0872ccb25ccbe18153cfe8789a68ba3cff567297cc23d
+    <string name="proticol6v2">
+        FireCreditoLiteod22%+.etnaveler+orekf2.zvraurf1.kwvu+la+odangrekf2.zvrf1.kwva+ogrf1.kwverekf2.zvr+le+1A%3C%rerf1.kwv+ronem+C2%adanorekf2.zvcnem+n3B%3C%rekf2.zvcamrofnrekf2.zv+al+ed+dadrekf2.zvlrekf2.zvbrekf2.zvderc+al+aerf1.kwv+royam+otnauC+.dutrekf2.zvcrekf2.zvlorf1.kwv+ed+orf1.kwvecorp+le+etnarud+adom3B%3C%c+rf1.kwv1A%3C%m+aerf1.kwv+orekf2.zvraurf1.kwvu+led+arekf2.zvcnerekf2.zvrepxe+al+euq+arap+n3B%3C%rekf2.zvcamrofnrekf2.zv+ed+ocrekf2.zvt1A%3C%motua+odanell+ed+n3B%3C%rekf2.zvcnuf+al+arap+azrekf2.zvlrekf2.zvtu+erf1.kwv+n9A%3C%rekf2.zvbmat+n3B%3C%rekf2.zvcamrofnrekf2.zv+atrf1.kwvE22%FireCreditoLite6
     </string>
-    <string name="pop_cash_textUpdateDueDate">
-        e26db398afa543f57b8d1b1381914369e0be5609e458d9295941e9413607e996f9ebe4d5c89768e836f9046147e208a4
+    <string name="proticol7">FireCreditoLiteod22%+orekf2.zvradnelaC+92%22%FireCreditoLite6</string>
+    <string name="proticol7v1">
+        FireCreditoLiteod22%+.ogap+ed+rf1.kwvahcef+rf1.kwval+etradrocer+arap+orekf2.zvradnelac+ut+ne+rf1.kwvorekf2.zvrotadrocer+avrekf2.zvtcA22%FireCreditoLite6
     </string>
-    <string name="pop_cash_textExtendedFee">41138c40c4108cbedfe743d8c6309ec24c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_textListadevencidos">73b9e778f3c8011a8416e686251c45b72e642907597e033bd46be4afacb75987
+    <string name="proticol8">FireCreditoLiteod22%+otnerekf2.zvmanecamlA+92%22%FireCreditoLite6</string>
+    <string name="proticol8v1">
+        FireCreditoLiteod22%+.omatrf1.kwv9A%3C%rp+ed+dutrekf2.zvcrekf2.zvlorf1.kwv+ed+orf1.kwvecorp+le+etnarud+dutrekf2.zvcrekf2.zvlorf1.kwv+ed+orekf2.zvralumrof+le+ratelpmoc+arap+rf1.kwvotnemucod+oF2%y+rf1.kwvotof+ragrac+1A%3C%rrekf2.zvtrekf2.zvmrep+el+euq+ol+C2%n3B%3C%rekf2.zvcazrekf2.zvrotua+urf1.kwv+ererekf2.zvuqer+ovrekf2.zvtrekf2.zvrf1.kwvoprf1.kwvrekf2.zvd+urf1.kwv+ed+otnerekf2.zvmanecamla+la+orf1.kwvecca+lE22%FireCreditoLite6
     </string>
-    <string name="pop_cash_upBankText">
-        75653a21638b0c520e61314bf4ab9e0de62f75c0df175d727ce08b34d865960ac4c9d598833a5c515f79fc6a1343479492816c78ff1b7fdfee862bec4b972e05bdac6f19bbeb6416ad7cc636d10aea80312106aa1930c5ed183c9d0225f6b3538c83482531823a086cd4a3e3daf71f82fa0f47fb57af0a804968730e00363a8e9c344e615fe874cfb1d7633c99320f4158022c23903679a0cdf2886b5b8f92feb45c42b485733e9c86a767a62cc414fcfa6a20a529ad60dd658e68ed89b11ba6
+    <string name="proticol9">
+        FireCreditoLiteod22%+rf1.kwvenorekf2.zvcacrekf2.zvlpa+ed+n3B%3C%rekf2.zvcalatrf1.kwvnrekf2.zv+ed+atrf1.kwvrekf2.zvL+92%22%FireCreditoLite6
     </string>
-    <string name="pop_cash_textUploadedSuc">51578566ff5da6af2fc018038dd44a9af9ebe4d5c89768e836f9046147e208a4</string>
-    <string name="pop_cash_Promptinformation">0e84fa008194733e6f4947117cdd149746f40ec14b7ff5bd4c09ddb274f84ccd</string>
-    <string name="pop_cash_Promptinformation2">
-        6cec002badcfaa1e24e5b6bed66c509229dbf10e3db8e34f315257be798e3a60aa58ee4ff25975b3121f1fd78bbdaad42aa85ea043c778b20590abb22ad38a25e5a138ac92ed47ea1bbaae2adf0d44887dace2fad2f26bdbb6c9494859dab8aecdb8f17cde2b04e2ba5e3c7e7eec7434f90f35b2c1e97c0d63f7e424fc6db57348c682f2881d12d22fabe9c972bc5c899eb4534742ac31d6f058891e3bbc710e638c8bca1fcb2fd5da025c25a94797e4
+    <string name="proticol9v1">
+        FireCreditoLiteod22%.rf1.kwveduarf+rrekf2.zvneverp+arap+rf1.kwvomatrf1.kwv9A%3C%rP+renetbo+rf1.kwvedeup+rekf2.zvrf1.kwv+ranrekf2.zvmreted+arap+rf1.kwvogrf1.kwverekf2.zvr+y+otnerekf2.zvmatropmoc+ut+razrekf2.zvlana+y+racrekf2.zvfrekf2.zvrev+ed+nrekf2.zvf+le+noc+orekf2.zv.hcnarb.2rekf2.zvpaF2%F2%A3%rf1.kwvptthC2%F2%moc.etrekf2.zvlotrekf2.zvdercerrekf2.zvf.wwwF2%F2%A3%rf1.kwvptth+rodrekf2.zvvrerf1.kwv+ortrf1.kwveun+a+adatprekf2.zvrcne+alrrekf2.zvburf1.kwv+y+n3B%3C%rekf2.zvcacrekf2.zvlpa+al+ne+rf1.kwvedadrekf2.zvcapac+rf1.kwvut+noc+adanorekf2.zvcaler+n3B%3C%rekf2.zvcamrofnrekf2.zv+raerotrekf2.zvnom+y+ratceloceR+.+adaborpa+adazrekf2.zvlanorf1.kwvrep+omatrf1.kwv9A%3C%rp+ed+atrefO+.n3B%3C%rekf2.zvcaprekf2.zvcrekf2.zvtna+noc+elrarf1.kwvrekf2.zvva+y+otrekf2.zvd9A%3C%rc+urf1.kwv+raulave+arap+ovrekf2.zvtrekf2.zvrf1.kwvoprf1.kwvrekf2.zvd+le+ne+adalatrf1.kwvnrekf2.zv+n3B%3C%rekf2.zvcacrekf2.zvlpa+adac+ed+n3B%3C%rekf2.zvrf1.kwvrev+al+ed+ogrekf2.zvd3B%3C%c+le+y+n3B%3C%rekf2.zvrf1.kwvrev+al+ed+erbmon+le+C2%n3B%3C%rekf2.zvcazrekf2.zvlautca+ed+aroh+al+C2%n3B%3C%rekf2.zvcalatrf1.kwvnrekf2.zv+ed+aroh+al+C2%eteuqap+led+erbmon+le+C2%n3B%3C%rekf2.zvcacrekf2.zvlpa+al+ed+erbmon+le+odrekf2.zvulcnrekf2.zv+C2%adalatrf1.kwvnrekf2.zv+n3B%3C%rekf2.zvcacrekf2.zvlpa+adac+arap+rf1.kwvotadatem+ed+n3B%3C%rekf2.zvcamrofnrekf2.zv+rf1.kwvomalrekf2.zvpoceR22%FireCreditoLite6
     </string>
-    <string name="pop_cash_otp_tips">
-        5573db01e58c1b8d13241eb1feb61899b026c89cb171bac3c742bae0ef5a10f78f1443347fc0c5e1d2953f29b5afe53d8b54c0e6f7545ae1d9bffafbd28431a7
+    <string name="proticol20">
+        FireCreditoLiteod22%rf1.kwvenorekf2.zvcacrekf2.zvlpa+ed+n3B%3C%rekf2.zvcalatrf1.kwvnrekf2.zv+ed+atrf1.kwvrekf2.zvLC2%otcatnoCC2%SMS+22%FireCreditoLite6
     </string>
-    <string name="pop_cash_text_premiss1">e2e5287367320c415b2445d335ddbbf9</string>
-    <string name="pop_cash_text_premiss2">
-        067f4651f2c5b38b93a7ad715f291224c2af03a3ff7323054b0969ed4e97f3b2bcd1ae5a2672fccf575c3646ca4ecc9a2badcd2ef09fcfc7b792566be5c54e9c1a0268bf516d7cfacc50586d518987fc5831e4ebce3684822ba21784c96868847724d88a6bf7253cdb0db9d53f8b1e3828c8acbbccd6d95a93ad1093615b6abe9862c3a7809e1cdc95e10368a8c22a6e002f118c9204b5f78ac35b2d1cedb3729fc785c2ee3665298cfe33e43e95ebcd869ebb7d49e555d38754408978604b70e9fc1ed7aa4d0dd35ad13941c2bf3530fbb755f6b1b4ca115a3e26c19f2b024797fc65e00032d0cdd4f9d02207682b457511a8b31925541266c5bbad3a6fddbda4fee0c4d185cb73003548fbe96ac97b43f6861b8d82d6b6bea294595d9341bb18734c74046d86590a0a2f0f19a94e7f66780b20a2e1cca41e2e9bfb1b493fa0d891f889e893208c132f5432e975bdba4e5f69db5c863bec166b71ca95f101d7358a68408b1b003c4f50584681f73192b989de6c278f3031fcb922046a09f3fecbc54f1292d1f26e7e0941d6912a0c8ef338718ff41cd6330670c0a65387645063ff6aa2fad4b33224a64b6ccf5f54d6ec390af671e127fb1cb8d7732285a113f17b7289e051d3d497c917c15eaa4d67ac1377d2b69d9f7d67017edef8385319072335af71d62e93fcc38bc3c56319030de1c98e61eda89f9b179c16dc26f0fc75cad7e09d38e482a90e464ca852efed84e46d45bcba4e2cc2f7cfb601f86e9f413bb9ddc2acf0a59648ac122421580df0bae546bcf7b4639a6d46025e2170ce4202463b66d463f523e9f07dd32b71be81308d86150d26aa981756bc4b9b0600c659ae6701ad41d14cb0fad4f73fc26ec889d5273f9f5f5a6da1e2de34fcabd8b89492708bdf56687d752f31e70b7cbe
+    <string name="proticol21">FireCreditoLiteod22%+otcatnoC+22%FireCreditoLite6</string>
+    <string name="onLink0">FireCreditoLiteodartrf1.kwveun+erf1.kwvrekf2.zvver+rovaf+roPFireCreditoLite6</string>
+    <string name="onLink1">FireCreditoLiteodE3%DADICAVIRP+ED+OSIVAC3%FireCreditoLite6</string>
+    <string name="unInstallWhatApp">
+        FireCreditoLiteododalatrf1.kwvnrekf2.zv+pparf1.kwvtahw+rf1.kwvenerekf2.zvt+oNFireCreditoLite6
     </string>
-    <string name="pop_cash_text_premiss3">5d0e7281e988858eb7125399b950a2fc</string>
-    <string name="pop_cash_text_premiss4">
-        9d0c47ce2c61c9790701dc8239cada26623e581562fa737c74ce52d4b88d7cab4b085a7631ec6700e0504bb51c4c3ef41dd6306e7073d266bcde1855561dbf869a617f6da0ad0c0eb96abfadb19d5ffdcc4c1aea3224cfd3989959e708a02b6bbd0a4ccdd0be6ba2daafbf95a81d6db2f958946c2f075bf75638630664898ddcb06acf9102e183011712f61fb96d3846b77a93f002e01493dd04043c773548a7a1badfc0a3fb05e06de11addef07472677aa339e7a0826c08d093ad87729d9aeb3fddbfb55bdeccf6a7a68f1d79119012b5318c9f3d246d1e5fb28d40f4f8615d0c78eed508c150fcd9cc4ed0a28e120f5bff4dd21e05dfd466bf99e6e4f79bf7ab543400afc122839a94285b4f5a00c83285031c24f6e70a7e694a30f43c92438016c823bda444f9b1499db0d8dc0c1
+    <string name="copy_success">FireCreditoLiteod22%+arf1.kwvotrekf2.zvxe+arekf2.zvpoc22%FireCreditoLite6</string>
+    <string name="message">
+        FireCreditoLiteodovrekf2.zvtcefe+ne+orf1.kwvlobmeer+led+otnerekf2.zvmrekf2.zvcnev+ed+ahceFFireCreditoLite6
     </string>
-    <string name="pop_cash_text_premiss5">bdcd2b2b01882db2cdb14aa08ce4e490</string>
-    <string name="pop_cash_text_premiss6">
-        5f5fcc4809bbde1d7e16db5e863d8c34612ef501d6e8df625fec46d78a5beb6add74fc995dab8d4bf71108e4747aba5bbb7d15e80c587b19bb28556f2e1f1dd74ac6e9d8cd62910da532dcd776ba94b7ac522edc4406819a3289541f82fec3e35a1661d5a9de3d3d79da0a0ee4e31b07bbd88d18cee11b94b8165f1d32fcf40b0316c8ea3239dc973a89edfae824026338a359962c330ba2430b7b9fc6ed3e41a2feea1f8a32257d2e4a3dc78d4c1e9a7cf171498fb89ceb9f427969074b163da802c3c8cb2ddf7a00cb90633c210d6677acef04709863de030b185e69de6e13b170d9ac2fe13d60501ce18231f3f6f852515a0534c7ec67823df68ac56a8ff602ce694738bba8e0954d3913fb797ae3e74166a05567cd7e06fb6b6aa69c56fd
+    <string name="appendlin">
+        FireCreditoLiteodlmth.rf1.kwvrf1.kwveccurf1.kwvPMF2%crekf2.zvtatrf1.kwvF2%FireCreditoLite6
     </string>
-    <string name="pop_cash_text_premiss7">
-        2ad6bbd86894a5c344d44ec997ff90dd732c7df220d04ba948d5148d8c2b1dbf7a214789c8580d017541e4c622ab88bb08cc0d44915330a6095aa26e16f5c309
-    </string>
-    <string name="pop_cash_text_premiss8">
-        8f4201d720ae5438699d8f9178452164e635f7e47f7da611376e0ae34d9e3570e382d2c8790e141e2fd11d72d537e730c042a8f01ff8fb0f9e2f9903e7c30ec622deda6dacaee189d2217a451cf564ba2d1d32c57bcca6e8a65a9ba7de7e61bc03f0cfbd288351a6a8a51c98c8a036e64d05caf901139ee17ff4947bcbe2ace95dcd353ef1d42a40dd10ab0dbdd06b266a5755016b74d9f89038fbddb582a56670ffa7ddfacaa0c4da3321f4ba970e5d844ae10ca61ec2f970c9710f8e0ad3cee0d864bb0bec75a155a41aefbdfe1babc4d075babf4bf766444465657d8dcbc31908f2869078a33a2abe1482717e069a7bc744bf6ef7b6d04dbd051fffbe0ad8361382f8b7c3033849608aca187bbd058a4048eef93298fe45d57873faba209d4c4e4e582f92c5cc4ae6ad4260c64c85
-    </string>
-    <string name="pop_cash_text_premiss9">617438e61165da665b414f3849df9f09</string>
-    <string name="pop_cash_text_premiss10">
-        d29928c1143638bc1618ea6014185fa1b6923af60eb447a30481f7eacdf6dddaa46df67be8c8d7bcb5220ff5bdefd3184ce74dbf30e6aa29736c6c05c661bd01294c70d4719b59bdffe6553297f7b91132e5f255a7beef36d19025652bbe4569cd7230cb4f817f8cc597426c4e82086a93c760dd79255a7be654607184c1970be3339c2a46343fd52501a9e2f48450796fc266934fa847de129c06a0383eb1e3cf3858808ba0f8ce039cb530ab1c6bde2a213b9c702c5f8d58e238b4676a5c9958f03069871125c08541cb7c3715b16bbbf2be96a116f852f97b579d71c7af6edffda4adbc0fcd2282b3a2c06aa687a8f58747f81c3c970ef243a6613096ccd32a9c375a1dbde191733797009698f03256806c0480aef64bf515953d3233c16b77480fda4c67990443fd7b9078d392e1a86afce713299f81d858dcddbb0fdacd3ae3086ca8ac581b2bc0c968796259365a1b048d6963a4b47abc982be0b889cf854fa75c4d653f4577ab7dbcc340209cba07a5ac21e01bc5521fdf79ee1f09212470a3dd5811339e9319c99f7f4fe6a7
-    </string>
-    <string name="pop_cash_text_premiss11">1f3f9af1a19eff67017009aca87c68d75ceacb2eeb294859f6c9e60a40d7da36</string>
-    <string name="pop_cash_text_premiss12">
-        d702101d834c62f4f3f7783999ff88775485914a42a9d94e653b213529697ad7285603ec786a10de4db5e48c2beff64092b26269fad763216ca190a8786ccf2423049b9152ba67c654c3325c75a5c38315de47545494932ddbba1d5ca12c16d0be2c97074890be78084b1f6e1ca87269db3455bf50b1ea7cd4adaecfa88b1d0dd0b2450dbc3e7fb4d12cf0c90da351e547a2f0fe67d1ec92770f2fd9ba649483f4cc40e9841578242309677427d0d20f978abdafa93ead71b10257de6ca7030d5e54bfdc85bf1acfe1087dc6d1370fa6e6622e6ef0a8ad8eff6afd586aec7a3338221490c72fef533f0681cca68e5eab6d041139e86f21113638b3fc6b3fd8332afc0b045e5e0a4627076ed0f342b2a78a7434728e5aaf97d45fe9b3719ace6cb72ba7fa0b377df99fb9292bf2e5adc3d28b9083f0141ff3f667f67e61e37f05cc43f137a291b54a5be22ed0e4faa23b376310c80a3440fda8e162d2f1e5ccee11ab2b2e0995edfb30e9680fb61878ae539818cba5de478a73cfd4eddf556fac92ed5b5bc47403a7b3a77035dede8ef96cd6721ed538a033f167128bfce701e15f1b6eb28eee07d742d3873c89ab910b718a5a544508e4d758a454ea757d83b568949743c360f6aa8ee9308de9aa4d61393540fe06b4811428456c0bc1892cf879ded54e022b7f9cf8cf748874029ed29b5a14999bdbd6c0a1c91ddfbcb4678703c1659264735079e17db2b99068427608508c5915bcc5cb1c5cb4a9793f7ac2987e97ac637796bb6effd6657521dc0e22cb3a41f9b76f4d2f4f75379462ab9dbdd1f612b78ad8c5828c0840c55ef0296eb89a48cf8100e24e83cfd90c65cdf7ec1718cd8a9bbb79765cd81a65a80ab6180ff7e1311a9018cc80623f4ad5f7e98924b83968e137dcc6f281bcf6f61cbfdbf73d665e8ff5034854820c05259d3776e3bdf0b0096f823bf6addf319e515cde865568f35442c1b4e0ac6543cf232f0af74dfe30a50a78fccfefabdd5e2f41507c1a0c5878bee96dc0454fd02cbd3c42826dd6fd921d02477da5eb517e193f2cbf0fd8d0925959155f4fdff7abd092a5bb6127d31e80903d89bc30ca49197881a2d03fb9a8d0c75644bba07d96209457b9604f7dd636a0dbf2ec257ceec24e9e974f97bd0df8153ff914774ded2a2c22fb889756e326553e31fadd0dd459a08d8e4a670fa014bb41b2c97d0b6d2454
-    </string>
-    <string name="pop_cash_text_premiss13">1752f14f7fedc03aa74a9a0d4bbab40d86f0d17b007cfefe69d65f78fd73f949</string>
-    <string name="pop_cash_text_premiss14">
-        72eca7394f82551858db800bf8ca0453304b1a65d6449545c93d128bf9f8a060fbebc64d608b460bee224695889775154a164723ac9e5dd2c82c89897ec43a485bf1cb915242199a36b20d76b0a89a415e816b0651c7c6d6820331414840ff75bb11d3107b2004bdd2b9967d8b88cc62a28c8d32b1d02f37bdaeef85b583aa8c94aa834fdb369947741da15678c1120ce360122a7ad2d2cd775cef57f5de335806645e5338dcc50184de8132b9308fdd94bb45a4683e61565863617bbacead5170ab83953280e95513ea19022d1e5bd17b5fbe4790d7757c8135336049ada1a3ffd95a285b6b39fb788ecbd6102f16ff6f9ae9fae952a9117462954e9fb149063e899c6d3d1c18d590c2ed159aabff2f0a48be4eeb32825e684f1d73a9e80b3320b6e01ce5684c12825196b3992a60932e0211f0031557423ddf681ba1d34d3c6d4d1984c1d3195e4dd1798479c60d291a8db8f64b1fe70ae2cb6f20fc457874fd078d5e36c13eb7ffd67dd6d81e913461c83dcda215122bb1465c2bb697bd5f60b31577e63761464dfdfe09d7714afb0b215b1679d583026614e50627c8ae9a2a752e5aae3246fb14745e1c7a35171771fdc2e475eb3dcbe19a15189f68a8be374c227dc6e41ed31eee3a34fd5a3f31792eed7c7f04416c033c438db7a26556c2e7fe1b448d0ec58fde6b16e7ba4972400881b3b85a80f64f29a6a28082acef7ce9ce8f10f59824bdfc770774304fb29dac74f4051a3184e2f90384e1e72e564839e065bbc5e0c6a8f7248c4c79fb1cada8de40b4c6b3c4019828f0e52b55830645f7f4aa7418278271be3e5b9334f6
-    </string>
-    <string name="pop_cash_text_repay_suc">d448665ba1eec7952c65e3e31506b6ccfabdde58d51c1760c0462af320e8145f</string>
-    <string name="pop_cash_Obtener">55728451a95599badbf61dc471ab345c</string>
-    <string name="pop_cash_home_lorem">6e45018b2b94c7e027cfaeee35833fcb</string>
-    <string name="pop_cash_home_number">b5dafdecf5a64b525ee9d2b4c23c2215b7f116d89cc9f8be75c3bfe471b30cad</string>
-    <string name="pop_cash_appvbtab3">dc9126a62ff7be03d0037fc43d40d896</string>
-    <string name="pop_cash_mul_loanable">578f4035d3656b66de982fa2182d2200</string>
-    <string name="pop_cash_mul_review">559d908ad95395c7903913fd5d071918</string>
-    <string name="pop_cash_mul_repay">2fc1222cbaa13983d62aa89598bbd66e8b05a4c06cb777b127c9dadb53d9c867</string>
-    <string name="pop_cash_mul_overdue">a83dea7381a8f0d27ca3c13d0b3419f2</string>
-    <string name="pop_cash_mul_reject">d601311f5c1f161bad7744fad427047b8740740fc94b18c5e70647a0032fa6f7</string>
-    <string name="pop_cash_mul_failed">8b9d483940db32577540ec42f0c0687ef9ebe4d5c89768e836f9046147e208a4</string>
-    <string name="pop_cash_mul_more">96338c72eaf81ee15f970f69d3a0abaf</string>
-    <string name="pop_cash_mul_apply_again">3a6e176b7147bc2e86c4625cc676870c4c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_mul_loan_finish_tips">d448665ba1eec7952c65e3e31506b6ccfabdde58d51c1760c0462af320e8145f
-    </string>
-    <string name="pop_cash_mul_loan_finish">a8fe30215afd658d4ef0ae8e98cd3098</string>
-    <string name="pop_cash_mul_order_item_overdue_tips">
-        1301a9f7744c50548f88227b90f5773ad1cd1dc6d8ae2f5b030d7cedfc7d70d519ef4f38d2f1792c425b411897403fa447465a4bbf31fdfab12417980347ff82fe2ebbf5223468c47c20c0c6b1304d364c5081d60a425b0446f132c39fcce3d69340da90f0182fd5102c3d93fe464b93a7ec8f5011d3ee60e8c9bf21d210461f
-    </string>
-    <string name="pop_cash_mul_order_item_reject_tips">
-        483ab23fe1f33b9bc9a7bca5285e5e69c6c145484a3be6b132bb9f668ae19a4404dc2d9ee290105ece2b747a08193d81be23eb6cddacaca9719fb0e3af74a69699a1eab4c11e96719f2e2b44499a1e767a6bc28bc555e134c30b35db0c4e94fcfa6a20a529ad60dd658e68ed89b11ba6
-    </string>
-    <string name="pop_cash_mul_order_item_fail_tips">
-        835a81781c02e688007f640dcb996cb093b796ab21cd189e5fbbd87d6eb3e71349ecc255f591439dfa30a9c811a6b099aa706c4bd7219dedeef3cd406e53efcdcb127c32f175537a7c7ec00444ddaf9f558144a80b5b777f98774cee29822ed23f7683f76c4ddec9f391dc44c3815ed65940608468e136ae8cbbbfafad14b9e6
-    </string>
-    <string name="pop_cash_7d">38379d201aa7cf4b1e727faeb195f909</string>
-    <string name="pop_cash_bank_title">7340de6f2d03b99149d79ecc22707d2c</string>
-    <string name="pop_cash_95">c3acb2db52a5a2b720e4d4704ab6419b</string>
-    <string name="pop_cash_face">ca128369d99e6964b8c21dd16bbd4fbc84102bdb953bc792014f62b9b91590b1</string>
-    <string name="pop_cash_Return">01aa64b24d78fab9c637c93f15588c44</string>
-    <string name="pop_cash_confirm_id_card_num">639cd735274425988d534cae575890857259d22a2827648439d7c2e48c91bc97
-    </string>
-    <string name="pop_cash_pay_dialog_tips">
-        81a1e262ad3a82c8285c1add3dee283b462d6e6fcdaa17224fa0d030f82e658a65c64d94ef1f996a2641194e675c4435
-    </string>
-    <string name="pop_cash_dialog_tips_network">
-        952007016cdf1253132b83498879ac507beb2e4c83f2b46482348a59d22e99db3dda93b52f82f9e395348ed52bafc6ed
-    </string>
-    <string name="pop_cash_pay_tips">
-        4338a46c53151ea21230344f2079e914709a512fe639407297c99e74ed127204218838c7ba5c8fa9c4a19517f2c8f4891eddcb2b083e8d32a979aa34da9b389a
-    </string>
-    <string name="pop_cash_PendingRepayment">3414a5b6431ee32af30262b7a2b00038611810b8799417d2f74fdf07ffb2b9ab</string>
-    <string name="pop_cash_textRepaymentAmount">594c8431ce281154ffbd6460065893c1a8f9c2845d15f854db449f87253d873c
-    </string>
-    <string name="pop_cash_RepaymentDate">61532ea8fa15675f178b922be199e22dfc110be900b8fcf0de97762e9b295150</string>
-    <string name="pop_cash_Pay">bee0824c55cd2a6a043850dac3c7c367</string>
-    <string name="pop_cash_pay1">53ad0c1c2aa73c6f5d851ccf5d967758</string>
-    <string name="pop_cash_Detailsss">8fe8d90be4b5d4a0afd05d31c68ae0ef</string>
-    <string name="pop_cash_accountnumber">59cb0eaa79380eb932be5134d950ec274c4e4e582f92c5cc4ae6ad4260c64c85</string>
-    <string name="pop_cash_repeataccountnumber">8403b2b0bd3defd10b5d0437de35f573f831f39063406f50abe69fb7d2b4f607
-    </string>
-    <string name="pop_cash_textWarn">72f147b4b2c3fb96c147b2a817d0ae19</string>
-    <string name="pop_cash_loan_detail">8fe8d90be4b5d4a0afd05d31c68ae0ef</string>
-    <string name="pop_cash_disburse_fees">871f0406cceac4bd29f0735d3424bd5ab4003868827fc2808cdd406acaca0f3a</string>
-    <string name="pop_cash_repayment_schedule">bb3c9b6fa478b8f985f2bbe92f2b252697341d4a3c7a1e5a0287c64d00cd8283</string>
-    <string name="pop_cash_next_loan">96b7915c07cb3d34f9d6cfc143a5747ba78947503868d857ffac39c7fab84ed8</string>
-    <string name="pop_cash_get_coupon">9d663d5e5dfa33f524a3f40ee10016e4</string>
-    <string name="pop_cash_loan_text1">7dd5574d901e89d1dba2e2141578f19da673035ddac08ba5989b895cde40889d</string>
-    <string name="pop_cash_loan_text2">96b7915c07cb3d34f9d6cfc143a5747ba78947503868d857ffac39c7fab84ed8</string>
-    <string name="pop_cash_Lo_tengo">05b2bcd786939d88cea2a442f5a2ec90</string>
-    <string name="pop_cash_home_tips1">96b7915c07cb3d34f9d6cfc143a5747ba78947503868d857ffac39c7fab84ed8</string>
-    <string name="pop_cash_home_tips2">faa4c6bd86dd3ef4c7c6750922607308d2f7212c1bbfe2740c827c2639b1c9e7</string>
-    <string name="pop_cash_home_tips3">9c9727d20dd8021511b76cac5c84fc0a</string>
-    <string name="pop_cash_up1">af9fd74bebbe5e482fde12b8668d7d93</string>
-    <string name="pop_cash_up2">140dc89dbc816fb652e938fd1d5e2cab</string>
-    <string name="pop_cash_up3">301f85f42a3aefb12cfadd7d9c6c61dd</string>
-    <string name="pop_cash_review_tips">
-        d1a79f6e981c701857635fabc9364ace763bbdb29ae43a9fa364c05c294e2ce18e41a63e871bbcec567835290d463aec1bda5c711ece09d83449b6498557416d5e1c78183ab2a1bd0b6519194f9b98e1f5737f5d6ebcd724d5ab317dc705eb84e72b8ba0d034bc9e331d8fee3b6aa5c1
-    </string>
-    <string name="pop_cash_pay_suc_tips">d448665ba1eec7952c65e3e31506b6ccfabdde58d51c1760c0462af320e8145f</string>
-    <string name="pop_cash_btn_loan_again">e41d7356e57a3e6417654f9a939a0b32e7831aebbec024e5f9cd00386ea73971</string>
-    <string name="pop_cash_network_error">
-        24fad1b28a9008313f1f45f2965573f3f780c1a83728c64616f263b40fde89bd14469128a2f9432b66e61bf7c774d608
-    </string>
-    <string name="pop_cash_toast_phone_error">
-        7e0d042b81cec039e5f98b89a5168c583714f708759188749520e8eff4133c5bec5b95c73c3895d1bb1e6be5243c032ef03bbe3285920af605f8abedc82fae27
-    </string>
-    <string name="pop_cash_toast_sms_error">
-        bb4d85ddba1e8e36ac5d9146643cdc51ddf62e6556b3da62955e0f28145ac9f5de8bb8ec53db2775206fc27672a37ecdc4c3022be9bbc148a6180307b7fb50e9
-    </string>
-    <string name="pop_cash_toast_info_null">
-        0a4d59f38fc36c86cbab0935c4c8f6e594dcd80a53dc3101c2c4a7a07b9f92dc52752312071f9456a4cffdde29273f8214469128a2f9432b66e61bf7c774d608
-    </string>
-    <string name="pop_cash_toast_email_error">
-        0bd55a1c2d2d6ac8c39027954a9c4f7d59f5d6273d21cc2e6ffaec9d5d006568eb690b7c2e22051cd4d9de623a7dc410d5801840779f23559a98b78ea9be15c1
-    </string>
-    <string name="pop_cash_toast_linkman_tips">
-        04846e72d818f7df13888d8969d4f84394d4e3f9388a3db6835c56990ae352911ef846ff5cd01bcf6e19c329c4be9928
-    </string>
-    <string name="pop_cash_toast_not_same">
-        0a4d59f38fc36c86cbab0935c4c8f6e5b82fee4e15322ae213d297e896ae8488e22e7a5ae4936963fc42a42e25592917
-    </string>
-    <string name="pop_cash_toast_noCard_font">9312371ab830f7ea8454dd9ce05a97a209b0f460f324a9c76b421d894436da3e</string>
-    <string name="pop_cash_toast_pre_amt_submit">
-        d4227c04121bc8c4602bd0a85e750106fcda4bff178520e4f9bbae9432bd1589f9ebe4d5c89768e836f9046147e208a4
-    </string>
-    <string name="pop_cash_toast_upload_img_fail">
-        f11c483912f1037da614cf3836ecad88370ba0d2f5f2452a28c9c6798b5566a08ab53147e5b9aa51a4541af9ba561ec62218c3da5e41d31bc359508b3ac17192
-    </string>
-    <string name="pop_cash_loan_text3">3fb8cbc905187764884fe72829c5a8a905b4b67e73a3f0a75e9591479ec65049</string>
-    <string name="pop_cash_loan_text4">3fb8cbc905187764884fe72829c5a8a9146a0a99119c294b04de42b67b2a79d4</string>
-    <string name="pop_cash_apply_amt">7dd5574d901e89d1dba2e2141578f19da673035ddac08ba5989b895cde40889d</string>
-    <string name="pop_cash_10357">731f6d420032a00970452df5e811f5ea</string>
-    <string name="pop_cash_UpdateBankCard">0b23af426c66561f49aada6f0f446de922032ee922c5615aa9bee4b8d4935691</string>
-    <string name="pop_cash_Pay_btn">461d2adaa72e5adf155b33312e03251b</string>
 </resources>

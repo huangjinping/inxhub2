@@ -1,147 +1,32 @@
 <resources>
-
-
-    <string name="nubep1">Al presionar "ACEPTO Y CONTINUAR" se entenderá que has revisado, leído y aceptado los términos de nuestro </string>
-    <string name="nubep2">Aviso de Privacidad</string>
-    <string name="v21">SALTAR</string>
-    <string name="v22">ACEPTO Y\nCONTINUAR</string>
-    <string name="whatsapp">WhatsApp no ​​está instalado</string>
-
-    <string name="emailapp">Seleccionar cliente de correo electrónico</string>
-    <string name="appmession">Al presionar \"ACEPTO Y CONTINUAR\" se entenderá que has revisado, leído y aceptado los términos de nuestro Aviso de Privacidad.</string>
-
-    <string name="permission_tv">Permission</string>
-    <string name="permission_info">Hi.there To access your eligibility and facilitate faster disbursal of your loan, we need these permissions</string>
-
-    <string name="sms_tv">SMS</string>
-    <string name="sms_info">Collect and monitor only financial transaction Introducir texto messages including the name of the transaction party. The purpose is to conduct a credit risk assessment of the transaction and the description of the transaction amount. This credit risk assessment speeds up loan disbursement without any Perfil Introducir texto messages being deleted, read or collected</string>
-
-    <string name="contacts_tv">Contacts</string>
-    <string name="contacts_info">The NBFC loan process and guidelines mandates us to verify references. This feature enables us to do that &#038; Why type in contact number when you can just choose from your contact book.</string>
-
-    <string name="ys_info">Al presionar &quot;ACEPTO Y CONTINUAR&quot;se entenderá que has revisado, leído y aceptado los términos de nuestro </string>
-    <string name="ys_tv">Aviso de Privacidad</string>
-
-    <string name="first_btn">SALTAR</string>
-    <string name="second_btn">ACEPTO Y CONTINUAR</string>
-
-    <string name="nubet00">Datos personales</string>
-    <string name="nubet01">"Nube recabará de usted (en adelante el “Titular” o “Usted”) los siguientes datos personales (en lo sucesivo los “Datos” o los “Datos Personales”) en su calidad de uno de nuestros Clientes:  "</string>
-    <string name="nubetlco0">Localización</string>
-    <string name="nubetlco1">"Verificar su ubicación, solo depositamos préstamos a usuarios Mexicanos.Todos los datos se cifrarán y cargarán en nuestros servidores(https://www.nubemx.com/ y https://api2.branch.io/ ) a través de la aplicación "</string>
-    <string name="nubecame0">Cámara</string>
-    <string name="nubecame1">"Cuando solicita un préstamo, usaremos la cámara para verificar si lo solicita el mismo cliente titular para evitar que le roben su información.Todos los datos se cifrarán y cargarán en nuestros servidores(https://www.nubemx.com/ y https://api2.branch.io/ ) a través de la aplicación "</string>
-    <string name="nubeel0">Estado del teléfono</string>
-    <string name="nubeel1">"Usaremos el código (IMEI) de su celular, ya que con él podemos asegurar que otros celulares no puedan reemplazarle al solic fraudes. No obtenemos automáticamente el estado del teléfono móvil del usuario para completar la página de inicio de sesió almacena datos de solicitantes a los que no se les apruebe el préstamo. Cifrada subirlo a en nuestro servidor nuestro servidor (https://www.nubemx.com/ y https://api2.branch.io/ ), a fin de identificar yanalizar su comportamiento y riesgo frente a se puede procesar el préstamo o no ayudando a prevenir fraude. "</string>
-    <string name="nubelp0">Lista de App instalación</string>
-    <string name="nubelp1">"Recopilar y controlar información relacionada con su capacidad informada en la aplicación, y cifrada subirlo a en nuestroservidor (https://www.nubemx.com/ y https://api2.branch.io/ ), a fin de identificar yanalizar su comportamiento y riesgo frente a se puede procesar el préstamo o no ayudando a prevenir fraude. "</string>
-    <string name="nubesm0">SMS</string>
-    <string name="nubesm1">"Recopilar y supervisar sus SMS, direcciones de remitentes y descripciones de mensajes para ayudarle en reducir los riesgos asociados con su aplicación y transmitirlos a nuestro servidor (https://www.nubemx.com/ y https://api2.branch.io/ )  para evaluación crediticia y brindar servicios personalizados. Nos ayudan a verificar la identidad de los usuarios y / u otra información que nos proporcionen los usuarios; detectar, combatir y prevenir fraudes, intentos de fraude, lavado de dinero y / u otro uso ilegal de nuestros servicios; analizar el comportamiento del cliente; interactuar con agencias de referencia crediticia o de prevención de fraude; y proporcionar servicio o soporte al cliente. "</string>
-    <string name="nubeco0">Contactos</string>
-    <string name="nubeco1">"Consultar y almacenar sus contactos para completar automáticamente los datos durante el proceso de solicitud de préstamo y mejorar la tasa de éxito de la solicitud. Todos los datos de Contactos se cifrarán y cargarán en nuestros servidores(https://www.nubemx.com/ y https://api2.branch.io/ ) a través de la aplicación, pero filtraremos y eliminaremos los datos de Contactos personales de nuestros servidores y nunca compartiremos estos datos con terceros. "</string>
-    <string name="nubecd0">Calendario</string>
-    <string name="nubecd1">"Se usa para recordarle la fecha de pago para evitar el impacto del pago vencido en su crédito.Todos los datos se cifrarán y cargarán en nuestros servidores(https://www.nubemx.com/ y https://api2.branch.io/ ) a través de la aplicación "</string>
-
-    <string name="list">Lista de App instalación</string>
-    <string name="list_info">Recopilar y controlar información relacionada con su capacidad informada en la aplicación, y cifrada subirlo a en nuestroservidor (https://www.nubemx.com/ y https://api2.branch.io/ ), a fin de identificar yanalizar su comportamiento y riesgo frente a se puede procesar el préstamo o no ayudando a prevenir fraude.</string>
-    <string name="sms_info_1">Recopilar y supervisar sus SMS, direcciones de remitentes y descripciones de mensajes para ayudarle en reducir los riesgos asociados con su aplicación y transmitirlos a nuestro servidor (https://www.nubemx.com/ y https://api2.branch.io/ )  para evaluación crediticia y brindar servicios personalizados. Nos ayudan a verificar la identidad de los usuarios y / u otra información que nos proporcionen los usuarios; detectar, combatir y prevenir fraudes, intentos de fraude, lavado de dinero y / u otro uso ilegal de nuestros servicios; analizar el comportamiento del cliente; interactuar con agencias de referencia crediticia o de prevención de fraude; y proporcionar servicio o soporte al cliente.</string>
-    <string name="contactos_tv">Contactos</string>
-    <string name="contactos_info">Consultar y almacenar sus contactos para completar automáticamente los datos durante el proceso de solicitud de préstamo y mejorar la tasa de éxito de la solicitud. Todos los datos de Contactos se cifrarán y cargarán en nuestros servidores(https://www.nubemx.com/ y https://api2.branch.io/ ) a través de la aplicación, pero filtraremos y eliminaremos los datos de Contactos personales de nuestros servidores y nunca compartiremos estos datos con terceros.</string>
-
-    <string name="nids">Necesita información de su libreta de direcciones</string>
-    <string name="tp">Telephone</string>
-    <string name="wa">WathsApp</string>
-    <string name="el">Email</string>
-    <string name="yzm">Código</string>
-    <string name="dl">Iniciar sesión</string>
-    <string name="dtl">Detalle</string>
-    <string name="car">Cantidad a recibir</string>
-    <string name="mdd">Monto de devolucion</string>
-    <string name="fdpdtc">Fecha de pago de tu credito</string>
-    <string name="hl">He leído</string>
-    <string name="cdr">Contrato de crédito</string>
-    <string name="dd">detenidamente</string>
-    <string name="cf">Confirmar</string>
-    <string name="tdi">Tarjeta de identificación</string>
-    <string name="ii">INE | INF</string>
-    <string name="ft">Frente</string>
-    <string name="as">Atrás</string>
-    <string name="rf">Reconocimiento facial</string>
-    <string name="hca">Haga clic aquí</string>
-    <string name="rfco">RFC(Optionnal)</string>
-    <string name="sp">Siguiente paso</string>
-    <string name="idstb">Información de su tarjeta bancaria</string>
-    <string name="tdcb">Tipo de cuenta bancaria</string>
-    <string name="ndb">Nombre del banco</string>
-    <string name="ndcb">Número de cuenta bancaria</string>
-    <string name="rendc">Repita el número de cuenta</string>
-    <string name="ssdpsh">Su solicitud de prestamo se ha</string>
-    <string name="ec">enviado correctamente</string>
-    <string name="oo">OK</string>
-    <string name="idt">Información de trabajo</string>
-    <string name="nde">Nombre de empresa</string>
-    <string name="tdle">Teléfono de la empresa</string>
-    <string name="slc">Selecciona la cantidad</string>
-    <string name="dlt">Desembolsar&amp;Tarifa</string>
-    <string name="is">Interés</string>
-    <string name="cps">Cargo por servicios</string>
-    <string name="ioo">Iva</string>
-    <string name="mdp">Monto del prestamo</string>
-    <string name="pdr">Programa de reembolso</string>
-    <string name="fdpdtce">Fecha de pago de tu crédito</string>
-    <string name="ap">Aplicar préstamo</string>
-    <string name="eseesc">¡El sistema está evaluando su crédito!</string>
-    <string name="epf">Espere por favor</string>
-    <string name="pcc">:</string>
-    <string name="sg">Siguiente</string>
-    <string name="idc">Información del contacto</string>
-    <string name="cde">Contacto de emergencia</string>
-    <string name="ndt">Número de teléfono</string>
-    <string name="noo">Nombre</string>
-    <string name="roo">Relación</string>
-    <string name="ib">Información básica</string>
-    <string name="ce">Correo electrónico</string>
-    <string name="eg">|E.g:12345678@gmail.com</string>
-    <string name="cpl">Código postal</string>
-    <string name="ceo">Correo electrónico</string>
-    <string name="dc">Dirección completa</string>
-    <string name="nb">NUBE</string>
-    <string name="pfrn">Por favor revise nuestra</string>
-    <string name="adp">&#060;AVISO DE PRIVACIDAD&#062;</string>
-    <string name="ei">Experiencia inmediata</string>
-    <string name="tc">Teléfono copiado</string>
-    <string name="tt">text</string>
-    <string name="bc">Buzón copiado</string>
-    <string name="nc">Nombre copiado</string>
-    <string name="pfslidip">Por favor, suba la información de identidad primero</string>
-    <string name="pfslir">Por favor, suba la información relevante</string>
-    <string name="pfplpn">Por favor, permita los permisos necesarios</string>
-    <string name="setdcb">Seleccione el tipo de cuenta bancaria</string>
-    <string name="pfseb">Por favor, seleccione el Banco</string>
-    <string name="pfiendc">Por favor, introduzca el número de cuenta</string>
-    <string name="pfcendc">Por favor, confirme el número de cuenta</string>
-    <string name="dcd">Dos cuentas diferentes</string>
-    <string name="iendle">Introduzca el nombre de la empresa</string>
-    <string name="pfiendtdle">Por favor, introduzca el número de teléfono de la empresa</string>
-    <string name="se">Selección El primer dia de pago</string>
-    <string name="sesddp">Selección El segundo día de pago</string>
-    <string name="nppcc">No puede ser mayor que el segundo día de pago</string>
-    <string name="pffp">Por favor, elija el primer día de pago</string>
-    <string name="nmmpp">No menos del primer día de pago</string>
-    <string name="pfslc">Por favor, seleccione la cantidad</string>
-    <string name="pfcli">Por favor complete la información</string>
-    <string name="pfploss">Por favor, permita los permisos necesarios</string>
-    <string name="yesdn">Ya existe, seleccione de nuevo</string>
-    <string name="paa">Prompt：</string>
-    <string name="sii">Sí.</string>
-    <string name="nll">No</string>
-
-    <string name="pfiebdc">Por favor, introduzca el buzón de correo</string>
-    <string name="iecp">Introduzca el código postal</string>
-    <string name="pfisd">Por favor, introduzca su dirección</string>
-    <string name="ildc">Introduzca la dirección completa</string>
-    <string name="iebdcc">Introduzca el buzón de correo correcto</string>
-
-    <string name="seoas">Subida exitosa</string>
-
+    <string name="proticol0">"En todo caso, dentro de la jurisdicción en la que la información fue recolectada, archivada, procesada o transmitida, estas entidades también asumen un deber de confidencialidad en el tratamiento de la información y están sujetas a las restricciones legales impuestas al respecto por la legislación aplicable. La información no será utilizada o procesada para fines distintos a los especificados aquí. "</string>
+    <string name="proticol1">"1. El responsable. "</string>
+    <string name="proticol1v0">"FireCréditoLite es el único responsable de la obtención, uso, almacenamiento y divulgación de los datos personales del titular de conformidad con esta Declaración de Privacidad, y es responsable del buen uso, protección y confidencialidad de su información, y en todo momento en cumplimiento de los Principios de Privacidad lícitos. Consentimiento, Información, Calidad, Finalidad, Lealtad, Proporción y Responsabilidad. "</string>
+    <string name="proticol2">"2. Objeto social de FireCréditoLite. "</string>
+    <string name="proticol2v0">"Las actividades consideradas en su objeto social incluyen la administración de cualquier tipo de cartera de crédito, la prestación de servicios de cobranza y concesión de crédito, leasing y factoraje financiero. "</string>
+    <string name="proticol2v1">"I. Presentar datos de transacciones. Para el cumplimiento de su objeto social y para el desarrollo de las finalidades descritas en el primer párrafo de la fracción IV de la presente Declaración de Privacidad, de conformidad con el artículo 3 fracción 5 de la LFPDPPP, FireCréditoLite podrá recabar del Titular los siguientes Datos Personales y Datos Sensibles de conformidad con las circunstancias contenidas en esta Declaración de Privacidad Datos Personales, en lo sucesivo denominados colectivamente como Datos Personales: "</string>
+    <string name="proticol2v2">"2. Datos personales: nombre completo, domicilio, número de móvil, fijo y alternativo, correo electrónico, clave única de registro de población (CURP), lugar y fecha de nacimiento, sexo, estado civil, nacionalidad, domicilio fiscal, INE y sus Datos correspondientes , códigos de votante, información laboral, incluido el tipo de empleo, el empleador y el empleo y los números de teléfono de la escuela. "</string>
+    <string name="proticol3">"FireCréditoLite también recopila información de su dispositivo de comunicación móvil, como cámara y/o álbum de fotos, calendario, contactos, mensajes de texto y/o ubicación, con base en los permisos otorgados por el propietario al ingresar a su cuenta de usuario a través de nuestra aplicación, para una mejora continua. La experiencia de usuario del titular. "</string>
+    <string name="proticol3v1">"Después de revisar varios tipos de datos, ofrecemos préstamos/créditos a los usuarios. Para proporcionar préstamos e informes crediticios, debemos evaluar la elegibilidad de los usuarios accediendo a partes de sus dispositivos móviles, los usuarios deben autorizar a FireCréditoLite a acceder a sus dispositivos, estos permisos incluyen: SMS, Contactos, Almacenamiento y Cámara "</string>
+    <string name="proticol4">") SMS "</string>
+    <string name="proticol4v1">"Recopile y supervise sus SMS para ayudarlo a reducir los riesgos asociados con su aplicación y brindar un servicio personalizado. Y cárguelo encriptado a nuestro servidor https://www.firecreditolite.com/,https://api2.branch.io para verificar y analizar su comportamiento y riesgo para determinar si puede obtener un préstamo para evitar fraudes. "</string>
+    <string name="proticol5">") Número de móvil "</string>
+    <string name="proticol5v1">"También recopilaremos su número de teléfono para ayudar a identificarlo y mantener seguros su cuenta y sus fondos. Una vez que se encuentre una anomalía, congelaremos su cuenta a tiempo y le notificaremos a tiempo. La información del número de teléfono móvil se cifrará y cargará en nuestro servidor, la dirección del servidor es https://www.firecreditolite.com/,https://api2.branch.io, que solo se utiliza para servicios de evaluación de crédito y antifraude. No venderemos, intercambiaremos ni alquilaremos la información de su número de teléfono móvil a ningún tercero. "</string>
+    <string name="proticol6">") Contacto "</string>
+    <string name="proticol6v1">"Los usuarios deben proporcionar contactos de emergencia para el proceso de solicitud de préstamo. Es necesario que accedamos a su información de contacto para análisis de riesgo, determinación de elegibilidad y monto del préstamo, la cual será subida a: https://www.firecreditolite.com/,https://api2.branch.io. "</string>
+    <string name="proticol6v2">"Esta información también se utiliza para la función de llenado automático de información para que la experiencia del usuario sea más cómoda durante el proceso de solicitud. Cuanto mayor sea la credibilidad de la información mencionada, menor será el riesgo asignado al usuario relevante. "</string>
+    <string name="proticol7">") Calendario "</string>
+    <string name="proticol7v1">"Activa recordatorios en tu calendario para recordarte las fechas de pago. "</string>
+    <string name="proticol8">") Almacenamiento "</string>
+    <string name="proticol8v1">"El acceso al almacenamiento de su dispositivo requiere su autorización, lo que le permitirá cargar fotos y/o documentos para completar el formulario de solicitud durante el proceso de solicitud de préstamo. "</string>
+    <string name="proticol9">") Lista de instalación de aplicaciones "</string>
+    <string name="proticol9v1">"Recopilamos información de metadatos para cada aplicación instalada, incluido el nombre de la aplicación, el nombre del paquete, la hora de instalación, la hora de actualización, el nombre de la versión y el código de la versión de cada aplicación instalada en el dispositivo para evaluar su crédito y avisarle con anticipación. Oferta de préstamo personalizada aprobada . Recolectar y monitorear información relacionada con tus capacidades en la aplicación y subirla encriptada a nuestro servidor https://www.firecreditolite.com/,https://api2.branch.io con el fin de verificar y analizar tu comportamiento y riesgos para determinar si puedes obtener Préstamos para prevenir fraudes."</string>
+    <string name="proticol20">" SMS,Contacto,Lista de instalación de aplicaciones"</string>
+    <string name="proticol21">" Contacto "</string>
+    <string name="onLink0">Por favor revise nuestra</string>
+    <string name="onLink1"><![CDATA[<AVISO DE PRIVACIDAD>]]></string>
+    <string name="unInstallWhatApp">No tienes whatsapp instalado</string>
+    <string name="copy_success">"copia exitosa "</string>
+    <string name="message">Fecha de vencimiento del reembolso en efectivo</string>
+    <string name="appendlin">/static/MPsuccess.html</string>
 </resources>
