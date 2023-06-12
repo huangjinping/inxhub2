@@ -1,16 +1,9 @@
 package com.inx.hub;
 
-import com.inx.hub.bean.User;
 import com.inx.hub.callback.Callback;
-import com.inx.hub.callback.SimpleCallBack;
 import com.inx.hub.utils.Converter;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.util.List;
-import java.util.regex.Pattern;
+import java.io.*;
 
 public class start {
 
@@ -23,8 +16,9 @@ public class start {
 //        }
 //        witermessage(buffer.toString(),"shi.java");
 
-        startFile();
+//        startFile();
 //        actiona();
+        copyDir("/Users/huhuijie/Downloads/replace-master_副本", "/Users/huhuijie/Downloads/tes");
 
 
 //        String str1 = "  1R.id.bottom1  R.id.bottom1  R.id.bottom 1R.id.bottom";
@@ -51,12 +45,10 @@ public class start {
 //        });
 
 
-
-
+//        deepCopy();
 
 
     }
-
 
     private static void testview1(Callback callback) {
         String json = "{\n" +
@@ -78,8 +70,57 @@ public class start {
 //                "    \"name\": \"测试\"\n" +
 //                "  }\n" +
 //                "}";
-        Object o = callback.parseNetworkResponse(json, 1);
-        callback.onResponse(o, 1);
+//        Object o = callback.parseNetworkResponse(json, 1);
+//        callback.onResponse(o, 1);
+
+
+    }
+
+
+    public static void copyDir(String sourcePath, String newPath) {
+        System.out.println("dddd");
+        try {
+            (new File(newPath)).mkdirs();
+            // 与mkdir()都创建文件夹 ，mkdirs()如果父文件夹不存在也会创建
+            File fileList = new File(sourcePath);
+            String[] strName = fileList.list();
+            File temp = null;//游标
+            for (int i = 0; i < strName.length; i++) {
+                // 如果源文件路径以分隔符File.separator /或者\结尾那就sourcePath
+                if (sourcePath.endsWith(File.separator)) {
+                    temp = new File(sourcePath + strName[i]);
+                } else {
+                    temp = new File(sourcePath + File.separator + strName[i]);
+                }
+                if (temp.isFile()) {
+                    // 如果游标遇到文件
+                    FileInputStream in = new FileInputStream(temp);
+                    // 复制且改名
+                    File file = new File(newPath + "/" + temp.getName().toString());
+                    FileOutputStream out = new FileOutputStream(file);
+                    byte[] buffer = new byte[1024 * 8];
+                    int length;
+                    while ((length = in.read(buffer)) != -1) {
+
+                        out.write(buffer, 0, length);
+                    }
+                    out.flush();
+                    out.close();
+                    in.close();
+                }
+                // 如果游标遇到文件夹
+                if (temp.isDirectory()) {
+                    copyDir(sourcePath + "/" + strName[i], newPath + "/" + strName[i]);
+                }
+            }
+        } catch (Exception e) {
+            System.out.println("文件夹复制失败!");
+        }
+    }
+
+
+    private static void readFile() {
+
     }
 
 
@@ -97,11 +138,6 @@ public class start {
 //        if (input == null) return null;
 //        return Pattern.compile(regex).matcher(input).replaceAll(replacement);
 //    }
-
-    private static void readFile() {
-
-    }
-
 
     private static void actiona() {
         String line = "Collect contacts’ information to assess your risk and credit score as a part of\n" +
@@ -122,7 +158,6 @@ public class start {
             System.out.println(StringReversal.encode(arr[i]));
         }
     }
-
 
     private static void startsFile() {
         File file = new File("./", "res/shi2");
@@ -150,7 +185,6 @@ public class start {
 
     }
 
-
     private static void startFile() {
         File file = new File("./", "res/shi2");
         StringBuffer buffer = new StringBuffer();
@@ -161,9 +195,9 @@ public class start {
             String line = bufferedReader.readLine();
             while (line != null) {
                 if (line.length() > 0) {
-                            String source=line.trim().toUpperCase();
+                    String source = line.trim().toUpperCase();
 
-                    buffer.append("public static  final  String "+"chburocredito"+source +"= Converter.toMap(\""+ Converter.toMap(line)+ "\");");
+                    buffer.append("public static  final  String " + "chburocredito" + source + "= Converter.toMap(\"" + Converter.toMap(line) + "\");");
 //                    buffer.append("public static  final  String " + line.trim().toUpperCase() + " = AESUtil.decrypt(\"" + AESUtil.encrypt(line, "fc7b85511b89f52afa67f937436d158a") + "\");");
                     buffer.append("\n");
                 }
@@ -179,7 +213,6 @@ public class start {
         witermessage(buffer.toString(), "ApiJson.java");
 
     }
-
 
     private static void witermessage(String source, String fileName) {
         try {
@@ -205,6 +238,27 @@ public class start {
             e.printStackTrace();
         }
 
+
+    }
+
+    private static void deepCopy(File srcFile, String destFile) {
+        System.out.println("deepCopy");
+
+        try {
+            File file = srcFile;
+            InputStream stream = new FileInputStream(file);
+            byte[] content = new byte[(int) file.length()];
+            stream.read(content);
+            stream.close();
+
+            File file2 = new File("file.txt");
+            FileOutputStream fos = new FileOutputStream(file2);
+            fos.write(content);
+            fos.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
     }
 }

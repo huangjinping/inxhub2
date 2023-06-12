@@ -8,22 +8,14 @@ import javax.crypto.spec.SecretKeySpec;
 import java.security.Key;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * @author 作者 E-mail:H@bjut.com
- * @version 创建时间：2015年7月2日 下午5:33:06 类说明
- */
+
 public class AESUtil {
     private static final String KEY_ALGORITHM = "AES";
     private static final String UNICODE_FORMAT = "UTF-8";
     private static final String CIPHER_ALGORITHM = "AES/ECB/PKCS5Padding";
 
-//    private static final String CIPHER_ALGORITHM = "AES/GCM/NoPadding";
-//    private static final String CIPHER_ALGORITHM = "AES/ECB/PKCS7Padding";
-
     public static void main(String[] args) throws Exception {
-//		System.out.println(AESUtil.initkey());
-//		System.out.println(AESUtil.encrypt("/test/testSendSynMsg", "092d9530a9e8ddf3c66450eb54c8ac79"));
-        System.out.println(AESUtil.decrypt("f074836f1a71acb4e48aa4db2e58bcee8b9abeaececaa2ac4b3b62bb98812323", "092d9530a9e8ddf3c66450eb54c8ac79"));
+        System.out.println(AESUtil.decrypt("", ""));
     }
 
 

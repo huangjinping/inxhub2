@@ -1,9 +1,6 @@
 package com.inx.hub;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
+import java.io.*;
 
 public class FileUtils {
 
@@ -34,7 +31,23 @@ public class FileUtils {
 
 
     }
-
+    public static String getTextByPath(String path) {
+        String reader = null;
+        BufferedReader br = null;
+        File f = new File(path);
+        String result = "";
+        if (f.exists()) {
+            try {
+                br = new BufferedReader(new FileReader(f));
+                while ((reader = br.readLine()) != null) {
+                    result += reader;
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        return result;
+    }
 
     public static String readFile(String fileName) {
         File file = new File("./", fileName);

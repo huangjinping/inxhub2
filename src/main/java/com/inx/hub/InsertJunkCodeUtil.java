@@ -518,7 +518,7 @@ public class InsertJunkCodeUtil {
      * @param path
      * @param content
      */
-    private static void writerFile(String path, String content) {
+    public static void writerFile(String path, String content) {
         File file = new File(path);
         FileOutputStream out = null;
         try {
