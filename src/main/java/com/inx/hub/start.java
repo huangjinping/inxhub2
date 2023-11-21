@@ -1,14 +1,45 @@
 package com.inx.hub;
 
+import com.google.gson.Gson;
+import com.inx.hub.bean.Doc;
 import com.inx.hub.callback.Callback;
 import com.inx.hub.utils.Converter;
 
 import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class start {
 
 
     public static void main(String[] args) {
+
+
+
+        String naisdhie="DC:BC:56:26:4F:13:D3:35:C7:0A:52:C8:EE:0D:C8:9C:83:79:E2:1F:0B:32:EF:56:E1:9F:C9:1A:5A:E0:51:54";
+        System.out.println(naisdhie.toLowerCase());
+
+//        List<Doc> docList = new ArrayList<>();
+//        docList.add(new Doc());
+//        docList.add(new Doc());
+//        docList.add(new Doc());
+//        docList.add(new Doc());
+//        docList.add(new Doc());
+//
+//
+//        List<Doc> mesgs = new ArrayList<>();
+//        mesgs = docList.subList(0, 4);
+//        Gson gson = new Gson();
+//        System.out.println(gson.toJson(mesgs));
+//
+//        try {
+//
+//        }catch (Exception E){
+//            E.printStackTrace();
+//        }finally {
+//
+//        }
+
 //        String[] mesg={"1","2","3","4"};
 //        StringBuffer buffer=new StringBuffer();
 //        for (int i = 0; i < mesg.length; i++) {
@@ -16,9 +47,11 @@ public class start {
 //        }
 //        witermessage(buffer.toString(),"shi.java");
 
+//        Calendar calendar=Calendar.getInstance();
+
 //        startFile();
 //        actiona();
-        copyDir("/Users/huhuijie/Downloads/replace-master_副本", "/Users/huhuijie/Downloads/tes");
+//        copyDir("/Users/huhuijie/Documents/git/indexmodel2023", "/Users/huhuijie/Downloads/jsonmode");
 
 
 //        String str1 = "  1R.id.bottom1  R.id.bottom1  R.id.bottom 1R.id.bottom";

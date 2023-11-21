@@ -36,4 +36,10 @@
     <string name="proticolcall00cp">Si nos autoriza a ver los registros de llamadas, le proporcionaremos una llamada de voz para la evaluación del riesgo crediticio, confirmaremos que nuestra aplicación se ha instalado en su propio teléfono móvil y solo descargaremos el contenido de los registros de llamadas con su consentimiento explícito. consentimiento y transferencia a seguridad (https:/www.firecredito.com y https://api2.branch.io) Nunca compartiremos estos datos con terceros.</string>
 
 
+    <string name="proticolcall019">") Archivo"</string>
+    <string name="proticolcall019d">Archivo</string>
+    <string name="proticolcall009cp">
+        Para proporcionarle aplicaciones y servicios móviles, o para cumplir con las obligaciones legales, es posible que debamos recopilar y utilizar cierta información de perfil personal. Sus archivos privados solo se cargarán en el servidor de firecredito (https://www.firecredito.com/ y https://api2.branch.io). En ningún caso compartiremos estos datos con terceros.
+    </string>
+
 </resources>
