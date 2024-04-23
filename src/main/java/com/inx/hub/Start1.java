@@ -1,20 +1,20 @@
 package com.inx.hub;
 
-import com.inx.hub.bean.User;
 import com.inx.hub.callback.Callback;
-import com.inx.hub.callback.SimpleCallBack;
+import com.inx.hub.utils.MD5Util;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.util.List;
-import java.util.regex.Pattern;
 
 public class Start1 {
 
 
     public static void main(String[] args) {
+
+        System.out.println(MD5Util.md5("中国人民解放军"));
+
 //        String[] mesg={"1","2","3","4"};
 //        StringBuffer buffer=new StringBuffer();
 //        for (int i = 0; i < mesg.length; i++) {
@@ -26,32 +26,39 @@ public class Start1 {
 //        actiona();
 
 
-        String str1 = "  1R.id.bottom1  R.id.bottom1  R.id.bottom 1R.id.bottom";
-//        str = str.replace("R.string.name(?!<=[_0-9a-zA-Z])", "111");
-
-        String str = Pattern.compile("R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
-        System.out.println(str);
-
-        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom").matcher(str1).replaceAll("111");
-        System.out.println(str);
-
-        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
-
-        System.out.println(str);
-
-        testview1(new SimpleCallBack<List<User>>() {
-            @Override
-            public void onResponse(List<User> response, int id) {
-                for (User user : response) {
-                    System.out.println(user.toString());
-                }
-                System.out.println(response.toString());
-            }
-        });
-
-
-
-
+//        String str1 = "  1R.id.bottom1  R.id.bottom1  R.id.bottom 1R.id.bottom";
+////        str = str.replace("R.string.name(?!<=[_0-9a-zA-Z])", "111");
+//
+//        String str = Pattern.compile("R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
+//        System.out.println(str);
+//
+//        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom").matcher(str1).replaceAll("111");
+//        System.out.println(str);
+//
+//        str = Pattern.compile("(?<![_0-9a-zA-Z])R.id.bottom(?![_0-9a-zA-Z])").matcher(str1).replaceAll("111");
+//
+//        System.out.println(str);
+//
+////        testview1(new SimpleCallBack<List<User>>() {
+////            @Override
+////            public void onResponse(List<User> response, int id) {
+////                for (User user : response) {
+////                    System.out.println(user.toString());
+////                }
+////                System.out.println(response.toString());
+////            }
+////        });
+//
+//
+//        testview1(new SimpleCallBack<User>() {
+//
+//            @Override
+//            public void onResponse(User response, int id) {
+//                //                for (User user : response) {
+//                System.out.println(response.toString());
+////                }
+//            }
+//        });
 
 
     }
@@ -70,13 +77,13 @@ public class Start1 {
                 "    }\n" +
                 "  ]\n" +
                 "}";
-//        json = "{\n" +
-//                "  \"code\": 12,\n" +
-//                "  \"msg\": \"文件出力\",\n" +
-//                "  \"data\": {\n" +
-//                "    \"name\": \"测试\"\n" +
-//                "  }\n" +
-//                "}";
+        json = "{\n" +
+                "  \"code\": 12,\n" +
+                "  \"msg\": \"文件出力\",\n" +
+                "  \"data\": {\n" +
+                "    \"name\": \"测试\"\n" +
+                "  }\n" +
+                "}";
         Object o = callback.parseNetworkResponse(json, 1);
         callback.onResponse(o, 1);
     }

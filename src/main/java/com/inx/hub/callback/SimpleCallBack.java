@@ -4,11 +4,7 @@ import com.inx.hub.bean.ApiResult;
 import com.inx.hub.json.ApiResultFunc;
 import com.inx.hub.json.CallBackProxy;
 
-/**
- * @Author huangjinping1000@163.com
- * @Description
- * @Date 12/15/21
- **/
+
 
 public abstract class SimpleCallBack<T> extends Callback<T> {
 
