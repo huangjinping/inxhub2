@@ -1,23 +1,21 @@
 package com.inx.hub;
 
-import com.google.gson.Gson;
-import com.inx.hub.bean.Doc;
 import com.inx.hub.callback.Callback;
 import com.inx.hub.utils.Converter;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
 
 public class start {
 
 
     public static void main(String[] args) {
 
+        String data = "182.";
+        double v = Double.parseDouble(data);
+        System.out.println("========" + v);
 
-
-        String naisdhie="DC:BC:56:26:4F:13:D3:35:C7:0A:52:C8:EE:0D:C8:9C:83:79:E2:1F:0B:32:EF:56:E1:9F:C9:1A:5A:E0:51:54";
-        System.out.println(naisdhie.toLowerCase());
+//        String naisdhie="DC:BC:56:26:4F:13:D3:35:C7:0A:52:C8:EE:0D:C8:9C:83:79:E2:1F:0B:32:EF:56:E1:9F:C9:1A:5A:E0:51:54";
+//        System.out.println(naisdhie.toLowerCase());
 
 //        List<Doc> docList = new ArrayList<>();
 //        docList.add(new Doc());
