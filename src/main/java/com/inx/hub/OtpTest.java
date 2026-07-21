@@ -7,6 +7,22 @@ import com.amdelamar.jotp.type.Type;
 public class OtpTest {
 
     public static void main(String[] args) {
+
+
+
+        String asd="{\n" +
+                "  \"ip\": \"1\",\n" +
+                "  \"deviceId\": \"1\",\n" +
+                "  \"uuid\": \"1\",\n" +
+                "  \"ip\": \"1\",\n" +
+                "  \"mobile_language\": \"1\",\n" +
+                "  \"os_version\": \"1\",\n" +
+                "  \"equipmentBrand\": \"1\",\n" +
+                "  \"equipmentType\": \"1\",\n" +
+                "  \"user_agent\": \"1\",\n" +
+                "  \"gaid\": \"1\"\n" +
+                "}";
+
       try {
           String hexTime = OTP.timeInHex(System.currentTimeMillis(), 30);
           String secret = "CPM3B6NAVUDGVWDM";

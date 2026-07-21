@@ -1,7 +1,8 @@
 package com.inx.hub;
 
 import com.google.gson.Gson;
-import com.inx.hub.bigJson.app9002.DarkCounterRudeInterest;
+import com.inx.hub.bigJson.app466.FriedAuthorFastKnowledge;
+import com.inx.hub.bigJson.app466.PinkFenceCentigradeEffort;
 
 public class AppJsonMain {
 
@@ -22,11 +23,22 @@ public class AppJsonMain {
 //        System.out.println(android.length()+"=========AppJson=======" + android.length());
 
 
-        String textByPath = FileUtils.getTextByPath("/Users/huhuijie/Documents/GitHub/inxhub2/json/9002.json");
-        System.out.println("=========AppJson====0===" + textByPath);
+//        String textByPath = FileUtils.getTextByPath("/Users/huhuijie/Documents/GitHub/inxhub2/json/9002.json");
+//        System.out.println("=========AppJson====0===" + textByPath);
+//        Gson gson = new Gson();
+//        DarkCounterRudeInterest tightNestHumorousPrinting = gson.fromJson(textByPath, DarkCounterRudeInterest.class);
+
+
+//        System.out.println("=========AppJson====1===" + tightNestHumorousPrinting.toString());
+
+        PinkFenceCentigradeEffort pinkFenceCentigradeEffort = new PinkFenceCentigradeEffort();
+        FriedAuthorFastKnowledge author=new FriedAuthorFastKnowledge();
+
+        pinkFenceCentigradeEffort.setFriedAuthorFastKnowledge(author);
+
         Gson gson = new Gson();
-        DarkCounterRudeInterest tightNestHumorousPrinting = gson.fromJson(textByPath, DarkCounterRudeInterest.class);
-        System.out.println("=========AppJson====1===" + tightNestHumorousPrinting.toString());
+        System.out.println(gson.toJson(pinkFenceCentigradeEffort));
+
 
     }
 }

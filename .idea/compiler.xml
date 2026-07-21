@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.inx.hub2" />
+        <module name="inxhub2" />
       </profile>
     </annotationProcessing>
   </component>
